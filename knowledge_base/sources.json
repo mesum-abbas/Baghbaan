@@ -1,0 +1,109 @@
+[
+  {
+    "source_id": "PLSRC001",
+    "plant_id": "PLANT001",
+    "plant_name": "Money Plant",
+    "url": "https://hgic.clemson.edu/factsheet/how-to-grow-pothos-indoors-epipremnum-spp-care-cultivars-and-common-problems/",
+    "topics": [
+      "watering",
+      "light",
+      "soil",
+      "yellow_leaves",
+      "brown_leaf_tips",
+      "pests",
+      "root_rot"
+    ]
+  },
+  {
+    "source_id": "PLSRC002",
+    "plant_id": "PLANT002",
+    "plant_name": "Snake Plant",
+    "url": "https://extension.psu.edu/snake-plant-a-forgiving-low-maintenance-houseplant/",
+    "topics": [
+      "watering",
+      "light",
+      "soil",
+      "temperature",
+      "yellow_leaves",
+      "wilting",
+      "root_rot"
+    ],
+    "organization": "Penn State Extension",
+    "title": "Snake Plant: A Forgiving, Low-Maintenance Houseplant"
+  },
+  {
+    "source_id": "PLSRC003",
+    "plant_id": "PLANT003",
+    "plant_name": "Aloe Vera",
+    "url": "https://extension.sdstate.edu/aloe-vera-houseplant-how",
+    "topics": [
+      "watering",
+      "light",
+      "soil",
+      "temperature",
+      "yellow_leaves",
+      "brown_spots",
+      "pests"
+    ]
+  },
+  {
+    "source_id": "PLSRC004",
+    "plant_id": "PLANT004",
+    "plant_name": "Spider Plant",
+    "url": "https://hgic.clemson.edu/factsheet/spider-plant/",
+    "topics": [
+      "watering",
+      "light",
+      "soil",
+      "brown_leaf_tips",
+      "root_rot",
+      "pests",
+      "slow_growth"
+    ]
+  },
+  {
+    "source_id": "PLSRC005",
+    "plant_id": "PLANT005",
+    "plant_name": "Peace Lily",
+    "url": "https://hgic.clemson.edu/factsheet/peace-lily/",
+    "topics": [
+      "watering",
+      "light",
+      "soil",
+      "yellow_leaves",
+      "brown_leaf_tips",
+      "wilting",
+      "pests"
+    ]
+  },
+  {
+    "source_id": "PLSRC006",
+    "plant_id": "SHARED",
+    "plant_name": "All Supported Plants",
+    "organization": "Clemson Cooperative Extension",
+    "title": "Indoor Plants - Watering",
+    "url": "https://hgic.clemson.edu/factsheet/indoor-plants-watering/",
+    "topics": [
+      "watering",
+      "wilting",
+      "root_rot",
+      "yellow_leaves"
+    ]
+  },
+  {
+    "source_id": "PLSRC007",
+    "plant_id": "SHARED",
+    "plant_name": "All Supported Plants",
+    "organization": "Clemson Cooperative Extension",
+    "title": "Houseplant Diseases and Disorders",
+    "url": "https://hgic.clemson.edu/factsheet/houseplant-diseases-disorders/",
+    "topics": [
+      "leaf_spots",
+      "pests",
+      "wilting",
+      "yellow_leaves",
+      "brown_leaf_tips",
+      "slow_growth"
+    ]
+  }
+]

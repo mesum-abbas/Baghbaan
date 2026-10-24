@@ -1,0 +1,3619 @@
+[
+  {
+    "fact_id": "FACT00007",
+    "plant_id": "PLANT001",
+    "plant_name": "Money Plant",
+    "candidate_text": "Only after closer observation of the entirety of the plant, including the leaves and growth patterns, did researchers again separate it from E. pinnatum , and classify it as E. aureum .",
+    "topic_candidates": [
+      "growth",
+      "leaves"
+    ],
+    "source_url": "https://en.wikipedia.org/wiki/Epipremnum_aureum",
+    "source_type": "Wikipedia",
+    "source_id": "",
+    "context": "Epipremnum aureum",
+    "content_hash": "0e408f8933a263fbce23c2e97ff4fd175253ea06da6e4b3955f23fe7afc97926",
+    "review_status": "needs_verification",
+    "verification_notes": "",
+    "approved_for_knowledge_base": false,
+    "filter_status": "needs_manual_review"
+  },
+  {
+    "fact_id": "FACT00011",
+    "plant_id": "PLANT001",
+    "plant_name": "Money Plant",
+    "candidate_text": "However, it is far more efficient to simply multiply an existing plant by dividing it; the species is well known for its ease of propagation via vegetative growth, developing roots rapidly through cuttings, either rooted in water or grown directly in a well-aerated substrate, such as perlite mixed with vermiculite , or even sphagnum moss .",
+    "topic_candidates": [
+      "growth",
+      "propagation",
+      "root",
+      "water"
+    ],
+    "source_url": "https://en.wikipedia.org/wiki/Epipremnum_aureum",
+    "source_type": "Wikipedia",
+    "source_id": "",
+    "context": "Epipremnum aureum",
+    "content_hash": "46f2e768dd90162def7c479c9de8ad5bf60954bf4104626da175eb81d917e208",
+    "review_status": "needs_verification",
+    "verification_notes": "",
+    "approved_for_knowledge_base": false,
+    "filter_status": "needs_manual_review"
+  },
+  {
+    "fact_id": "FACT00013",
+    "plant_id": "PLANT001",
+    "plant_name": "Money Plant",
+    "candidate_text": "Cultivation and uses E. aureum in a small glass vase In temperate regions, it is a popular houseplant with numerous cultivars selected for leaves with white, yellow, or light green variegation.",
+    "topic_candidates": [
+      "leaves",
+      "light",
+      "yellow"
+    ],
+    "source_url": "https://en.wikipedia.org/wiki/Epipremnum_aureum",
+    "source_type": "Wikipedia",
+    "source_id": "",
+    "context": "Epipremnum aureum",
+    "content_hash": "138057ab5780f26ba758a8a24238effe1254f110b0224cf6b8772449eca757b1",
+    "review_status": "needs_verification",
+    "verification_notes": "",
+    "approved_for_knowledge_base": false,
+    "filter_status": "needs_manual_review"
+  },
+  {
+    "fact_id": "FACT00015",
+    "plant_id": "PLANT001",
+    "plant_name": "Money Plant",
+    "candidate_text": "Generally, the plant will only need watering when the soil feels dry to the touch (typically once every one to two weeks).",
+    "topic_candidates": [
+      "soil",
+      "water",
+      "watering"
+    ],
+    "source_url": "https://en.wikipedia.org/wiki/Epipremnum_aureum",
+    "source_type": "Wikipedia",
+    "source_id": "",
+    "context": "Epipremnum aureum",
+    "content_hash": "9dd21bfb4b7c1b943f831511d4b17470c63942053abdea82b63e23628a7b6d5d",
+    "review_status": "needs_verification",
+    "verification_notes": "",
+    "approved_for_knowledge_base": false,
+    "filter_status": "needs_manual_review"
+  },
+  {
+    "fact_id": "FACT00019",
+    "plant_id": "PLANT001",
+    "plant_name": "Money Plant",
+    "candidate_text": "It can be cultivated from a cutting, however, this can carry various diseases such as Erwinia leaf spot , Pythium root rot , Rhizoctonia root rot (Rhizoctonia foot rot), Pseudomonas leaf spot , Southern blight , and Xanthomonas blight .",
+    "topic_candidates": [
+      "disease",
+      "light",
+      "pot",
+      "root",
+      "root rot"
+    ],
+    "source_url": "https://en.wikipedia.org/wiki/Epipremnum_aureum",
+    "source_type": "Wikipedia",
+    "source_id": "",
+    "context": "Epipremnum aureum",
+    "content_hash": "3ad72ea188452f3ebb0683e21653e8657c3a08cb073469a0c15140be20db082f",
+    "review_status": "needs_verification",
+    "verification_notes": "",
+    "approved_for_knowledge_base": false,
+    "filter_status": "needs_manual_review"
+  },
+  {
+    "fact_id": "FACT00021",
+    "plant_id": "PLANT001",
+    "plant_name": "Money Plant",
+    "candidate_text": "The Global Green and Jessenia varieties have green leaves with green to yellow variegation.",
+    "topic_candidates": [
+      "leaves",
+      "yellow"
+    ],
+    "source_url": "https://en.wikipedia.org/wiki/Epipremnum_aureum",
+    "source_type": "Wikipedia",
+    "source_id": "",
+    "context": "Epipremnum aureum",
+    "content_hash": "b63e8b3190947593c2af2eaccb5e5a845ed9807e982a99d2dbb4ba74556bfad6",
+    "review_status": "needs_verification",
+    "verification_notes": "",
+    "approved_for_knowledge_base": false,
+    "filter_status": "needs_manual_review"
+  },
+  {
+    "fact_id": "FACT00025",
+    "plant_id": "PLANT001",
+    "plant_name": "Money Plant",
+    "candidate_text": "The Neon variety has a bright yellow to chartreuse color.",
+    "topic_candidates": [
+      "yellow"
+    ],
+    "source_url": "https://en.wikipedia.org/wiki/Epipremnum_aureum",
+    "source_type": "Wikipedia",
+    "source_id": "",
+    "context": "Epipremnum aureum",
+    "content_hash": "969fceb8bb14131219c425af8af73e92c1b74a40c9f5e1077eb46fe98f0eb0dc",
+    "review_status": "needs_verification",
+    "verification_notes": "",
+    "approved_for_knowledge_base": false,
+    "filter_status": "needs_manual_review"
+  },
+  {
+    "fact_id": "FACT00030",
+    "plant_id": "PLANT001",
+    "plant_name": "Money Plant",
+    "candidate_text": "Symptoms may include oral irritation, vomiting, and difficulty in swallowing.",
+    "topic_candidates": [
+      "symptom"
+    ],
+    "source_url": "https://en.wikipedia.org/wiki/Epipremnum_aureum",
+    "source_type": "Wikipedia",
+    "source_id": "",
+    "context": "Epipremnum aureum",
+    "content_hash": "7c9dededb6f27a6562e178b9a88b5052e16837eaa933b90365a697f50e51640a",
+    "review_status": "needs_verification",
+    "verification_notes": "",
+    "approved_for_knowledge_base": false,
+    "filter_status": "needs_manual_review"
+  },
+  {
+    "fact_id": "FACT00033",
+    "plant_id": "PLANT001",
+    "plant_name": "Money Plant",
+    "candidate_text": "It was included in the Florida Exotic Pest Control Council's 1999 list of invasive species.",
+    "topic_candidates": [
+      "pest"
+    ],
+    "source_url": "https://en.wikipedia.org/wiki/Epipremnum_aureum",
+    "source_type": "Wikipedia",
+    "source_id": "",
+    "context": "Epipremnum aureum",
+    "content_hash": "e5633cf111f7f483b2afc9b0f31dee427c8667a465bd29c3e3c77ce501eca161",
+    "review_status": "needs_verification",
+    "verification_notes": "",
+    "approved_for_knowledge_base": false,
+    "filter_status": "needs_manual_review"
+  },
+  {
+    "fact_id": "FACT00036",
+    "plant_id": "PLANT001",
+    "plant_name": "Money Plant",
+    "candidate_text": "Solomon described the film as a cautionary tale about overwatering a pothos plant.",
+    "topic_candidates": [
+      "overwater",
+      "pot",
+      "water",
+      "watering"
+    ],
+    "source_url": "https://en.wikipedia.org/wiki/Epipremnum_aureum",
+    "source_type": "Wikipedia",
+    "source_id": "",
+    "context": "Epipremnum aureum",
+    "content_hash": "ee87a70450ba7b69e08bdf910ccb82857da70a2b525b1158ae07ab0be4454b0d",
+    "review_status": "needs_verification",
+    "verification_notes": "",
+    "approved_for_knowledge_base": false,
+    "filter_status": "needs_manual_review"
+  },
+  {
+    "fact_id": "FACT00040",
+    "plant_id": "PLANT001",
+    "plant_name": "Money Plant",
+    "candidate_text": "Gallery Foliage and stems adults Climbing a Roystonea oleracea Young leaf growth Trailing on a wall References ^ a b c \" Epipremnum aureum (Linden & André) G.S.Bunting\" .",
+    "topic_candidates": [
+      "growth"
+    ],
+    "source_url": "https://en.wikipedia.org/wiki/Epipremnum_aureum",
+    "source_type": "Wikipedia",
+    "source_id": "",
+    "context": "Epipremnum aureum",
+    "content_hash": "787b98697bc27c3e0a4f40bece6a80241b1bcb92613fb8965b155461094887a2",
+    "review_status": "needs_verification",
+    "verification_notes": "",
+    "approved_for_knowledge_base": false,
+    "filter_status": "needs_manual_review"
+  },
+  {
+    "fact_id": "FACT00056",
+    "plant_id": "PLANT002",
+    "plant_name": "Snake Plant",
+    "candidate_text": "Mature leaves are dark green with light gray-green cross-banding and usually range from 70–90 centimetres (2.3–3.0 ft) long and 5–6 centimetres (2.0–2.4 in) wide, though it can reach heights above 2 m (6 ft) in optimal conditions.",
+    "topic_candidates": [
+      "leaves",
+      "light"
+    ],
+    "source_url": "https://en.wikipedia.org/wiki/Dracaena_trifasciata",
+    "source_type": "Wikipedia",
+    "source_id": "",
+    "context": "Dracaena trifasciata",
+    "content_hash": "47dc2f5369984f49607e0a5b5e376f67243810ecefd016170a4aab1d2c0dd671",
+    "review_status": "needs_verification",
+    "verification_notes": "",
+    "approved_for_knowledge_base": false,
+    "filter_status": "needs_manual_review"
+  },
+  {
+    "fact_id": "FACT00059",
+    "plant_id": "PLANT002",
+    "plant_name": "Snake Plant",
+    "candidate_text": "It is popular as a houseplant because it is tolerant of low light levels and irregular watering; during winter, it needs only one watering every few months.",
+    "topic_candidates": [
+      "light",
+      "water",
+      "watering"
+    ],
+    "source_url": "https://en.wikipedia.org/wiki/Dracaena_trifasciata",
+    "source_type": "Wikipedia",
+    "source_id": "",
+    "context": "Dracaena trifasciata",
+    "content_hash": "2bfbd50fd1efbac4dc6cc87dd49dd884b4a7d746e36e5d1b64b003136ed38464",
+    "review_status": "needs_verification",
+    "verification_notes": "",
+    "approved_for_knowledge_base": false,
+    "filter_status": "needs_manual_review"
+  },
+  {
+    "fact_id": "FACT00064",
+    "plant_id": "PLANT002",
+    "plant_name": "Snake Plant",
+    "candidate_text": "Cultural significance In its native range in Africa, Dracaena trifasciata specimens with yellow stripes on the leaf margins are associated with Ọya , the female orisha of storms.",
+    "topic_candidates": [
+      "yellow"
+    ],
+    "source_url": "https://en.wikipedia.org/wiki/Dracaena_trifasciata",
+    "source_type": "Wikipedia",
+    "source_id": "",
+    "context": "Dracaena trifasciata",
+    "content_hash": "8bb7a15bfcce4ad6e8902c6c01ea6de24e85f3dc4bb074b704d942388ccb2d3f",
+    "review_status": "needs_verification",
+    "verification_notes": "",
+    "approved_for_knowledge_base": false,
+    "filter_status": "needs_manual_review"
+  },
+  {
+    "fact_id": "FACT00065",
+    "plant_id": "PLANT002",
+    "plant_name": "Snake Plant",
+    "candidate_text": "Some yellow-edged varieties of D. trifasciata are called espada de Santa-Bárbara (\"Sword of Saint Barbara \") and are associated with Iansã , the Umbanda name for Ọya, Saint Barbara's syncretic orisha pair.",
+    "topic_candidates": [
+      "yellow"
+    ],
+    "source_url": "https://en.wikipedia.org/wiki/Dracaena_trifasciata",
+    "source_type": "Wikipedia",
+    "source_id": "",
+    "context": "Dracaena trifasciata",
+    "content_hash": "e490e5bc35be12ab6c88a97ee9163110183b62d52e716acd4c74c484d7c14689",
+    "review_status": "needs_verification",
+    "verification_notes": "",
+    "approved_for_knowledge_base": false,
+    "filter_status": "needs_manual_review"
+  },
+  {
+    "fact_id": "FACT00071",
+    "plant_id": "PLANT003",
+    "plant_name": "Aloe Vera",
+    "candidate_text": "Aloe vera acemannan may be used in skin lotions, cosmetics , ointments, and gels for minor burns, skin abrasions , insect bites, and windburn .",
+    "topic_candidates": [
+      "insect"
+    ],
+    "source_url": "https://en.wikipedia.org/wiki/Aloe_vera",
+    "source_type": "Wikipedia",
+    "source_id": "",
+    "context": "Aloe vera",
+    "content_hash": "b2a2104df5209c396d9c7dfdd0dfd2d410516a4167dd39e71989eb68f3f9b7c1",
+    "review_status": "needs_verification",
+    "verification_notes": "",
+    "approved_for_knowledge_base": false,
+    "filter_status": "needs_manual_review"
+  },
+  {
+    "fact_id": "FACT00076",
+    "plant_id": "PLANT003",
+    "plant_name": "Aloe Vera",
+    "candidate_text": "Each flower is pendulous with a yellow tubular corolla 2–3 cm ( 3 ⁄ 4 – 1 + 1 ⁄ 4 in) long.",
+    "topic_candidates": [
+      "yellow"
+    ],
+    "source_url": "https://en.wikipedia.org/wiki/Aloe_vera",
+    "source_type": "Wikipedia",
+    "source_id": "",
+    "context": "Aloe vera",
+    "content_hash": "b3d473048008ef5d7d29242fff1cad4837a293f966347f59004002b4cfdb7a0a",
+    "review_status": "needs_verification",
+    "verification_notes": "",
+    "approved_for_knowledge_base": false,
+    "filter_status": "needs_manual_review"
+  },
+  {
+    "fact_id": "FACT00077",
+    "plant_id": "PLANT003",
+    "plant_name": "Aloe Vera",
+    "candidate_text": "Roots Like other Aloe species, Aloe vera forms arbuscular mycorrhiza , a root symbiosis that allows the plant better access to mineral nutrients in the soil.",
+    "topic_candidates": [
+      "nutrient",
+      "root",
+      "soil"
+    ],
+    "source_url": "https://en.wikipedia.org/wiki/Aloe_vera",
+    "source_type": "Wikipedia",
+    "source_id": "",
+    "context": "Aloe vera",
+    "content_hash": "893bc9b8122ab88709291509b18980bd5222bf15c9c8158ca779596547fd4b02",
+    "review_status": "needs_verification",
+    "verification_notes": "",
+    "approved_for_knowledge_base": false,
+    "filter_status": "needs_manual_review"
+  },
+  {
+    "fact_id": "FACT00079",
+    "plant_id": "PLANT003",
+    "plant_name": "Aloe Vera",
+    "candidate_text": "The species is relatively resistant to most insect pests, though spider mites , mealy bugs , scale insects , and aphid species may cause a decline in plant health.",
+    "topic_candidates": [
+      "insect",
+      "mite",
+      "pest"
+    ],
+    "source_url": "https://en.wikipedia.org/wiki/Aloe_vera",
+    "source_type": "Wikipedia",
+    "source_id": "",
+    "context": "Aloe vera",
+    "content_hash": "9405732598659b6a40f3e8240cb93aaf4d084997d69d43d8ecd72aab72c5336e",
+    "review_status": "needs_verification",
+    "verification_notes": "",
+    "approved_for_knowledge_base": false,
+    "filter_status": "needs_manual_review"
+  },
+  {
+    "fact_id": "FACT00081",
+    "plant_id": "PLANT003",
+    "plant_name": "Aloe Vera",
+    "candidate_text": "The use of a good-quality commercial propagation aoil mix or packaged \"cacti and succulent mix\" is recommended, as they allow for good drainage.",
+    "topic_candidates": [
+      "drainage",
+      "propagation"
+    ],
+    "source_url": "https://en.wikipedia.org/wiki/Aloe_vera",
+    "source_type": "Wikipedia",
+    "source_id": "",
+    "context": "Aloe vera",
+    "content_hash": "0cce6c2ff5f3e4d8f5376850d98ce8c4c6298cb8ebdf3e7d0a18f2f1a9129913",
+    "review_status": "needs_verification",
+    "verification_notes": "",
+    "approved_for_knowledge_base": false,
+    "filter_status": "needs_manual_review"
+  },
+  {
+    "fact_id": "FACT00083",
+    "plant_id": "PLANT003",
+    "plant_name": "Aloe Vera",
+    "candidate_text": "Potted plants should be allowed to dry completely before watering.",
+    "topic_candidates": [
+      "pot",
+      "water",
+      "watering"
+    ],
+    "source_url": "https://en.wikipedia.org/wiki/Aloe_vera",
+    "source_type": "Wikipedia",
+    "source_id": "",
+    "context": "Aloe vera",
+    "content_hash": "9fd16bcb3e05f1b9969b9ab068246d1454463717a241767a781835e8809f7a41",
+    "review_status": "needs_verification",
+    "verification_notes": "",
+    "approved_for_knowledge_base": false,
+    "filter_status": "needs_manual_review"
+  },
+  {
+    "fact_id": "FACT00085",
+    "plant_id": "PLANT003",
+    "plant_name": "Aloe Vera",
+    "candidate_text": "Overcrowded plants can be divided and repotted to allow room for further growth, or the pups can be left with the mother plant.",
+    "topic_candidates": [
+      "growth",
+      "pot",
+      "repot"
+    ],
+    "source_url": "https://en.wikipedia.org/wiki/Aloe_vera",
+    "source_type": "Wikipedia",
+    "source_id": "",
+    "context": "Aloe vera",
+    "content_hash": "f96a94f7afd9b4fc3641c4f5b2f31c0aa7231733a4b81a82e4de3903295d2343",
+    "review_status": "needs_verification",
+    "verification_notes": "",
+    "approved_for_knowledge_base": false,
+    "filter_status": "needs_manual_review"
+  },
+  {
+    "fact_id": "FACT00087",
+    "plant_id": "PLANT003",
+    "plant_name": "Aloe Vera",
+    "candidate_text": "Uses Two substances from Aloe vera – a clear gel and its yellow latex – are used to manufacture commercial products.",
+    "topic_candidates": [
+      "yellow"
+    ],
+    "source_url": "https://en.wikipedia.org/wiki/Aloe_vera",
+    "source_type": "Wikipedia",
+    "source_id": "",
+    "context": "Aloe vera",
+    "content_hash": "4108448b883245a3ccf3af3642b7ed1e2b4d6898bb6026866ba6549427b66903",
+    "review_status": "needs_verification",
+    "verification_notes": "",
+    "approved_for_knowledge_base": false,
+    "filter_status": "needs_manual_review"
+  },
+  {
+    "fact_id": "FACT00088",
+    "plant_id": "PLANT003",
+    "plant_name": "Aloe Vera",
+    "candidate_text": "Topical use of aloe products may relieve symptoms of certain skin disorders like psoriasis , acne , or rashes , but it may also cause an allergic reaction in some people. [ needs update ] Aloe vera gel is used commercially as an ingredient in yogurts , beverages, and some desserts, but ingesting aloe latex or whole leaf extract at high or prolonged doses can be toxic.",
+    "topic_candidates": [
+      "symptom",
+      "toxic"
+    ],
+    "source_url": "https://en.wikipedia.org/wiki/Aloe_vera",
+    "source_type": "Wikipedia",
+    "source_id": "",
+    "context": "Aloe vera",
+    "content_hash": "8a6df4fdd706e781272c929d257f280c39dcb987821fd51787080a179b35adfe",
+    "review_status": "needs_verification",
+    "verification_notes": "",
+    "approved_for_knowledge_base": false,
+    "filter_status": "needs_manual_review"
+  },
+  {
+    "fact_id": "FACT00095",
+    "plant_id": "PLANT003",
+    "plant_name": "Aloe Vera",
+    "candidate_text": "Interactions with prescribed drugs Ingested aloe products may have adverse interactions with prescription drugs , such as those used to treat blood clots , diabetes , heart disease and potassium -lowering agents (such as digoxin ), and diuretics , among others.",
+    "topic_candidates": [
+      "disease",
+      "pot"
+    ],
+    "source_url": "https://en.wikipedia.org/wiki/Aloe_vera",
+    "source_type": "Wikipedia",
+    "source_id": "",
+    "context": "Aloe vera",
+    "content_hash": "9f386cf9628013e0cb66745162311aec3c05e734f692914912c950f7d6042de7",
+    "review_status": "needs_verification",
+    "verification_notes": "",
+    "approved_for_knowledge_base": false,
+    "filter_status": "needs_manual_review"
+  },
+  {
+    "fact_id": "FACT00103",
+    "plant_id": "PLANT003",
+    "plant_name": "Aloe Vera",
+    "candidate_text": "Retrieved 11 July 2008 . ^ \"Pest Alert: Aloe vera aphid Aloephagus myersi Essi\" .",
+    "topic_candidates": [
+      "pest"
+    ],
+    "source_url": "https://en.wikipedia.org/wiki/Aloe_vera",
+    "source_type": "Wikipedia",
+    "source_id": "",
+    "context": "Aloe vera",
+    "content_hash": "662fe4c18d2c391e5ed8e339dc793f40b4ee80e3f7ef79798cd78ca1d8cdcfb2",
+    "review_status": "needs_verification",
+    "verification_notes": "",
+    "approved_for_knowledge_base": false,
+    "filter_status": "needs_manual_review"
+  },
+  {
+    "fact_id": "FACT00109",
+    "plant_id": "PLANT004",
+    "plant_name": "Spider Plant",
+    "candidate_text": "Each flower has six triply veined tepals that are 6–9 mm (0.2–0.4 in) long and slightly hooded or boat-shaped at their tips.",
+    "topic_candidates": [
+      "light"
+    ],
+    "source_url": "https://en.wikipedia.org/wiki/Chlorophytum_comosum",
+    "source_type": "Wikipedia",
+    "source_id": "",
+    "context": "Chlorophytum comosum",
+    "content_hash": "6b3811543e4973d4d017e682af78b994afa559f7b48b421e0620c22f0de3eec3",
+    "review_status": "needs_verification",
+    "verification_notes": "",
+    "approved_for_knowledge_base": false,
+    "filter_status": "needs_manual_review"
+  },
+  {
+    "fact_id": "FACT00110",
+    "plant_id": "PLANT004",
+    "plant_name": "Spider Plant",
+    "candidate_text": "The stamens consist of a pollen -producing anther about 3.5 mm (0.1 in) long with a filament of similar length or slightly longer.",
+    "topic_candidates": [
+      "light"
+    ],
+    "source_url": "https://en.wikipedia.org/wiki/Chlorophytum_comosum",
+    "source_type": "Wikipedia",
+    "source_id": "",
+    "context": "Chlorophytum comosum",
+    "content_hash": "12bb991deb2abc69a0e30292454daefedc29ae1183785aa06279a8d4c24c9b66",
+    "review_status": "needs_verification",
+    "verification_notes": "",
+    "approved_for_knowledge_base": false,
+    "filter_status": "needs_manual_review"
+  },
+  {
+    "fact_id": "FACT00111",
+    "plant_id": "PLANT004",
+    "plant_name": "Spider Plant",
+    "candidate_text": "The inflorescences carry not only flowers but also vegetative plantlets at the tips of their branches, which eventually droop and touch the soil, developing adventitious roots .",
+    "topic_candidates": [
+      "root",
+      "soil"
+    ],
+    "source_url": "https://en.wikipedia.org/wiki/Chlorophytum_comosum",
+    "source_type": "Wikipedia",
+    "source_id": "",
+    "context": "Chlorophytum comosum",
+    "content_hash": "02dfa6efeaa6f5bf53f27924e5bd5ad8de01488ff1863dd25abb7d3f85158a33",
+    "review_status": "needs_verification",
+    "verification_notes": "",
+    "approved_for_knowledge_base": false,
+    "filter_status": "needs_manual_review"
+  },
+  {
+    "fact_id": "FACT00115",
+    "plant_id": "PLANT004",
+    "plant_name": "Spider Plant",
+    "candidate_text": "The two other varieties, C. comosum var. sparsiflorum and C. comosum var. bipindense , possess petioles and have broader leaves necessary for collecting more light in the shady Guineo-Congolean rainforest .",
+    "topic_candidates": [
+      "leaves",
+      "light"
+    ],
+    "source_url": "https://en.wikipedia.org/wiki/Chlorophytum_comosum",
+    "source_type": "Wikipedia",
+    "source_id": "",
+    "context": "Chlorophytum comosum",
+    "content_hash": "7e3424c12078d0c7d496c12e764ca0e93c519240fbdd372ed942b8c90ab73495",
+    "review_status": "needs_verification",
+    "verification_notes": "",
+    "approved_for_knowledge_base": false,
+    "filter_status": "needs_manual_review"
+  },
+  {
+    "fact_id": "FACT00130",
+    "plant_id": "PLANT005",
+    "plant_name": "Peace Lily",
+    "candidate_text": "The flowers are produced in a spadix , surrounded by a 10–30 centimetres (3.9–11.8 in) long, white, yellowish, or greenish spathe .",
+    "topic_candidates": [
+      "yellow"
+    ],
+    "source_url": "https://en.wikipedia.org/wiki/Spathiphyllum",
+    "source_type": "Wikipedia",
+    "source_id": "",
+    "context": "Spathiphyllum",
+    "content_hash": "b1f097db4dfe389df819e7543322625d338bb61466ff3eba6f6090ca3aa1a49d",
+    "review_status": "needs_verification",
+    "verification_notes": "",
+    "approved_for_knowledge_base": false,
+    "filter_status": "needs_manual_review"
+  },
+  {
+    "fact_id": "FACT00131",
+    "plant_id": "PLANT005",
+    "plant_name": "Peace Lily",
+    "candidate_text": "The plant does not require large amounts of light or water to survive.",
+    "topic_candidates": [
+      "light",
+      "water"
+    ],
+    "source_url": "https://en.wikipedia.org/wiki/Spathiphyllum",
+    "source_type": "Wikipedia",
+    "source_id": "",
+    "context": "Spathiphyllum",
+    "content_hash": "5e8a49d9104b0c1f39df3bd1ed018a2f053e7c3249c6765f129ae01370383477",
+    "review_status": "needs_verification",
+    "verification_notes": "",
+    "approved_for_knowledge_base": false,
+    "filter_status": "needs_manual_review"
+  },
+  {
+    "fact_id": "FACT00136",
+    "plant_id": "PLANT005",
+    "plant_name": "Peace Lily",
+    "candidate_text": "It lives best in shade and needs little sunlight to thrive, and is watered approximately once a week.",
+    "topic_candidates": [
+      "light",
+      "shade",
+      "sunlight",
+      "water"
+    ],
+    "source_url": "https://en.wikipedia.org/wiki/Spathiphyllum",
+    "source_type": "Wikipedia",
+    "source_id": "",
+    "context": "Spathiphyllum",
+    "content_hash": "9226cd795ec9a711df82b09e8e0ed09c6e24d8d88e441f37baa77fb522c1f9da",
+    "review_status": "needs_verification",
+    "verification_notes": "",
+    "approved_for_knowledge_base": false,
+    "filter_status": "needs_manual_review"
+  },
+  {
+    "fact_id": "FACT00137",
+    "plant_id": "PLANT005",
+    "plant_name": "Peace Lily",
+    "candidate_text": "The soil is best left moist but only needs watering if the soil is dry.",
+    "topic_candidates": [
+      "soil",
+      "water",
+      "watering"
+    ],
+    "source_url": "https://en.wikipedia.org/wiki/Spathiphyllum",
+    "source_type": "Wikipedia",
+    "source_id": "",
+    "context": "Spathiphyllum",
+    "content_hash": "feb051a9abc17230b236dc5577bc6fb419045c1334ec8c82481cb4cde1cd5e4e",
+    "review_status": "needs_verification",
+    "verification_notes": "",
+    "approved_for_knowledge_base": false,
+    "filter_status": "needs_manual_review"
+  },
+  {
+    "fact_id": "FACT00140",
+    "plant_id": "PLANT005",
+    "plant_name": "Peace Lily",
+    "candidate_text": "Diseases Infection of peace lilies with Botrytis cinerea was first documented in Tokyo , Japan from 1989 to 1994.",
+    "topic_candidates": [
+      "disease"
+    ],
+    "source_url": "https://en.wikipedia.org/wiki/Spathiphyllum",
+    "source_type": "Wikipedia",
+    "source_id": "",
+    "context": "Spathiphyllum",
+    "content_hash": "4d46b4ff35c807975ab83e3dfb3397e23ec7ab24fa128d7f3e52e5016d9fd3f8",
+    "review_status": "needs_verification",
+    "verification_notes": "",
+    "approved_for_knowledge_base": false,
+    "filter_status": "needs_manual_review"
+  },
+  {
+    "fact_id": "FACT00144",
+    "plant_id": "PLANT005",
+    "plant_name": "Peace Lily",
+    "candidate_text": "Diseases of peace lily [spathiphyllum sp.] caused by fungi, bacteria and viruses: A review. [1] ^ \"Bunting, George Sydney (1927-2015)\" .",
+    "topic_candidates": [
+      "disease"
+    ],
+    "source_url": "https://en.wikipedia.org/wiki/Spathiphyllum",
+    "source_type": "Wikipedia",
+    "source_id": "",
+    "context": "Spathiphyllum",
+    "content_hash": "679e188e87ea6c6e1b4e06c35b2b0c3a0c2b7f1589932464c29a07759f46f5bb",
+    "review_status": "needs_verification",
+    "verification_notes": "",
+    "approved_for_knowledge_base": false,
+    "filter_status": "needs_manual_review"
+  },
+  {
+    "fact_id": "FACT00145",
+    "plant_id": "PLANT001",
+    "plant_name": "Money Plant",
+    "candidate_text": "Marble Queen Pothos ( Epipremnum aureum ‘Marble Queen’) is a vining plant and needs bright, indirect light.",
+    "topic_candidates": [
+      "light",
+      "pot"
+    ],
+    "source_url": "https://hgic.clemson.edu/factsheet/how-to-grow-pothos-indoors-epipremnum-spp-care-cultivars-and-common-problems/",
+    "source_type": "horticulture",
+    "source_id": "PLSRC001",
+    "context": "How to Grow Pothos Indoors (Epipremnum spp.): Care, Cultivars, and Common Problems | Home & Garden Information Center",
+    "content_hash": "20da244f791603233139954211191973ae97929c92d4a25040754a45e2a793d4",
+    "review_status": "needs_verification",
+    "verification_notes": "",
+    "approved_for_knowledge_base": false,
+    "filter_status": "needs_manual_review"
+  },
+  {
+    "fact_id": "FACT00146",
+    "plant_id": "PLANT001",
+    "plant_name": "Money Plant",
+    "candidate_text": "Native Range: China, India, Southeast Asia Light: Bright, indirect light; tolerates low light Water: Allow the soil to dry completely before watering Humidity: Prefers 50% to 70% Temperature: 60°F to 70°F nights, 70°F to 85° F days",
+    "topic_candidates": [
+      "humidity",
+      "light",
+      "soil",
+      "temperature",
+      "water",
+      "watering"
+    ],
+    "source_url": "https://hgic.clemson.edu/factsheet/how-to-grow-pothos-indoors-epipremnum-spp-care-cultivars-and-common-problems/",
+    "source_type": "horticulture",
+    "source_id": "PLSRC001",
+    "context": "How to Grow Pothos Indoors (Epipremnum spp.): Care, Cultivars, and Common Problems | Home & Garden Information Center",
+    "content_hash": "446ab32276c2f9c73c53a40b99db8e76b3854d31f6ae2c0af9602e784050e791",
+    "review_status": "needs_verification",
+    "verification_notes": "",
+    "approved_for_knowledge_base": false,
+    "filter_status": "needs_manual_review"
+  },
+  {
+    "fact_id": "FACT00149",
+    "plant_id": "PLANT001",
+    "plant_name": "Money Plant",
+    "candidate_text": "Its natural habitat is warm and tropical, where the plant receives dappled sunlight and high humidity.",
+    "topic_candidates": [
+      "humidity",
+      "light",
+      "sunlight"
+    ],
+    "source_url": "https://hgic.clemson.edu/factsheet/how-to-grow-pothos-indoors-epipremnum-spp-care-cultivars-and-common-problems/",
+    "source_type": "horticulture",
+    "source_id": "PLSRC001",
+    "context": "How to Grow Pothos Indoors (Epipremnum spp.): Care, Cultivars, and Common Problems | Home & Garden Information Center",
+    "content_hash": "899e88b8f8435737a1ff5b4b6c4b37d7d5dbfbbb4c604ba3cce07abe1e6d7952",
+    "review_status": "needs_verification",
+    "verification_notes": "",
+    "approved_for_knowledge_base": false,
+    "filter_status": "needs_manual_review"
+  },
+  {
+    "fact_id": "FACT00155",
+    "plant_id": "PLANT001",
+    "plant_name": "Money Plant",
+    "candidate_text": "The leaves are slightly heart-shaped and shiny, and the vines will fill a pot to create a bushy look.",
+    "topic_candidates": [
+      "leaves",
+      "light",
+      "pot"
+    ],
+    "source_url": "https://hgic.clemson.edu/factsheet/how-to-grow-pothos-indoors-epipremnum-spp-care-cultivars-and-common-problems/",
+    "source_type": "horticulture",
+    "source_id": "PLSRC001",
+    "context": "How to Grow Pothos Indoors (Epipremnum spp.): Care, Cultivars, and Common Problems | Home & Garden Information Center",
+    "content_hash": "427b834fd9fb9df0011e8f928dd9ff0c590549177371722030463e96c631c498",
+    "review_status": "needs_verification",
+    "verification_notes": "",
+    "approved_for_knowledge_base": false,
+    "filter_status": "needs_manual_review"
+  },
+  {
+    "fact_id": "FACT00156",
+    "plant_id": "PLANT001",
+    "plant_name": "Money Plant",
+    "candidate_text": "Keep them away from air conditioning vents in the summer and from windowsills and heating vents in the winter, as hot and cold air can cause the leaves to dry out and damage plant cells.",
+    "topic_candidates": [
+      "leaves"
+    ],
+    "source_url": "https://hgic.clemson.edu/factsheet/how-to-grow-pothos-indoors-epipremnum-spp-care-cultivars-and-common-problems/",
+    "source_type": "horticulture",
+    "source_id": "PLSRC001",
+    "context": "How to Grow Pothos Indoors (Epipremnum spp.): Care, Cultivars, and Common Problems | Home & Garden Information Center",
+    "content_hash": "5f4b163919a2922e86377d8c46e19886247750fafc7859044578a25da2be4367",
+    "review_status": "needs_verification",
+    "verification_notes": "",
+    "approved_for_knowledge_base": false,
+    "filter_status": "needs_manual_review"
+  },
+  {
+    "fact_id": "FACT00157",
+    "plant_id": "PLANT001",
+    "plant_name": "Money Plant",
+    "candidate_text": "Pothos prefer bright, indirect light but will tolerate lower lighting conditions.",
+    "topic_candidates": [
+      "light",
+      "pot"
+    ],
+    "source_url": "https://hgic.clemson.edu/factsheet/how-to-grow-pothos-indoors-epipremnum-spp-care-cultivars-and-common-problems/",
+    "source_type": "horticulture",
+    "source_id": "PLSRC001",
+    "context": "How to Grow Pothos Indoors (Epipremnum spp.): Care, Cultivars, and Common Problems | Home & Garden Information Center",
+    "content_hash": "269237e6bb3a8b34ba115e8b2f606c2590176e68093e850d0f994d11b5838e72",
+    "review_status": "needs_verification",
+    "verification_notes": "",
+    "approved_for_knowledge_base": false,
+    "filter_status": "needs_manual_review"
+  },
+  {
+    "fact_id": "FACT00158",
+    "plant_id": "PLANT001",
+    "plant_name": "Money Plant",
+    "candidate_text": "However, lower light may cause variegated varieties to lose some of their coloring.",
+    "topic_candidates": [
+      "light"
+    ],
+    "source_url": "https://hgic.clemson.edu/factsheet/how-to-grow-pothos-indoors-epipremnum-spp-care-cultivars-and-common-problems/",
+    "source_type": "horticulture",
+    "source_id": "PLSRC001",
+    "context": "How to Grow Pothos Indoors (Epipremnum spp.): Care, Cultivars, and Common Problems | Home & Garden Information Center",
+    "content_hash": "221876044d317349013b18393e084c59bfb99b01415d19015c8fe9987b6ff307",
+    "review_status": "needs_verification",
+    "verification_notes": "",
+    "approved_for_knowledge_base": false,
+    "filter_status": "needs_manual_review"
+  },
+  {
+    "fact_id": "FACT00160",
+    "plant_id": "PLANT001",
+    "plant_name": "Money Plant",
+    "candidate_text": "Most plants can be repotted once every year or two, depending on their growth rate.",
+    "topic_candidates": [
+      "growth",
+      "pot",
+      "repot"
+    ],
+    "source_url": "https://hgic.clemson.edu/factsheet/how-to-grow-pothos-indoors-epipremnum-spp-care-cultivars-and-common-problems/",
+    "source_type": "horticulture",
+    "source_id": "PLSRC001",
+    "context": "How to Grow Pothos Indoors (Epipremnum spp.): Care, Cultivars, and Common Problems | Home & Garden Information Center",
+    "content_hash": "ee7531debb152aa4e3122253999cbf55998725bb84e4ce3b4125ef624e39e97f",
+    "review_status": "needs_verification",
+    "verification_notes": "",
+    "approved_for_knowledge_base": false,
+    "filter_status": "needs_manual_review"
+  },
+  {
+    "fact_id": "FACT00161",
+    "plant_id": "PLANT001",
+    "plant_name": "Money Plant",
+    "candidate_text": "For more information, see HGIC 1450, Indoor Plants – Cleaning, Fertilizing, Containers and Light Requirements .",
+    "topic_candidates": [
+      "light"
+    ],
+    "source_url": "https://hgic.clemson.edu/factsheet/how-to-grow-pothos-indoors-epipremnum-spp-care-cultivars-and-common-problems/",
+    "source_type": "horticulture",
+    "source_id": "PLSRC001",
+    "context": "How to Grow Pothos Indoors (Epipremnum spp.): Care, Cultivars, and Common Problems | Home & Garden Information Center",
+    "content_hash": "556e6d173ea6d1c79a612177395c3d4311902139e90e4555492c108e9368bc17",
+    "review_status": "needs_verification",
+    "verification_notes": "",
+    "approved_for_knowledge_base": false,
+    "filter_status": "needs_manual_review"
+  },
+  {
+    "fact_id": "FACT00162",
+    "plant_id": "PLANT001",
+    "plant_name": "Money Plant",
+    "candidate_text": "Soil should be allowed to dry between each watering.",
+    "topic_candidates": [
+      "soil",
+      "water",
+      "watering"
+    ],
+    "source_url": "https://hgic.clemson.edu/factsheet/how-to-grow-pothos-indoors-epipremnum-spp-care-cultivars-and-common-problems/",
+    "source_type": "horticulture",
+    "source_id": "PLSRC001",
+    "context": "How to Grow Pothos Indoors (Epipremnum spp.): Care, Cultivars, and Common Problems | Home & Garden Information Center",
+    "content_hash": "e4894506d2619b4a7541bbbad7482ee0bf37f9d92b2241bbea69854413d488b6",
+    "review_status": "needs_verification",
+    "verification_notes": "",
+    "approved_for_knowledge_base": false,
+    "filter_status": "needs_manual_review"
+  },
+  {
+    "fact_id": "FACT00164",
+    "plant_id": "PLANT001",
+    "plant_name": "Money Plant",
+    "candidate_text": "Pothos will tolerate these low humidity levels, but humidity can also be supplemented with a humidifier.",
+    "topic_candidates": [
+      "humidity",
+      "pot"
+    ],
+    "source_url": "https://hgic.clemson.edu/factsheet/how-to-grow-pothos-indoors-epipremnum-spp-care-cultivars-and-common-problems/",
+    "source_type": "horticulture",
+    "source_id": "PLSRC001",
+    "context": "How to Grow Pothos Indoors (Epipremnum spp.): Care, Cultivars, and Common Problems | Home & Garden Information Center",
+    "content_hash": "c6deaa3960ecacd325e8a69cda715741f31d24970b2cb315cbae48b0420f3fd0",
+    "review_status": "needs_verification",
+    "verification_notes": "",
+    "approved_for_knowledge_base": false,
+    "filter_status": "needs_manual_review"
+  },
+  {
+    "fact_id": "FACT00165",
+    "plant_id": "PLANT001",
+    "plant_name": "Money Plant",
+    "candidate_text": "For more information, see HGIC 1459, Indoor Plants – Watering .",
+    "topic_candidates": [
+      "water",
+      "watering"
+    ],
+    "source_url": "https://hgic.clemson.edu/factsheet/how-to-grow-pothos-indoors-epipremnum-spp-care-cultivars-and-common-problems/",
+    "source_type": "horticulture",
+    "source_id": "PLSRC001",
+    "context": "How to Grow Pothos Indoors (Epipremnum spp.): Care, Cultivars, and Common Problems | Home & Garden Information Center",
+    "content_hash": "4756d439c360e69a69061959d07a79fdbbe33f6218095aca3374af18aca57de3",
+    "review_status": "needs_verification",
+    "verification_notes": "",
+    "approved_for_knowledge_base": false,
+    "filter_status": "needs_manual_review"
+  },
+  {
+    "fact_id": "FACT00166",
+    "plant_id": "PLANT001",
+    "plant_name": "Money Plant",
+    "candidate_text": "Root rot: Common houseplant issue caused by overwatering or poorly draining soil.",
+    "topic_candidates": [
+      "overwater",
+      "root",
+      "root rot",
+      "soil",
+      "water",
+      "watering"
+    ],
+    "source_url": "https://hgic.clemson.edu/factsheet/how-to-grow-pothos-indoors-epipremnum-spp-care-cultivars-and-common-problems/",
+    "source_type": "horticulture",
+    "source_id": "PLSRC001",
+    "context": "How to Grow Pothos Indoors (Epipremnum spp.): Care, Cultivars, and Common Problems | Home & Garden Information Center",
+    "content_hash": "30bd39c544cb28759d54ee02c31a8b8454e8581efa6a0a27e14434d122a8314a",
+    "review_status": "needs_verification",
+    "verification_notes": "",
+    "approved_for_knowledge_base": false,
+    "filter_status": "needs_manual_review"
+  },
+  {
+    "fact_id": "FACT00167",
+    "plant_id": "PLANT001",
+    "plant_name": "Money Plant",
+    "candidate_text": "Using a well-draining soil mix and proper watering practices will help prevent root rot.",
+    "topic_candidates": [
+      "root",
+      "root rot",
+      "soil",
+      "water",
+      "watering"
+    ],
+    "source_url": "https://hgic.clemson.edu/factsheet/how-to-grow-pothos-indoors-epipremnum-spp-care-cultivars-and-common-problems/",
+    "source_type": "horticulture",
+    "source_id": "PLSRC001",
+    "context": "How to Grow Pothos Indoors (Epipremnum spp.): Care, Cultivars, and Common Problems | Home & Garden Information Center",
+    "content_hash": "2a28087381732dfa2eb0630d01588da56045454dcdf432f7a7214f6a588a0d83",
+    "review_status": "needs_verification",
+    "verification_notes": "",
+    "approved_for_knowledge_base": false,
+    "filter_status": "needs_manual_review"
+  },
+  {
+    "fact_id": "FACT00168",
+    "plant_id": "PLANT001",
+    "plant_name": "Money Plant",
+    "candidate_text": "Yellow leaves: Often caused by overwatering or low fertility.",
+    "topic_candidates": [
+      "leaves",
+      "overwater",
+      "water",
+      "watering",
+      "yellow"
+    ],
+    "source_url": "https://hgic.clemson.edu/factsheet/how-to-grow-pothos-indoors-epipremnum-spp-care-cultivars-and-common-problems/",
+    "source_type": "horticulture",
+    "source_id": "PLSRC001",
+    "context": "How to Grow Pothos Indoors (Epipremnum spp.): Care, Cultivars, and Common Problems | Home & Garden Information Center",
+    "content_hash": "37bd566f6eabf1fa08f927128ac07d8e8edcd8af2b2bc61c94012fb79a33eebf",
+    "review_status": "needs_verification",
+    "verification_notes": "",
+    "approved_for_knowledge_base": false,
+    "filter_status": "needs_manual_review"
+  },
+  {
+    "fact_id": "FACT00169",
+    "plant_id": "PLANT001",
+    "plant_name": "Money Plant",
+    "candidate_text": "Correct by fertilizing with a houseplant fertilizer every other month during the spring and summer.",
+    "topic_candidates": [
+      "fertilizer"
+    ],
+    "source_url": "https://hgic.clemson.edu/factsheet/how-to-grow-pothos-indoors-epipremnum-spp-care-cultivars-and-common-problems/",
+    "source_type": "horticulture",
+    "source_id": "PLSRC001",
+    "context": "How to Grow Pothos Indoors (Epipremnum spp.): Care, Cultivars, and Common Problems | Home & Garden Information Center",
+    "content_hash": "79adf6f873f96ecbb88df7274bbaaba348541a060cd849735604c94d72de4458",
+    "review_status": "needs_verification",
+    "verification_notes": "",
+    "approved_for_knowledge_base": false,
+    "filter_status": "needs_manual_review"
+  },
+  {
+    "fact_id": "FACT00170",
+    "plant_id": "PLANT001",
+    "plant_name": "Money Plant",
+    "candidate_text": "Leaf Scorch and tip dieback: Often caused by low humidity or intense light.",
+    "topic_candidates": [
+      "humidity",
+      "light"
+    ],
+    "source_url": "https://hgic.clemson.edu/factsheet/how-to-grow-pothos-indoors-epipremnum-spp-care-cultivars-and-common-problems/",
+    "source_type": "horticulture",
+    "source_id": "PLSRC001",
+    "context": "How to Grow Pothos Indoors (Epipremnum spp.): Care, Cultivars, and Common Problems | Home & Garden Information Center",
+    "content_hash": "5e53319cd50158c2d2afc875f11d0ca47f831776e10eb2bb3c728e839f56ba98",
+    "review_status": "needs_verification",
+    "verification_notes": "",
+    "approved_for_knowledge_base": false,
+    "filter_status": "needs_manual_review"
+  },
+  {
+    "fact_id": "FACT00171",
+    "plant_id": "PLANT001",
+    "plant_name": "Money Plant",
+    "candidate_text": "Ensure the plant is getting bright, indirect light and high humidity.",
+    "topic_candidates": [
+      "humidity",
+      "light"
+    ],
+    "source_url": "https://hgic.clemson.edu/factsheet/how-to-grow-pothos-indoors-epipremnum-spp-care-cultivars-and-common-problems/",
+    "source_type": "horticulture",
+    "source_id": "PLSRC001",
+    "context": "How to Grow Pothos Indoors (Epipremnum spp.): Care, Cultivars, and Common Problems | Home & Garden Information Center",
+    "content_hash": "6c50a32f2938673214afab12330a19a76c1d486b33997c3fe657ea7bf62f51bf",
+    "review_status": "needs_verification",
+    "verification_notes": "",
+    "approved_for_knowledge_base": false,
+    "filter_status": "needs_manual_review"
+  },
+  {
+    "fact_id": "FACT00172",
+    "plant_id": "PLANT001",
+    "plant_name": "Money Plant",
+    "candidate_text": "Pothos are generally pest-free when kept indoors, but may be affected by common houseplant pests such as spider mites and mealybugs.",
+    "topic_candidates": [
+      "mite",
+      "pest",
+      "pot"
+    ],
+    "source_url": "https://hgic.clemson.edu/factsheet/how-to-grow-pothos-indoors-epipremnum-spp-care-cultivars-and-common-problems/",
+    "source_type": "horticulture",
+    "source_id": "PLSRC001",
+    "context": "How to Grow Pothos Indoors (Epipremnum spp.): Care, Cultivars, and Common Problems | Home & Garden Information Center",
+    "content_hash": "5445a2f766ad982d262b96fde28713ec6b3a1b89e2658654b7efa8739ae56aa7",
+    "review_status": "needs_verification",
+    "verification_notes": "",
+    "approved_for_knowledge_base": false,
+    "filter_status": "needs_manual_review"
+  },
+  {
+    "fact_id": "FACT00173",
+    "plant_id": "PLANT001",
+    "plant_name": "Money Plant",
+    "candidate_text": "For more information, see HGIC 2252, Common Houseplant Insects and Related Pests .",
+    "topic_candidates": [
+      "insect",
+      "pest"
+    ],
+    "source_url": "https://hgic.clemson.edu/factsheet/how-to-grow-pothos-indoors-epipremnum-spp-care-cultivars-and-common-problems/",
+    "source_type": "horticulture",
+    "source_id": "PLSRC001",
+    "context": "How to Grow Pothos Indoors (Epipremnum spp.): Care, Cultivars, and Common Problems | Home & Garden Information Center",
+    "content_hash": "c5ecde96bc43e1170011fa765956b1c0a114274e79a6efb733976ab8bb063cb3",
+    "review_status": "needs_verification",
+    "verification_notes": "",
+    "approved_for_knowledge_base": false,
+    "filter_status": "needs_manual_review"
+  },
+  {
+    "fact_id": "FACT00174",
+    "plant_id": "PLANT001",
+    "plant_name": "Money Plant",
+    "candidate_text": "This pothos has large, wide leaves with yellow variegation.",
+    "topic_candidates": [
+      "leaves",
+      "pot",
+      "yellow"
+    ],
+    "source_url": "https://hgic.clemson.edu/factsheet/how-to-grow-pothos-indoors-epipremnum-spp-care-cultivars-and-common-problems/",
+    "source_type": "horticulture",
+    "source_id": "PLSRC001",
+    "context": "How to Grow Pothos Indoors (Epipremnum spp.): Care, Cultivars, and Common Problems | Home & Garden Information Center",
+    "content_hash": "2e4d8295f512ac344a061593fda90c8a5d365dd5152b279b94c9b88804b8148a",
+    "review_status": "needs_verification",
+    "verification_notes": "",
+    "approved_for_knowledge_base": false,
+    "filter_status": "needs_manual_review"
+  },
+  {
+    "fact_id": "FACT00175",
+    "plant_id": "PLANT001",
+    "plant_name": "Money Plant",
+    "candidate_text": "In the wild, it’s an understory vine that climbs up trees for sunlight.",
+    "topic_candidates": [
+      "light",
+      "sunlight"
+    ],
+    "source_url": "https://hgic.clemson.edu/factsheet/how-to-grow-pothos-indoors-epipremnum-spp-care-cultivars-and-common-problems/",
+    "source_type": "horticulture",
+    "source_id": "PLSRC001",
+    "context": "How to Grow Pothos Indoors (Epipremnum spp.): Care, Cultivars, and Common Problems | Home & Garden Information Center",
+    "content_hash": "fbda02867fff61c103d05b66f12f2fe7aec50c490cbae553dad607c28453d961",
+    "review_status": "needs_verification",
+    "verification_notes": "",
+    "approved_for_knowledge_base": false,
+    "filter_status": "needs_manual_review"
+  },
+  {
+    "fact_id": "FACT00176",
+    "plant_id": "PLANT001",
+    "plant_name": "Money Plant",
+    "candidate_text": "Cultivars of Epipremnum aureum vary widely in leaf color, variegation patterns, growth habit, and light tolerance, making this species especially diverse for indoor use.",
+    "topic_candidates": [
+      "growth",
+      "light"
+    ],
+    "source_url": "https://hgic.clemson.edu/factsheet/how-to-grow-pothos-indoors-epipremnum-spp-care-cultivars-and-common-problems/",
+    "source_type": "horticulture",
+    "source_id": "PLSRC001",
+    "context": "How to Grow Pothos Indoors (Epipremnum spp.): Care, Cultivars, and Common Problems | Home & Garden Information Center",
+    "content_hash": "8055604f2a2516a00bbb699807feba0ba25bc759af66ad31bed85210b1f654c1",
+    "review_status": "needs_verification",
+    "verification_notes": "",
+    "approved_for_knowledge_base": false,
+    "filter_status": "needs_manual_review"
+  },
+  {
+    "fact_id": "FACT00177",
+    "plant_id": "PLANT001",
+    "plant_name": "Money Plant",
+    "candidate_text": "Light and dark green speckled leaves with large white spots",
+    "topic_candidates": [
+      "leaves",
+      "light",
+      "pot",
+      "spots"
+    ],
+    "source_url": "https://hgic.clemson.edu/factsheet/how-to-grow-pothos-indoors-epipremnum-spp-care-cultivars-and-common-problems/",
+    "source_type": "horticulture",
+    "source_id": "PLSRC001",
+    "context": "How to Grow Pothos Indoors (Epipremnum spp.): Care, Cultivars, and Common Problems | Home & Garden Information Center",
+    "content_hash": "dbaff2c2d753e19bcfe10eb2fffab203463db6b1b271fe55079a915b2242c4fe",
+    "review_status": "needs_verification",
+    "verification_notes": "",
+    "approved_for_knowledge_base": false,
+    "filter_status": "needs_manual_review"
+  },
+  {
+    "fact_id": "FACT00179",
+    "plant_id": "PLANT001",
+    "plant_name": "Money Plant",
+    "candidate_text": "Requires lots of light to maintain its intense coloring",
+    "topic_candidates": [
+      "light"
+    ],
+    "source_url": "https://hgic.clemson.edu/factsheet/how-to-grow-pothos-indoors-epipremnum-spp-care-cultivars-and-common-problems/",
+    "source_type": "horticulture",
+    "source_id": "PLSRC001",
+    "context": "How to Grow Pothos Indoors (Epipremnum spp.): Care, Cultivars, and Common Problems | Home & Garden Information Center",
+    "content_hash": "3ae22a338f88967e9c095d76b90d5b203b594b5f9617a362fea8f5b985628fac",
+    "review_status": "needs_verification",
+    "verification_notes": "",
+    "approved_for_knowledge_base": false,
+    "filter_status": "needs_manual_review"
+  },
+  {
+    "fact_id": "FACT00180",
+    "plant_id": "PLANT001",
+    "plant_name": "Money Plant",
+    "candidate_text": "Needs lots of bright, indirect light to ensure adequate growth",
+    "topic_candidates": [
+      "growth",
+      "light"
+    ],
+    "source_url": "https://hgic.clemson.edu/factsheet/how-to-grow-pothos-indoors-epipremnum-spp-care-cultivars-and-common-problems/",
+    "source_type": "horticulture",
+    "source_id": "PLSRC001",
+    "context": "How to Grow Pothos Indoors (Epipremnum spp.): Care, Cultivars, and Common Problems | Home & Garden Information Center",
+    "content_hash": "89111c6508a3d70fb2d5890c3571efd1fc13a6da8135d8b8208d0bcee5b01f93",
+    "review_status": "needs_verification",
+    "verification_notes": "",
+    "approved_for_knowledge_base": false,
+    "filter_status": "needs_manual_review"
+  },
+  {
+    "fact_id": "FACT00183",
+    "plant_id": "PLANT001",
+    "plant_name": "Money Plant",
+    "candidate_text": "Dark green leaves with bright green and yellow variegations",
+    "topic_candidates": [
+      "leaves",
+      "yellow"
+    ],
+    "source_url": "https://hgic.clemson.edu/factsheet/how-to-grow-pothos-indoors-epipremnum-spp-care-cultivars-and-common-problems/",
+    "source_type": "horticulture",
+    "source_id": "PLSRC001",
+    "context": "How to Grow Pothos Indoors (Epipremnum spp.): Care, Cultivars, and Common Problems | Home & Garden Information Center",
+    "content_hash": "88af15c1ed696150dd62cf8eaa9e58881d8373a15e191208b26e2d24bf83fef7",
+    "review_status": "needs_verification",
+    "verification_notes": "",
+    "approved_for_knowledge_base": false,
+    "filter_status": "needs_manual_review"
+  },
+  {
+    "fact_id": "FACT00185",
+    "plant_id": "PLANT001",
+    "plant_name": "Money Plant",
+    "candidate_text": "Tolerates lower light conditions than ‘Snow Queen’ and ‘Marble Queen’",
+    "topic_candidates": [
+      "light"
+    ],
+    "source_url": "https://hgic.clemson.edu/factsheet/how-to-grow-pothos-indoors-epipremnum-spp-care-cultivars-and-common-problems/",
+    "source_type": "horticulture",
+    "source_id": "PLSRC001",
+    "context": "How to Grow Pothos Indoors (Epipremnum spp.): Care, Cultivars, and Common Problems | Home & Garden Information Center",
+    "content_hash": "0f340645c7b7ce7fed48aa05d15c0455028e93ff63123fb3cccf3b8d07f48b3f",
+    "review_status": "needs_verification",
+    "verification_notes": "",
+    "approved_for_knowledge_base": false,
+    "filter_status": "needs_manual_review"
+  },
+  {
+    "fact_id": "FACT00187",
+    "plant_id": "PLANT001",
+    "plant_name": "Money Plant",
+    "candidate_text": "Prefers slightly more humidity than other cultivars",
+    "topic_candidates": [
+      "humidity",
+      "light"
+    ],
+    "source_url": "https://hgic.clemson.edu/factsheet/how-to-grow-pothos-indoors-epipremnum-spp-care-cultivars-and-common-problems/",
+    "source_type": "horticulture",
+    "source_id": "PLSRC001",
+    "context": "How to Grow Pothos Indoors (Epipremnum spp.): Care, Cultivars, and Common Problems | Home & Garden Information Center",
+    "content_hash": "48c807d3cb67c4201bdd57ec61f582e24416d72f0a8884c63ea184b32f221a0d",
+    "review_status": "needs_verification",
+    "verification_notes": "",
+    "approved_for_knowledge_base": false,
+    "filter_status": "needs_manual_review"
+  },
+  {
+    "fact_id": "FACT00188",
+    "plant_id": "PLANT001",
+    "plant_name": "Money Plant",
+    "candidate_text": "Pearls and Jade Pothos ( Epipremnum aureum ‘Pearls and Jade’) has large white spots and leaves with both light and dark green speckling.",
+    "topic_candidates": [
+      "leaves",
+      "light",
+      "pot",
+      "spots"
+    ],
+    "source_url": "https://hgic.clemson.edu/factsheet/how-to-grow-pothos-indoors-epipremnum-spp-care-cultivars-and-common-problems/",
+    "source_type": "horticulture",
+    "source_id": "PLSRC001",
+    "context": "How to Grow Pothos Indoors (Epipremnum spp.): Care, Cultivars, and Common Problems | Home & Garden Information Center",
+    "content_hash": "7a708f77afe79f6a2925216ac3c1e20327b6c267dd5999d545821cb7e85a6039",
+    "review_status": "needs_verification",
+    "verification_notes": "",
+    "approved_for_knowledge_base": false,
+    "filter_status": "needs_manual_review"
+  },
+  {
+    "fact_id": "FACT00194",
+    "plant_id": "PLANT001",
+    "plant_name": "Money Plant",
+    "candidate_text": "Light green leaves mature into an elongated, key-like shape",
+    "topic_candidates": [
+      "leaves",
+      "light"
+    ],
+    "source_url": "https://hgic.clemson.edu/factsheet/how-to-grow-pothos-indoors-epipremnum-spp-care-cultivars-and-common-problems/",
+    "source_type": "horticulture",
+    "source_id": "PLSRC001",
+    "context": "How to Grow Pothos Indoors (Epipremnum spp.): Care, Cultivars, and Common Problems | Home & Garden Information Center",
+    "content_hash": "7f2fbb808e2d33f32d556ec0dd9a182bca7cde3f05a1ca7120c380ae79942b3d",
+    "review_status": "needs_verification",
+    "verification_notes": "",
+    "approved_for_knowledge_base": false,
+    "filter_status": "needs_manual_review"
+  },
+  {
+    "fact_id": "FACT00196",
+    "plant_id": "PLANT001",
+    "plant_name": "Money Plant",
+    "candidate_text": "Needs less light than other E. pinnatum cultivars",
+    "topic_candidates": [
+      "light"
+    ],
+    "source_url": "https://hgic.clemson.edu/factsheet/how-to-grow-pothos-indoors-epipremnum-spp-care-cultivars-and-common-problems/",
+    "source_type": "horticulture",
+    "source_id": "PLSRC001",
+    "context": "How to Grow Pothos Indoors (Epipremnum spp.): Care, Cultivars, and Common Problems | Home & Garden Information Center",
+    "content_hash": "f06d1b2c64e482beb596801665518dc759c3b3fca72ec6a786fd03227c57fda7",
+    "review_status": "needs_verification",
+    "verification_notes": "",
+    "approved_for_knowledge_base": false,
+    "filter_status": "needs_manual_review"
+  },
+  {
+    "fact_id": "FACT00203",
+    "plant_id": "PLANT002",
+    "plant_name": "Snake Plant",
+    "candidate_text": "You can kill it by overwatering, but you can neglect to water it for a month or so, and it will be no worse for wear.",
+    "topic_candidates": [
+      "overwater",
+      "water",
+      "watering"
+    ],
+    "source_url": "https://extension.psu.edu/snake-plant-a-forgiving-low-maintenance-houseplant/",
+    "source_type": "horticulture",
+    "source_id": "PLSRC002",
+    "context": "Snake Plant: A Forgiving, Low-maintenance Houseplant",
+    "content_hash": "b9aec4cbeb31d4fbad41fdf234a0f90ccbab9514aa9d10c7969dab198bc6f1e4",
+    "review_status": "needs_verification",
+    "verification_notes": "",
+    "approved_for_knowledge_base": false,
+    "filter_status": "needs_manual_review"
+  },
+  {
+    "fact_id": "FACT00204",
+    "plant_id": "PLANT002",
+    "plant_name": "Snake Plant",
+    "candidate_text": "Snake plant enjoys bright indirect light but tolerates low-light areas very well.",
+    "topic_candidates": [
+      "light"
+    ],
+    "source_url": "https://extension.psu.edu/snake-plant-a-forgiving-low-maintenance-houseplant/",
+    "source_type": "horticulture",
+    "source_id": "PLSRC002",
+    "context": "Snake Plant: A Forgiving, Low-maintenance Houseplant",
+    "content_hash": "35891206fe80fd2b65386f7cbbaf138f9ceb9db0872299a9e11de7f46211f868",
+    "review_status": "needs_verification",
+    "verification_notes": "",
+    "approved_for_knowledge_base": false,
+    "filter_status": "needs_manual_review"
+  },
+  {
+    "fact_id": "FACT00206",
+    "plant_id": "PLANT002",
+    "plant_name": "Snake Plant",
+    "candidate_text": "If there is damage to a particular leaf, remove it by cutting it off at the soil level.",
+    "topic_candidates": [
+      "soil"
+    ],
+    "source_url": "https://extension.psu.edu/snake-plant-a-forgiving-low-maintenance-houseplant/",
+    "source_type": "horticulture",
+    "source_id": "PLSRC002",
+    "context": "Snake Plant: A Forgiving, Low-maintenance Houseplant",
+    "content_hash": "ee539e7561a580cd93b06ad3846f7c3b7b66d64f38d21227364a52a8be32d192",
+    "review_status": "needs_verification",
+    "verification_notes": "",
+    "approved_for_knowledge_base": false,
+    "filter_status": "needs_manual_review"
+  },
+  {
+    "fact_id": "FACT00207",
+    "plant_id": "PLANT002",
+    "plant_name": "Snake Plant",
+    "candidate_text": "For a more robust plant, fertilize monthly during the growing season with an all-purpose fertilizer at half strength.",
+    "topic_candidates": [
+      "fertilizer",
+      "growing"
+    ],
+    "source_url": "https://extension.psu.edu/snake-plant-a-forgiving-low-maintenance-houseplant/",
+    "source_type": "horticulture",
+    "source_id": "PLSRC002",
+    "context": "Snake Plant: A Forgiving, Low-maintenance Houseplant",
+    "content_hash": "988ccfcc2d5ddf106eb6568fc55d5a5906ea526a0936e47a5fd9d5da2cf3e27c",
+    "review_status": "needs_verification",
+    "verification_notes": "",
+    "approved_for_knowledge_base": false,
+    "filter_status": "needs_manual_review"
+  },
+  {
+    "fact_id": "FACT00208",
+    "plant_id": "PLANT002",
+    "plant_name": "Snake Plant",
+    "candidate_text": "Few pests and diseases bother this hardy plant.",
+    "topic_candidates": [
+      "disease",
+      "pest"
+    ],
+    "source_url": "https://extension.psu.edu/snake-plant-a-forgiving-low-maintenance-houseplant/",
+    "source_type": "horticulture",
+    "source_id": "PLSRC002",
+    "context": "Snake Plant: A Forgiving, Low-maintenance Houseplant",
+    "content_hash": "ace775cd64e0895bd07fefd81c4983e59892f97441d520ed3f8600b3c0892add",
+    "review_status": "needs_verification",
+    "verification_notes": "",
+    "approved_for_knowledge_base": false,
+    "filter_status": "needs_manual_review"
+  },
+  {
+    "fact_id": "FACT00209",
+    "plant_id": "PLANT002",
+    "plant_name": "Snake Plant",
+    "candidate_text": "Due to overwatering, root rot is a common affliction of snake plants.",
+    "topic_candidates": [
+      "overwater",
+      "root",
+      "root rot",
+      "water",
+      "watering"
+    ],
+    "source_url": "https://extension.psu.edu/snake-plant-a-forgiving-low-maintenance-houseplant/",
+    "source_type": "horticulture",
+    "source_id": "PLSRC002",
+    "context": "Snake Plant: A Forgiving, Low-maintenance Houseplant",
+    "content_hash": "140ffe0349f0b53c9aa15cd53207444c29bab8fa7a441bd3749cd454c741ed18",
+    "review_status": "needs_verification",
+    "verification_notes": "",
+    "approved_for_knowledge_base": false,
+    "filter_status": "needs_manual_review"
+  },
+  {
+    "fact_id": "FACT00216",
+    "plant_id": "PLANT002",
+    "plant_name": "Snake Plant",
+    "candidate_text": "Dracaena trifasciata 'Laurentii' has bright yellow/golden bands along the margin (the rim/edge) of the variegated green leaves.",
+    "topic_candidates": [
+      "leaves",
+      "yellow"
+    ],
+    "source_url": "https://extension.psu.edu/snake-plant-a-forgiving-low-maintenance-houseplant/",
+    "source_type": "horticulture",
+    "source_id": "PLSRC002",
+    "context": "Snake Plant: A Forgiving, Low-maintenance Houseplant",
+    "content_hash": "f5178852581820069c4d434c754c98bbd6faf81647d6b1e4d910c96f4fcde752",
+    "review_status": "needs_verification",
+    "verification_notes": "",
+    "approved_for_knowledge_base": false,
+    "filter_status": "needs_manual_review"
+  },
+  {
+    "fact_id": "FACT00231",
+    "plant_id": "PLANT003",
+    "plant_name": "Aloe Vera",
+    "candidate_text": "Water : Regular, thorough watering is best, making sure that the soil dries out completely before watering again.",
+    "topic_candidates": [
+      "soil",
+      "water",
+      "watering"
+    ],
+    "source_url": "https://extension.sdstate.edu/aloe-vera-houseplant-how",
+    "source_type": "horticulture",
+    "source_id": "PLSRC003",
+    "context": "Aloe Vera: Houseplant How-To",
+    "content_hash": "ddccf974289be3222955a98e3afb3489d385f765dad42e7e1384c3c1cc46eb82",
+    "review_status": "needs_verification",
+    "verification_notes": "",
+    "approved_for_knowledge_base": false,
+    "filter_status": "needs_manual_review"
+  },
+  {
+    "fact_id": "FACT00232",
+    "plant_id": "PLANT003",
+    "plant_name": "Aloe Vera",
+    "candidate_text": "Too little water will give you yellow, shriveled, and puckered leaves.",
+    "topic_candidates": [
+      "leaves",
+      "water",
+      "yellow"
+    ],
+    "source_url": "https://extension.sdstate.edu/aloe-vera-houseplant-how",
+    "source_type": "horticulture",
+    "source_id": "PLSRC003",
+    "context": "Aloe Vera: Houseplant How-To",
+    "content_hash": "b04dc34456731c641db6edf389422e356f89d60e7e4b63c044b292e8406f3560",
+    "review_status": "needs_verification",
+    "verification_notes": "",
+    "approved_for_knowledge_base": false,
+    "filter_status": "needs_manual_review"
+  },
+  {
+    "fact_id": "FACT00234",
+    "plant_id": "PLANT003",
+    "plant_name": "Aloe Vera",
+    "candidate_text": "If the plant sits in water, it be susceptible to root rot.",
+    "topic_candidates": [
+      "root",
+      "root rot",
+      "water"
+    ],
+    "source_url": "https://extension.sdstate.edu/aloe-vera-houseplant-how",
+    "source_type": "horticulture",
+    "source_id": "PLSRC003",
+    "context": "Aloe Vera: Houseplant How-To",
+    "content_hash": "12c51a6b8349a41462150a738abe0f6c9ae132e34b8d5124c1267f189dc2a294",
+    "review_status": "needs_verification",
+    "verification_notes": "",
+    "approved_for_knowledge_base": false,
+    "filter_status": "needs_manual_review"
+  },
+  {
+    "fact_id": "FACT00235",
+    "plant_id": "PLANT003",
+    "plant_name": "Aloe Vera",
+    "candidate_text": "Light: It requires bright, indirect sunlight.",
+    "topic_candidates": [
+      "light",
+      "sunlight"
+    ],
+    "source_url": "https://extension.sdstate.edu/aloe-vera-houseplant-how",
+    "source_type": "horticulture",
+    "source_id": "PLSRC003",
+    "context": "Aloe Vera: Houseplant How-To",
+    "content_hash": "aca1c6247c4c8c6d8bdce2e856c00f74cd27b05c01b20b55ce3339818bf433d0",
+    "review_status": "needs_verification",
+    "verification_notes": "",
+    "approved_for_knowledge_base": false,
+    "filter_status": "needs_manual_review"
+  },
+  {
+    "fact_id": "FACT00236",
+    "plant_id": "PLANT003",
+    "plant_name": "Aloe Vera",
+    "candidate_text": "Direct sunlight can burn its tender skin.",
+    "topic_candidates": [
+      "light",
+      "sunlight"
+    ],
+    "source_url": "https://extension.sdstate.edu/aloe-vera-houseplant-how",
+    "source_type": "horticulture",
+    "source_id": "PLSRC003",
+    "context": "Aloe Vera: Houseplant How-To",
+    "content_hash": "994d600c2450533950eb90b73135ec13e373959c77dc96f61d13de4793a2856d",
+    "review_status": "needs_verification",
+    "verification_notes": "",
+    "approved_for_knowledge_base": false,
+    "filter_status": "needs_manual_review"
+  },
+  {
+    "fact_id": "FACT00237",
+    "plant_id": "PLANT003",
+    "plant_name": "Aloe Vera",
+    "candidate_text": "The lack of light will make the plant leggy, causing weak leaves.",
+    "topic_candidates": [
+      "leaves",
+      "light"
+    ],
+    "source_url": "https://extension.sdstate.edu/aloe-vera-houseplant-how",
+    "source_type": "horticulture",
+    "source_id": "PLSRC003",
+    "context": "Aloe Vera: Houseplant How-To",
+    "content_hash": "78b328ebc76b2d0af41aa72e02e20daada45b0ac8599c409ff651838ad4f39ad",
+    "review_status": "needs_verification",
+    "verification_notes": "",
+    "approved_for_knowledge_base": false,
+    "filter_status": "needs_manual_review"
+  },
+  {
+    "fact_id": "FACT00238",
+    "plant_id": "PLANT003",
+    "plant_name": "Aloe Vera",
+    "candidate_text": "Too little light will cause the leaves to droop.",
+    "topic_candidates": [
+      "leaves",
+      "light"
+    ],
+    "source_url": "https://extension.sdstate.edu/aloe-vera-houseplant-how",
+    "source_type": "horticulture",
+    "source_id": "PLSRC003",
+    "context": "Aloe Vera: Houseplant How-To",
+    "content_hash": "17dfdde2fd27257884fa84c03e4e354dd267222fc4b456de9f3b2f303f3ad122",
+    "review_status": "needs_verification",
+    "verification_notes": "",
+    "approved_for_knowledge_base": false,
+    "filter_status": "needs_manual_review"
+  },
+  {
+    "fact_id": "FACT00241",
+    "plant_id": "PLANT003",
+    "plant_name": "Aloe Vera",
+    "candidate_text": "Humidity : It does not require extra humidity, and the air within your home (especially dry, winter air) will be ideal.",
+    "topic_candidates": [
+      "humidity"
+    ],
+    "source_url": "https://extension.sdstate.edu/aloe-vera-houseplant-how",
+    "source_type": "horticulture",
+    "source_id": "PLSRC003",
+    "context": "Aloe Vera: Houseplant How-To",
+    "content_hash": "44783c0b5f63124a082e7a4b2564e08ad6e59ed30a797e96323fec53756c2512",
+    "review_status": "needs_verification",
+    "verification_notes": "",
+    "approved_for_knowledge_base": false,
+    "filter_status": "needs_manual_review"
+  },
+  {
+    "fact_id": "FACT00242",
+    "plant_id": "PLANT003",
+    "plant_name": "Aloe Vera",
+    "candidate_text": "Fertilizer : No fertilizer is usually required to keep the plant healthy.",
+    "topic_candidates": [
+      "fertilizer"
+    ],
+    "source_url": "https://extension.sdstate.edu/aloe-vera-houseplant-how",
+    "source_type": "horticulture",
+    "source_id": "PLSRC003",
+    "context": "Aloe Vera: Houseplant How-To",
+    "content_hash": "a1051be09693cba8bf954b5a391403d4d19f4383b049dd3c2da5eeb0d182cf6d",
+    "review_status": "needs_verification",
+    "verification_notes": "",
+    "approved_for_knowledge_base": false,
+    "filter_status": "needs_manual_review"
+  },
+  {
+    "fact_id": "FACT00243",
+    "plant_id": "PLANT003",
+    "plant_name": "Aloe Vera",
+    "candidate_text": "Pests : Mealybugs, aloe scale, and aloe mite may be a problem.",
+    "topic_candidates": [
+      "mite",
+      "pest"
+    ],
+    "source_url": "https://extension.sdstate.edu/aloe-vera-houseplant-how",
+    "source_type": "horticulture",
+    "source_id": "PLSRC003",
+    "context": "Aloe Vera: Houseplant How-To",
+    "content_hash": "be93481c16a6595583e5da1dfa7631e8fa0d15c2b77ac3050f8a2df81c897bd7",
+    "review_status": "needs_verification",
+    "verification_notes": "",
+    "approved_for_knowledge_base": false,
+    "filter_status": "needs_manual_review"
+  },
+  {
+    "fact_id": "FACT00244",
+    "plant_id": "PLANT003",
+    "plant_name": "Aloe Vera",
+    "candidate_text": "Insecticidal soap can be used to control mealybugs.",
+    "topic_candidates": [
+      "insect"
+    ],
+    "source_url": "https://extension.sdstate.edu/aloe-vera-houseplant-how",
+    "source_type": "horticulture",
+    "source_id": "PLSRC003",
+    "context": "Aloe Vera: Houseplant How-To",
+    "content_hash": "fdaf72f1eaa3fe8a238b4c6bba94a99ece2fde1602884b836fe926d3187394f6",
+    "review_status": "needs_verification",
+    "verification_notes": "",
+    "approved_for_knowledge_base": false,
+    "filter_status": "needs_manual_review"
+  },
+  {
+    "fact_id": "FACT00245",
+    "plant_id": "PLANT003",
+    "plant_name": "Aloe Vera",
+    "candidate_text": "Diseases : Aloe rust, root rot, and fungal disease may appear.",
+    "topic_candidates": [
+      "disease",
+      "fungal",
+      "root",
+      "root rot"
+    ],
+    "source_url": "https://extension.sdstate.edu/aloe-vera-houseplant-how",
+    "source_type": "horticulture",
+    "source_id": "PLSRC003",
+    "context": "Aloe Vera: Houseplant How-To",
+    "content_hash": "3b5ff24d485f7117535840833664a886f180a7371c781de1465ab9cb8fdc18c3",
+    "review_status": "needs_verification",
+    "verification_notes": "",
+    "approved_for_knowledge_base": false,
+    "filter_status": "needs_manual_review"
+  },
+  {
+    "fact_id": "FACT00246",
+    "plant_id": "PLANT003",
+    "plant_name": "Aloe Vera",
+    "candidate_text": "Cool temperatures and high humidity are the cause of rust and fungal diseases.",
+    "topic_candidates": [
+      "disease",
+      "fungal",
+      "humidity",
+      "temperature"
+    ],
+    "source_url": "https://extension.sdstate.edu/aloe-vera-houseplant-how",
+    "source_type": "horticulture",
+    "source_id": "PLSRC003",
+    "context": "Aloe Vera: Houseplant How-To",
+    "content_hash": "dc00d9fea20c5cde9d8bc78cc732ab9543a2f6ddadec8a341cb05a6cb17aa647",
+    "review_status": "needs_verification",
+    "verification_notes": "",
+    "approved_for_knowledge_base": false,
+    "filter_status": "needs_manual_review"
+  },
+  {
+    "fact_id": "FACT00247",
+    "plant_id": "PLANT003",
+    "plant_name": "Aloe Vera",
+    "candidate_text": "Yellow spots that turn brown on the leaves are the sign of Aloe rust.",
+    "topic_candidates": [
+      "brown",
+      "leaves",
+      "pot",
+      "spots",
+      "yellow"
+    ],
+    "source_url": "https://extension.sdstate.edu/aloe-vera-houseplant-how",
+    "source_type": "horticulture",
+    "source_id": "PLSRC003",
+    "context": "Aloe Vera: Houseplant How-To",
+    "content_hash": "267dc465627171c58f975885aeceb2898688e78acb0469b4df334ef247bf8587",
+    "review_status": "needs_verification",
+    "verification_notes": "",
+    "approved_for_knowledge_base": false,
+    "filter_status": "needs_manual_review"
+  },
+  {
+    "fact_id": "FACT00248",
+    "plant_id": "PLANT004",
+    "plant_name": "Spider Plant",
+    "candidate_text": "Growth Habit: Fast-growing; arching foliage; produces numerous plantlets",
+    "topic_candidates": [
+      "growing",
+      "growth"
+    ],
+    "source_url": "https://hgic.clemson.edu/factsheet/spider-plant/",
+    "source_type": "horticulture",
+    "source_id": "PLSRC004",
+    "context": "Spider Plant (Chlorophytum comosum) | Home & Garden Information Center",
+    "content_hash": "93a51f31bbe2564bfde6b182629ab186c6874867612df25d522255d4def28338",
+    "review_status": "needs_verification",
+    "verification_notes": "",
+    "approved_for_knowledge_base": false,
+    "filter_status": "needs_manual_review"
+  },
+  {
+    "fact_id": "FACT00249",
+    "plant_id": "PLANT004",
+    "plant_name": "Spider Plant",
+    "candidate_text": "Light Requirements: Bright, indirect light; tolerates some direct light (avoid midday sun)",
+    "topic_candidates": [
+      "light"
+    ],
+    "source_url": "https://hgic.clemson.edu/factsheet/spider-plant/",
+    "source_type": "horticulture",
+    "source_id": "PLSRC004",
+    "context": "Spider Plant (Chlorophytum comosum) | Home & Garden Information Center",
+    "content_hash": "25e6cea9d24090241f574fa105b1a969000b276bb6c3bc5add26ce5dbed68846",
+    "review_status": "needs_verification",
+    "verification_notes": "",
+    "approved_for_knowledge_base": false,
+    "filter_status": "needs_manual_review"
+  },
+  {
+    "fact_id": "FACT00250",
+    "plant_id": "PLANT004",
+    "plant_name": "Spider Plant",
+    "candidate_text": "Watering Needs: Allow soil to dry slightly between waterings",
+    "topic_candidates": [
+      "light",
+      "soil",
+      "water",
+      "watering"
+    ],
+    "source_url": "https://hgic.clemson.edu/factsheet/spider-plant/",
+    "source_type": "horticulture",
+    "source_id": "PLSRC004",
+    "context": "Spider Plant (Chlorophytum comosum) | Home & Garden Information Center",
+    "content_hash": "cc834de660ec56db2e58fda1b1b734f359d8b37fe888689fba335a572b4d7ddb",
+    "review_status": "needs_verification",
+    "verification_notes": "",
+    "approved_for_knowledge_base": false,
+    "filter_status": "needs_manual_review"
+  },
+  {
+    "fact_id": "FACT00251",
+    "plant_id": "PLANT004",
+    "plant_name": "Spider Plant",
+    "candidate_text": "Soil: General-purpose potting soil with good drainage",
+    "topic_candidates": [
+      "drainage",
+      "pot",
+      "soil"
+    ],
+    "source_url": "https://hgic.clemson.edu/factsheet/spider-plant/",
+    "source_type": "horticulture",
+    "source_id": "PLSRC004",
+    "context": "Spider Plant (Chlorophytum comosum) | Home & Garden Information Center",
+    "content_hash": "00d12002d72bb4037aafb23332bc77b883d02587a071d55b0e895f62fb452a12",
+    "review_status": "needs_verification",
+    "verification_notes": "",
+    "approved_for_knowledge_base": false,
+    "filter_status": "needs_manual_review"
+  },
+  {
+    "fact_id": "FACT00252",
+    "plant_id": "PLANT004",
+    "plant_name": "Spider Plant",
+    "candidate_text": "Fertilizing: Water-soluble or time-release houseplant fertilizer during active growth",
+    "topic_candidates": [
+      "fertilizer",
+      "growth",
+      "water"
+    ],
+    "source_url": "https://hgic.clemson.edu/factsheet/spider-plant/",
+    "source_type": "horticulture",
+    "source_id": "PLSRC004",
+    "context": "Spider Plant (Chlorophytum comosum) | Home & Garden Information Center",
+    "content_hash": "6c1a34a74fd58df04fe6a9d021b0eb2f565372f1c1ecf1613b28e965e0b0727e",
+    "review_status": "needs_verification",
+    "verification_notes": "",
+    "approved_for_knowledge_base": false,
+    "filter_status": "needs_manual_review"
+  },
+  {
+    "fact_id": "FACT00253",
+    "plant_id": "PLANT004",
+    "plant_name": "Spider Plant",
+    "candidate_text": "Common Problems: Overwatering, underwatering, salt buildup, whiteflies, spider mites, scales, aphids",
+    "topic_candidates": [
+      "mite",
+      "overwater",
+      "underwater",
+      "water",
+      "watering"
+    ],
+    "source_url": "https://hgic.clemson.edu/factsheet/spider-plant/",
+    "source_type": "horticulture",
+    "source_id": "PLSRC004",
+    "context": "Spider Plant (Chlorophytum comosum) | Home & Garden Information Center",
+    "content_hash": "0c555efc20c6ad90d6391649d60f9b5c88c3a2e6660d3a091dfc653a1a720cfe",
+    "review_status": "needs_verification",
+    "verification_notes": "",
+    "approved_for_knowledge_base": false,
+    "filter_status": "needs_manual_review"
+  },
+  {
+    "fact_id": "FACT00255",
+    "plant_id": "PLANT004",
+    "plant_name": "Spider Plant",
+    "candidate_text": "The long, grassy leaves are available in green or striped yellow or white.",
+    "topic_candidates": [
+      "leaves",
+      "yellow"
+    ],
+    "source_url": "https://hgic.clemson.edu/factsheet/spider-plant/",
+    "source_type": "horticulture",
+    "source_id": "PLSRC004",
+    "context": "Spider Plant (Chlorophytum comosum) | Home & Garden Information Center",
+    "content_hash": "1e22567bbcaa2fc9b8fe04e072000b1eb536006736c02565f792fcdf4d194b2b",
+    "review_status": "needs_verification",
+    "verification_notes": "",
+    "approved_for_knowledge_base": false,
+    "filter_status": "needs_manual_review"
+  },
+  {
+    "fact_id": "FACT00257",
+    "plant_id": "PLANT004",
+    "plant_name": "Spider Plant",
+    "candidate_text": "In the home, plant diseases are very rarely a problem.",
+    "topic_candidates": [
+      "disease"
+    ],
+    "source_url": "https://hgic.clemson.edu/factsheet/spider-plant/",
+    "source_type": "horticulture",
+    "source_id": "PLSRC004",
+    "context": "Spider Plant (Chlorophytum comosum) | Home & Garden Information Center",
+    "content_hash": "81bbec2d436469a82ab6969562a6af21b7ce8d25a9942b0091f19139404c0f24",
+    "review_status": "needs_verification",
+    "verification_notes": "",
+    "approved_for_knowledge_base": false,
+    "filter_status": "needs_manual_review"
+  },
+  {
+    "fact_id": "FACT00258",
+    "plant_id": "PLANT004",
+    "plant_name": "Spider Plant",
+    "candidate_text": "Too much or too little water, along with insects and mites, are the primary problems.",
+    "topic_candidates": [
+      "insect",
+      "mite",
+      "water"
+    ],
+    "source_url": "https://hgic.clemson.edu/factsheet/spider-plant/",
+    "source_type": "horticulture",
+    "source_id": "PLSRC004",
+    "context": "Spider Plant (Chlorophytum comosum) | Home & Garden Information Center",
+    "content_hash": "e12582823d9a9794d861729758cdc5127395a8e6f18afaf091a6618feb5c644b",
+    "review_status": "needs_verification",
+    "verification_notes": "",
+    "approved_for_knowledge_base": false,
+    "filter_status": "needs_manual_review"
+  },
+  {
+    "fact_id": "FACT00259",
+    "plant_id": "PLANT004",
+    "plant_name": "Spider Plant",
+    "candidate_text": "The most common insect pest problems include:",
+    "topic_candidates": [
+      "insect",
+      "pest"
+    ],
+    "source_url": "https://hgic.clemson.edu/factsheet/spider-plant/",
+    "source_type": "horticulture",
+    "source_id": "PLSRC004",
+    "context": "Spider Plant (Chlorophytum comosum) | Home & Garden Information Center",
+    "content_hash": "ce546ecf6f556f38608114007f06c1aa0cab62a38cfd2930de3566bfdbe20e27",
+    "review_status": "needs_verification",
+    "verification_notes": "",
+    "approved_for_knowledge_base": false,
+    "filter_status": "needs_manual_review"
+  },
+  {
+    "fact_id": "FACT00260",
+    "plant_id": "PLANT004",
+    "plant_name": "Spider Plant",
+    "candidate_text": "Root rot usually results from a soil mix that does not drain quickly or from excessive watering.",
+    "topic_candidates": [
+      "root",
+      "root rot",
+      "soil",
+      "water",
+      "watering"
+    ],
+    "source_url": "https://hgic.clemson.edu/factsheet/spider-plant/",
+    "source_type": "horticulture",
+    "source_id": "PLSRC004",
+    "context": "Spider Plant (Chlorophytum comosum) | Home & Garden Information Center",
+    "content_hash": "590f66997fe35e8879d167bf9626d15038c77fc83dc4bef38869fe244383c92d",
+    "review_status": "needs_verification",
+    "verification_notes": "",
+    "approved_for_knowledge_base": false,
+    "filter_status": "needs_manual_review"
+  },
+  {
+    "fact_id": "FACT00261",
+    "plant_id": "PLANT004",
+    "plant_name": "Spider Plant",
+    "candidate_text": "Leaf tip burn is caused by too much fertilizer or water that is high in soluble salts.",
+    "topic_candidates": [
+      "fertilizer",
+      "leaf tip",
+      "water"
+    ],
+    "source_url": "https://hgic.clemson.edu/factsheet/spider-plant/",
+    "source_type": "horticulture",
+    "source_id": "PLSRC004",
+    "context": "Spider Plant (Chlorophytum comosum) | Home & Garden Information Center",
+    "content_hash": "86b9142d8298a3cd3f5081d25a0a698b7bc35508ce94b2e0275611e2b96f0d6f",
+    "review_status": "needs_verification",
+    "verification_notes": "",
+    "approved_for_knowledge_base": false,
+    "filter_status": "needs_manual_review"
+  },
+  {
+    "fact_id": "FACT00262",
+    "plant_id": "PLANT004",
+    "plant_name": "Spider Plant",
+    "candidate_text": "Low humidity and excessively dry soil may also cause brown leaf tips.",
+    "topic_candidates": [
+      "brown",
+      "humidity",
+      "leaf tip",
+      "soil"
+    ],
+    "source_url": "https://hgic.clemson.edu/factsheet/spider-plant/",
+    "source_type": "horticulture",
+    "source_id": "PLSRC004",
+    "context": "Spider Plant (Chlorophytum comosum) | Home & Garden Information Center",
+    "content_hash": "fea16b29926348b917703cd3da607017f3624d175313ee27058258c64b38edb0",
+    "review_status": "needs_verification",
+    "verification_notes": "",
+    "approved_for_knowledge_base": false,
+    "filter_status": "needs_manual_review"
+  },
+  {
+    "fact_id": "FACT00263",
+    "plant_id": "PLANT004",
+    "plant_name": "Spider Plant",
+    "candidate_text": "Spider plants grow best with bright indirect light.",
+    "topic_candidates": [
+      "light"
+    ],
+    "source_url": "https://hgic.clemson.edu/factsheet/spider-plant/",
+    "source_type": "horticulture",
+    "source_id": "PLSRC004",
+    "context": "Spider Plant (Chlorophytum comosum) | Home & Garden Information Center",
+    "content_hash": "e63ca945f3cb6a6aa8defbb6418c4fda03e49b8aa62719390b7655f2325b3f39",
+    "review_status": "needs_verification",
+    "verification_notes": "",
+    "approved_for_knowledge_base": false,
+    "filter_status": "needs_manual_review"
+  },
+  {
+    "fact_id": "FACT00264",
+    "plant_id": "PLANT004",
+    "plant_name": "Spider Plant",
+    "candidate_text": "They can tolerate some direct sunlight, but midday light may scorch leaves.",
+    "topic_candidates": [
+      "leaves",
+      "light",
+      "sunlight"
+    ],
+    "source_url": "https://hgic.clemson.edu/factsheet/spider-plant/",
+    "source_type": "horticulture",
+    "source_id": "PLSRC004",
+    "context": "Spider Plant (Chlorophytum comosum) | Home & Garden Information Center",
+    "content_hash": "0bd551b56f4a7cd027eb41dafb2692948b294d49b81dccad009625de5d594fb9",
+    "review_status": "needs_verification",
+    "verification_notes": "",
+    "approved_for_knowledge_base": false,
+    "filter_status": "needs_manual_review"
+  },
+  {
+    "fact_id": "FACT00265",
+    "plant_id": "PLANT004",
+    "plant_name": "Spider Plant",
+    "candidate_text": "Spider plants should be allowed to dry out briefly between waterings.",
+    "topic_candidates": [
+      "water",
+      "watering"
+    ],
+    "source_url": "https://hgic.clemson.edu/factsheet/spider-plant/",
+    "source_type": "horticulture",
+    "source_id": "PLSRC004",
+    "context": "Spider Plant (Chlorophytum comosum) | Home & Garden Information Center",
+    "content_hash": "349c459292388f33323b1bef2d1714b252b4c0596eb985a535893d938a4c7190",
+    "review_status": "needs_verification",
+    "verification_notes": "",
+    "approved_for_knowledge_base": false,
+    "filter_status": "needs_manual_review"
+  },
+  {
+    "fact_id": "FACT00267",
+    "plant_id": "PLANT004",
+    "plant_name": "Spider Plant",
+    "candidate_text": "Feed plants during periods of active growth with a water-soluble or time-release houseplant fertilizer.",
+    "topic_candidates": [
+      "fertilizer",
+      "growth",
+      "water"
+    ],
+    "source_url": "https://hgic.clemson.edu/factsheet/spider-plant/",
+    "source_type": "horticulture",
+    "source_id": "PLSRC004",
+    "context": "Spider Plant (Chlorophytum comosum) | Home & Garden Information Center",
+    "content_hash": "4b4ca304313a66f010fa015fd3c389957bc4d0e707225e3979067fa8a2b32b36",
+    "review_status": "needs_verification",
+    "verification_notes": "",
+    "approved_for_knowledge_base": false,
+    "filter_status": "needs_manual_review"
+  },
+  {
+    "fact_id": "FACT00273",
+    "plant_id": "PLANT004",
+    "plant_name": "Spider Plant",
+    "candidate_text": "Spider plant cultivars offer a range of leaf colors, growth habits, and sizes, giving homeowners several attractive options for indoor displays.",
+    "topic_candidates": [
+      "growth"
+    ],
+    "source_url": "https://hgic.clemson.edu/factsheet/spider-plant/",
+    "source_type": "horticulture",
+    "source_id": "PLSRC004",
+    "context": "Spider Plant (Chlorophytum comosum) | Home & Garden Information Center",
+    "content_hash": "94a2abb7a30ebff182d39b5fb76580c0e2ebe34942c974dea30b6c1f200973fc",
+    "review_status": "needs_verification",
+    "verification_notes": "",
+    "approved_for_knowledge_base": false,
+    "filter_status": "needs_manual_review"
+  },
+  {
+    "fact_id": "FACT00274",
+    "plant_id": "PLANT004",
+    "plant_name": "Spider Plant",
+    "candidate_text": "Dwarf spider plant; leaves are only 4 to 6 inches long, dark green, with a bright yellow stripe.",
+    "topic_candidates": [
+      "leaves",
+      "yellow"
+    ],
+    "source_url": "https://hgic.clemson.edu/factsheet/spider-plant/",
+    "source_type": "horticulture",
+    "source_id": "PLSRC004",
+    "context": "Spider Plant (Chlorophytum comosum) | Home & Garden Information Center",
+    "content_hash": "d69ba4bde0dd14573834ed02183da4d6ba50e98352c7f9b46c5baddafdc0da77",
+    "review_status": "needs_verification",
+    "verification_notes": "",
+    "approved_for_knowledge_base": false,
+    "filter_status": "needs_manual_review"
+  },
+  {
+    "fact_id": "FACT00277",
+    "plant_id": "PLANT005",
+    "plant_name": "Peace Lily",
+    "candidate_text": "They are one of the few foliage plants that will flower in low light.",
+    "topic_candidates": [
+      "light"
+    ],
+    "source_url": "https://hgic.clemson.edu/factsheet/peace-lily/",
+    "source_type": "horticulture",
+    "source_id": "PLSRC005",
+    "context": "Peace Lily | Home & Garden Information Center",
+    "content_hash": "fdb5361bb807fae640f7d6483035c18814bd5d64abd604ec944fa5285a8ee68f",
+    "review_status": "needs_verification",
+    "verification_notes": "",
+    "approved_for_knowledge_base": false,
+    "filter_status": "needs_manual_review"
+  },
+  {
+    "fact_id": "FACT00280",
+    "plant_id": "PLANT005",
+    "plant_name": "Peace Lily",
+    "candidate_text": "These plants also periodically produce lightly fragrant white flowers that resemble calla lilies.",
+    "topic_candidates": [
+      "light"
+    ],
+    "source_url": "https://hgic.clemson.edu/factsheet/peace-lily/",
+    "source_type": "horticulture",
+    "source_id": "PLSRC005",
+    "context": "Peace Lily | Home & Garden Information Center",
+    "content_hash": "fe637ec90f51b06c9d5228826e2333e57610389d9f6e7d8813bb27b1385bd6f7",
+    "review_status": "needs_verification",
+    "verification_notes": "",
+    "approved_for_knowledge_base": false,
+    "filter_status": "needs_manual_review"
+  },
+  {
+    "fact_id": "FACT00282",
+    "plant_id": "PLANT005",
+    "plant_name": "Peace Lily",
+    "candidate_text": "Soil should be kept moist but not soggy and allowed to dry out slightly between waterings.",
+    "topic_candidates": [
+      "light",
+      "soil",
+      "water",
+      "watering"
+    ],
+    "source_url": "https://hgic.clemson.edu/factsheet/peace-lily/",
+    "source_type": "horticulture",
+    "source_id": "PLSRC005",
+    "context": "Peace Lily | Home & Garden Information Center",
+    "content_hash": "b6010b883e6a4f95452f570a3337e55138b205b97dff0fe9d90eb7e10de9058f",
+    "review_status": "needs_verification",
+    "verification_notes": "",
+    "approved_for_knowledge_base": false,
+    "filter_status": "needs_manual_review"
+  },
+  {
+    "fact_id": "FACT00283",
+    "plant_id": "PLANT005",
+    "plant_name": "Peace Lily",
+    "candidate_text": "If the soil is allowed to dry out excessively, the plant will wilt, and the leaves and edges will turn yellow.",
+    "topic_candidates": [
+      "leaves",
+      "soil",
+      "wilt",
+      "yellow"
+    ],
+    "source_url": "https://hgic.clemson.edu/factsheet/peace-lily/",
+    "source_type": "horticulture",
+    "source_id": "PLSRC005",
+    "context": "Peace Lily | Home & Garden Information Center",
+    "content_hash": "ed3efaf1d37e6ea6466573d1ccbd78d6c8d15273f830e1f7baf807e77ed91ab8",
+    "review_status": "needs_verification",
+    "verification_notes": "",
+    "approved_for_knowledge_base": false,
+    "filter_status": "needs_manual_review"
+  },
+  {
+    "fact_id": "FACT00284",
+    "plant_id": "PLANT005",
+    "plant_name": "Peace Lily",
+    "candidate_text": "When watering, it is best to use room temperature water.",
+    "topic_candidates": [
+      "temperature",
+      "water",
+      "watering"
+    ],
+    "source_url": "https://hgic.clemson.edu/factsheet/peace-lily/",
+    "source_type": "horticulture",
+    "source_id": "PLSRC005",
+    "context": "Peace Lily | Home & Garden Information Center",
+    "content_hash": "d5f677246105d46308c41bb48a09abeed4d4c4902b4f2297b4174fbf455598d5",
+    "review_status": "needs_verification",
+    "verification_notes": "",
+    "approved_for_knowledge_base": false,
+    "filter_status": "needs_manual_review"
+  },
+  {
+    "fact_id": "FACT00285",
+    "plant_id": "PLANT005",
+    "plant_name": "Peace Lily",
+    "candidate_text": "For more information on how to properly water houseplants, see HGIC 1459, Indoor Plants-Watering .",
+    "topic_candidates": [
+      "water",
+      "watering"
+    ],
+    "source_url": "https://hgic.clemson.edu/factsheet/peace-lily/",
+    "source_type": "horticulture",
+    "source_id": "PLSRC005",
+    "context": "Peace Lily | Home & Garden Information Center",
+    "content_hash": "c4684dada277194cf97893f47172f1d9b276459d0bc07ea45203790bef80c393",
+    "review_status": "needs_verification",
+    "verification_notes": "",
+    "approved_for_knowledge_base": false,
+    "filter_status": "needs_manual_review"
+  },
+  {
+    "fact_id": "FACT00286",
+    "plant_id": "PLANT005",
+    "plant_name": "Peace Lily",
+    "candidate_text": "Peace lilies will tolerate low light conditions but grow best in bright indirect light.",
+    "topic_candidates": [
+      "light"
+    ],
+    "source_url": "https://hgic.clemson.edu/factsheet/peace-lily/",
+    "source_type": "horticulture",
+    "source_id": "PLSRC005",
+    "context": "Peace Lily | Home & Garden Information Center",
+    "content_hash": "42f3800d2ca7dde070b4a2d013d3917aa4b91a5e4c9a7dfbaec6922c05b5afa1",
+    "review_status": "needs_verification",
+    "verification_notes": "",
+    "approved_for_knowledge_base": false,
+    "filter_status": "needs_manual_review"
+  },
+  {
+    "fact_id": "FACT00287",
+    "plant_id": "PLANT005",
+    "plant_name": "Peace Lily",
+    "candidate_text": "These plants need very little fertilizer.",
+    "topic_candidates": [
+      "fertilizer"
+    ],
+    "source_url": "https://hgic.clemson.edu/factsheet/peace-lily/",
+    "source_type": "horticulture",
+    "source_id": "PLSRC005",
+    "context": "Peace Lily | Home & Garden Information Center",
+    "content_hash": "873ac9affe693ea6c48966a5ed0b118c449946db42aedacfedfabe816fd1ee1e",
+    "review_status": "needs_verification",
+    "verification_notes": "",
+    "approved_for_knowledge_base": false,
+    "filter_status": "needs_manual_review"
+  },
+  {
+    "fact_id": "FACT00288",
+    "plant_id": "PLANT005",
+    "plant_name": "Peace Lily",
+    "candidate_text": "When fertilizing, use a balanced, liquid houseplant fertilizer, such as 20-20-20, every six to eight weeks during the spring and summer growing season.",
+    "topic_candidates": [
+      "fertilizer",
+      "growing"
+    ],
+    "source_url": "https://hgic.clemson.edu/factsheet/peace-lily/",
+    "source_type": "horticulture",
+    "source_id": "PLSRC005",
+    "context": "Peace Lily | Home & Garden Information Center",
+    "content_hash": "30a1453819a722c9044b490c359d9013b3ddee21e9623d254e03e23fbcf68762",
+    "review_status": "needs_verification",
+    "verification_notes": "",
+    "approved_for_knowledge_base": false,
+    "filter_status": "needs_manual_review"
+  },
+  {
+    "fact_id": "FACT00289",
+    "plant_id": "PLANT005",
+    "plant_name": "Peace Lily",
+    "candidate_text": "Overfertilizing peace lilies can cause the leaf tips and roots to burn and turn brown.",
+    "topic_candidates": [
+      "brown",
+      "leaf tip",
+      "root"
+    ],
+    "source_url": "https://hgic.clemson.edu/factsheet/peace-lily/",
+    "source_type": "horticulture",
+    "source_id": "PLSRC005",
+    "context": "Peace Lily | Home & Garden Information Center",
+    "content_hash": "c7e6e70304e5d1988470b752f09ac9050a554a625c68b5f68d4ee78ae0d5c19b",
+    "review_status": "needs_verification",
+    "verification_notes": "",
+    "approved_for_knowledge_base": false,
+    "filter_status": "needs_manual_review"
+  },
+  {
+    "fact_id": "FACT00291",
+    "plant_id": "PLANT005",
+    "plant_name": "Peace Lily",
+    "candidate_text": "Peace lilies like to be slightly pot-bound, but it is time to repot if roots start growing through the drainage holes or circle on top of the soil surface.",
+    "topic_candidates": [
+      "drainage",
+      "growing",
+      "light",
+      "pot",
+      "repot",
+      "root",
+      "soil"
+    ],
+    "source_url": "https://hgic.clemson.edu/factsheet/peace-lily/",
+    "source_type": "horticulture",
+    "source_id": "PLSRC005",
+    "context": "Peace Lily | Home & Garden Information Center",
+    "content_hash": "5c2f3a4507a052bfdc76f622f2991e8a09891e1389869bd59dbf852794ba28f9",
+    "review_status": "needs_verification",
+    "verification_notes": "",
+    "approved_for_knowledge_base": false,
+    "filter_status": "needs_manual_review"
+  },
+  {
+    "fact_id": "FACT00293",
+    "plant_id": "PLANT005",
+    "plant_name": "Peace Lily",
+    "candidate_text": "Using too large of a pot may keep the potting mix too wet, leading to root rot.",
+    "topic_candidates": [
+      "pot",
+      "root",
+      "root rot"
+    ],
+    "source_url": "https://hgic.clemson.edu/factsheet/peace-lily/",
+    "source_type": "horticulture",
+    "source_id": "PLSRC005",
+    "context": "Peace Lily | Home & Garden Information Center",
+    "content_hash": "62fc295dd4beb8cd7f96b5084d1199e949f79492036e852c9f3b76d8d7186fcd",
+    "review_status": "needs_verification",
+    "verification_notes": "",
+    "approved_for_knowledge_base": false,
+    "filter_status": "needs_manual_review"
+  },
+  {
+    "fact_id": "FACT00297",
+    "plant_id": "PLANT005",
+    "plant_name": "Peace Lily",
+    "candidate_text": "‘Starlight’ has striking, shiny, tough, dark green foliage.",
+    "topic_candidates": [
+      "light"
+    ],
+    "source_url": "https://hgic.clemson.edu/factsheet/peace-lily/",
+    "source_type": "horticulture",
+    "source_id": "PLSRC005",
+    "context": "Peace Lily | Home & Garden Information Center",
+    "content_hash": "c96329d3c5c87c98f05351d4d878fb30e63d0804468d672c6258e60400a4cda9",
+    "review_status": "needs_verification",
+    "verification_notes": "",
+    "approved_for_knowledge_base": false,
+    "filter_status": "needs_manual_review"
+  },
+  {
+    "fact_id": "FACT00298",
+    "plant_id": "PLANT005",
+    "plant_name": "Peace Lily",
+    "candidate_text": "It has a dwarf, compact growth habit and will mature at the height of 12 to 18 inches.",
+    "topic_candidates": [
+      "growth"
+    ],
+    "source_url": "https://hgic.clemson.edu/factsheet/peace-lily/",
+    "source_type": "horticulture",
+    "source_id": "PLSRC005",
+    "context": "Peace Lily | Home & Garden Information Center",
+    "content_hash": "58b894dc0f17687ce8cdda93e6c8549130fd46d2f29b3505ad2f6d4aa2e6cd46",
+    "review_status": "needs_verification",
+    "verification_notes": "",
+    "approved_for_knowledge_base": false,
+    "filter_status": "needs_manual_review"
+  },
+  {
+    "fact_id": "FACT00300",
+    "plant_id": "PLANT005",
+    "plant_name": "Peace Lily",
+    "candidate_text": "Peace lilies have few insect pests, but fungus gnats, mealybugs, spider mites, and scales can be problematic.",
+    "topic_candidates": [
+      "fungus",
+      "insect",
+      "mite",
+      "pest"
+    ],
+    "source_url": "https://hgic.clemson.edu/factsheet/peace-lily/",
+    "source_type": "horticulture",
+    "source_id": "PLSRC005",
+    "context": "Peace Lily | Home & Garden Information Center",
+    "content_hash": "413dd49cd5abbb640fb9624dc663835e2b247776c9838378e5061d69f4818a73",
+    "review_status": "needs_verification",
+    "verification_notes": "",
+    "approved_for_knowledge_base": false,
+    "filter_status": "needs_manual_review"
+  },
+  {
+    "fact_id": "FACT00301",
+    "plant_id": "PLANT005",
+    "plant_name": "Peace Lily",
+    "candidate_text": "Examine the leaves often for evidence of insect infestations.",
+    "topic_candidates": [
+      "insect",
+      "leaves"
+    ],
+    "source_url": "https://hgic.clemson.edu/factsheet/peace-lily/",
+    "source_type": "horticulture",
+    "source_id": "PLSRC005",
+    "context": "Peace Lily | Home & Garden Information Center",
+    "content_hash": "6f123a5a9a95a708bb6536e4b3ed3952256facb158b039b92c7c7534d2e0de92",
+    "review_status": "needs_verification",
+    "verification_notes": "",
+    "approved_for_knowledge_base": false,
+    "filter_status": "needs_manual_review"
+  },
+  {
+    "fact_id": "FACT00302",
+    "plant_id": "PLANT005",
+    "plant_name": "Peace Lily",
+    "candidate_text": "For information on controlling houseplant insect pests, see HGIC 2252 , Common Houseplant Insects & Related Pests .",
+    "topic_candidates": [
+      "insect",
+      "pest"
+    ],
+    "source_url": "https://hgic.clemson.edu/factsheet/peace-lily/",
+    "source_type": "horticulture",
+    "source_id": "PLSRC005",
+    "context": "Peace Lily | Home & Garden Information Center",
+    "content_hash": "d1c6af5f2004a587598ca967ed9dbe3a635485634b63d7e07a64a1610e980a83",
+    "review_status": "needs_verification",
+    "verification_notes": "",
+    "approved_for_knowledge_base": false,
+    "filter_status": "needs_manual_review"
+  },
+  {
+    "fact_id": "FACT00303",
+    "plant_id": "PLANT005",
+    "plant_name": "Peace Lily",
+    "candidate_text": "Root and stem diseases are the most common problem and are usually associated with over-watering practices.",
+    "topic_candidates": [
+      "disease",
+      "root",
+      "water",
+      "watering"
+    ],
+    "source_url": "https://hgic.clemson.edu/factsheet/peace-lily/",
+    "source_type": "horticulture",
+    "source_id": "PLSRC005",
+    "context": "Peace Lily | Home & Garden Information Center",
+    "content_hash": "229ac418f68769709ae188a64d9796954abd01b6ccfc03398753457e0dcd2569",
+    "review_status": "needs_verification",
+    "verification_notes": "",
+    "approved_for_knowledge_base": false,
+    "filter_status": "needs_manual_review"
+  },
+  {
+    "fact_id": "FACT00304",
+    "plant_id": "PLANT005",
+    "plant_name": "Peace Lily",
+    "candidate_text": "For more information on controlling houseplant diseases, see HGIC 2251, Houseplant Diseases & Disorders .",
+    "topic_candidates": [
+      "disease"
+    ],
+    "source_url": "https://hgic.clemson.edu/factsheet/peace-lily/",
+    "source_type": "horticulture",
+    "source_id": "PLSRC005",
+    "context": "Peace Lily | Home & Garden Information Center",
+    "content_hash": "e68d2a784db514ecf5ba2d7e265e5e78a30a6c04e67c27e9f96a0c1866d2daad",
+    "review_status": "needs_verification",
+    "verification_notes": "",
+    "approved_for_knowledge_base": false,
+    "filter_status": "needs_manual_review"
+  },
+  {
+    "fact_id": "FACT00305",
+    "plant_id": "PLANT005",
+    "plant_name": "Peace Lily",
+    "candidate_text": "Leaf tissue between the veins may turn yellow while veins remain green.",
+    "topic_candidates": [
+      "yellow"
+    ],
+    "source_url": "https://hgic.clemson.edu/factsheet/peace-lily/",
+    "source_type": "horticulture",
+    "source_id": "PLSRC005",
+    "context": "Peace Lily | Home & Garden Information Center",
+    "content_hash": "40f15a953fc2b41f2eb46c00a258ac8bf9ae5af29e10e2ba8136465d2742fa40",
+    "review_status": "needs_verification",
+    "verification_notes": "",
+    "approved_for_knowledge_base": false,
+    "filter_status": "needs_manual_review"
+  },
+  {
+    "fact_id": "FACT00306",
+    "plant_id": "PLANT005",
+    "plant_name": "Peace Lily",
+    "candidate_text": "The edges of the leaves can turn brown by overfertilization or by excessive drying.",
+    "topic_candidates": [
+      "brown",
+      "leaves"
+    ],
+    "source_url": "https://hgic.clemson.edu/factsheet/peace-lily/",
+    "source_type": "horticulture",
+    "source_id": "PLSRC005",
+    "context": "Peace Lily | Home & Garden Information Center",
+    "content_hash": "2c221d7e18556875c478fb6f00d095d5d91f48627bbd2a11220910c35d7d36b7",
+    "review_status": "needs_verification",
+    "verification_notes": "",
+    "approved_for_knowledge_base": false,
+    "filter_status": "needs_manual_review"
+  },
+  {
+    "fact_id": "FACT00307",
+    "plant_id": "PLANT005",
+    "plant_name": "Peace Lily",
+    "candidate_text": "Lack of flowering usually occurs when plants are less than a year old or are growing in insufficient light.",
+    "topic_candidates": [
+      "growing",
+      "light"
+    ],
+    "source_url": "https://hgic.clemson.edu/factsheet/peace-lily/",
+    "source_type": "horticulture",
+    "source_id": "PLSRC005",
+    "context": "Peace Lily | Home & Garden Information Center",
+    "content_hash": "b6d66c90b3151bd76045fe3133e06a8c4c14fad24514ee3ee02150afbdae9bbf",
+    "review_status": "needs_verification",
+    "verification_notes": "",
+    "approved_for_knowledge_base": false,
+    "filter_status": "needs_manual_review"
+  },
+  {
+    "fact_id": "FACT00308",
+    "plant_id": "",
+    "plant_name": "",
+    "candidate_text": "The main cause of death of potted plants is over-watering.",
+    "topic_candidates": [
+      "pot",
+      "water",
+      "watering"
+    ],
+    "source_url": "https://hgic.clemson.edu/factsheet/indoor-plants-watering/",
+    "source_type": "horticulture",
+    "source_id": "PLSRC006",
+    "context": "Indoor Plants – Watering | Home & Garden Information Center",
+    "content_hash": "38c68023ed6a800c5bda498e0a575342c61a4413ed901ff72de86b584da3dac3",
+    "review_status": "needs_verification",
+    "verification_notes": "",
+    "approved_for_knowledge_base": false,
+    "filter_status": "needs_manual_review"
+  },
+  {
+    "fact_id": "FACT00311",
+    "plant_id": "",
+    "plant_name": "",
+    "candidate_text": "The symptoms of over-watering and underwatering are similar.",
+    "topic_candidates": [
+      "symptom",
+      "underwater",
+      "water",
+      "watering"
+    ],
+    "source_url": "https://hgic.clemson.edu/factsheet/indoor-plants-watering/",
+    "source_type": "horticulture",
+    "source_id": "PLSRC006",
+    "context": "Indoor Plants – Watering | Home & Garden Information Center",
+    "content_hash": "1e801a367d33e7f05da28119ae4b6ef19a03ccf1a922305266c6253081bd5df3",
+    "review_status": "needs_verification",
+    "verification_notes": "",
+    "approved_for_knowledge_base": false,
+    "filter_status": "needs_manual_review"
+  },
+  {
+    "fact_id": "FACT00313",
+    "plant_id": "",
+    "plant_name": "",
+    "candidate_text": "Snake plant or mother-in-law’s tongue ( Sansevieria trifasciata ) is prone to rotting by over-watering.",
+    "topic_candidates": [
+      "water",
+      "watering"
+    ],
+    "source_url": "https://hgic.clemson.edu/factsheet/indoor-plants-watering/",
+    "source_type": "horticulture",
+    "source_id": "PLSRC006",
+    "context": "Indoor Plants – Watering | Home & Garden Information Center",
+    "content_hash": "f2fcfaf3fb3e0ca8dd3693f9b83306ee0bca63bb00a7747f569dd442c0b83f58",
+    "review_status": "needs_verification",
+    "verification_notes": "",
+    "approved_for_knowledge_base": false,
+    "filter_status": "needs_manual_review"
+  },
+  {
+    "fact_id": "FACT00315",
+    "plant_id": "",
+    "plant_name": "",
+    "candidate_text": "The amount and frequency of watering depends on many factors, such as the plant species, its growth stage, its location, the type and size of its pot, soil mix characteristics and variable weather conditions.",
+    "topic_candidates": [
+      "growth",
+      "pot",
+      "soil",
+      "water",
+      "watering"
+    ],
+    "source_url": "https://hgic.clemson.edu/factsheet/indoor-plants-watering/",
+    "source_type": "horticulture",
+    "source_id": "PLSRC006",
+    "context": "Indoor Plants – Watering | Home & Garden Information Center",
+    "content_hash": "616cd2e7fef48fb14eab4375b8b08ef7630e1255a223f3d387b0d27965b5715c",
+    "review_status": "needs_verification",
+    "verification_notes": "",
+    "approved_for_knowledge_base": false,
+    "filter_status": "needs_manual_review"
+  },
+  {
+    "fact_id": "FACT00316",
+    "plant_id": "",
+    "plant_name": "",
+    "candidate_text": "There is a wide range of watering requirements for different species of plants.",
+    "topic_candidates": [
+      "water",
+      "watering"
+    ],
+    "source_url": "https://hgic.clemson.edu/factsheet/indoor-plants-watering/",
+    "source_type": "horticulture",
+    "source_id": "PLSRC006",
+    "context": "Indoor Plants – Watering | Home & Garden Information Center",
+    "content_hash": "a94e5fc6517ad801624389163cef40b572d835e7040608c5f2c6a92fa721ea04",
+    "review_status": "needs_verification",
+    "verification_notes": "",
+    "approved_for_knowledge_base": false,
+    "filter_status": "needs_manual_review"
+  },
+  {
+    "fact_id": "FACT00317",
+    "plant_id": "",
+    "plant_name": "",
+    "candidate_text": "Plants with large or very thin leaves and those with fine surface roots usually require more frequent watering than succulent plants with fleshy leaves and stems that are able to store water.",
+    "topic_candidates": [
+      "leaves",
+      "root",
+      "water",
+      "watering"
+    ],
+    "source_url": "https://hgic.clemson.edu/factsheet/indoor-plants-watering/",
+    "source_type": "horticulture",
+    "source_id": "PLSRC006",
+    "context": "Indoor Plants – Watering | Home & Garden Information Center",
+    "content_hash": "884b538fdd0f73fc6de11eaa3adf265be076fda0d0ec7e882f751e3d07d102c5",
+    "review_status": "needs_verification",
+    "verification_notes": "",
+    "approved_for_knowledge_base": false,
+    "filter_status": "needs_manual_review"
+  },
+  {
+    "fact_id": "FACT00318",
+    "plant_id": "",
+    "plant_name": "",
+    "candidate_text": "Plants may slow in growth after a flush of new growth or a heavy flowering.",
+    "topic_candidates": [
+      "growth"
+    ],
+    "source_url": "https://hgic.clemson.edu/factsheet/indoor-plants-watering/",
+    "source_type": "horticulture",
+    "source_id": "PLSRC006",
+    "context": "Indoor Plants – Watering | Home & Garden Information Center",
+    "content_hash": "541125267e3a6df889af3374fd9308465ea1a27d25cf6b7ef5e777ba5de5486c",
+    "review_status": "needs_verification",
+    "verification_notes": "",
+    "approved_for_knowledge_base": false,
+    "filter_status": "needs_manual_review"
+  },
+  {
+    "fact_id": "FACT00320",
+    "plant_id": "",
+    "plant_name": "",
+    "candidate_text": "Water evaporates rapidly from the sides of a porous clay pot, which requires more frequent watering than nonporous, glazed or plastic pots.",
+    "topic_candidates": [
+      "pot",
+      "water",
+      "watering"
+    ],
+    "source_url": "https://hgic.clemson.edu/factsheet/indoor-plants-watering/",
+    "source_type": "horticulture",
+    "source_id": "PLSRC006",
+    "context": "Indoor Plants – Watering | Home & Garden Information Center",
+    "content_hash": "0fb983d785dc0f7b35725fdba550fc16b1cda320d1e98e925c1560d1e0328a04",
+    "review_status": "needs_verification",
+    "verification_notes": "",
+    "approved_for_knowledge_base": false,
+    "filter_status": "needs_manual_review"
+  },
+  {
+    "fact_id": "FACT00322",
+    "plant_id": "",
+    "plant_name": "",
+    "candidate_text": "A plant in a warm, dry, sunny location needs more frequent watering than one in a cool, low-light environment.",
+    "topic_candidates": [
+      "light",
+      "water",
+      "watering"
+    ],
+    "source_url": "https://hgic.clemson.edu/factsheet/indoor-plants-watering/",
+    "source_type": "horticulture",
+    "source_id": "PLSRC006",
+    "context": "Indoor Plants – Watering | Home & Garden Information Center",
+    "content_hash": "64128d60ef05fae6ff9eb00081f9beb0bee407bdb6a9ca30b13dff3202067989",
+    "review_status": "needs_verification",
+    "verification_notes": "",
+    "approved_for_knowledge_base": false,
+    "filter_status": "needs_manual_review"
+  },
+  {
+    "fact_id": "FACT00323",
+    "plant_id": "",
+    "plant_name": "",
+    "candidate_text": "Judge soil color – Potting mixtures will change from a dark to lighter color as they dry.",
+    "topic_candidates": [
+      "light",
+      "pot",
+      "soil"
+    ],
+    "source_url": "https://hgic.clemson.edu/factsheet/indoor-plants-watering/",
+    "source_type": "horticulture",
+    "source_id": "PLSRC006",
+    "context": "Indoor Plants – Watering | Home & Garden Information Center",
+    "content_hash": "92c53e7c69dda69fc83bf1cf4cf3b69d2c94bbf488583e5858a56b0b4279e660",
+    "review_status": "needs_verification",
+    "verification_notes": "",
+    "approved_for_knowledge_base": false,
+    "filter_status": "needs_manual_review"
+  },
+  {
+    "fact_id": "FACT00326",
+    "plant_id": "",
+    "plant_name": "",
+    "candidate_text": "Do not water plants with softened water because sodium and chloride will also be added to the soil mix, possibly causing plant damage.",
+    "topic_candidates": [
+      "soil",
+      "water"
+    ],
+    "source_url": "https://hgic.clemson.edu/factsheet/indoor-plants-watering/",
+    "source_type": "horticulture",
+    "source_id": "PLSRC006",
+    "context": "Indoor Plants – Watering | Home & Garden Information Center",
+    "content_hash": "7e52b1534ee24104f20a0825599503c598299415a8e667439bdd16612e9ad338",
+    "review_status": "needs_verification",
+    "verification_notes": "",
+    "approved_for_knowledge_base": false,
+    "filter_status": "needs_manual_review"
+  },
+  {
+    "fact_id": "FACT00327",
+    "plant_id": "",
+    "plant_name": "",
+    "candidate_text": "Although wilting is often an indication of the need to water, it is not always so.",
+    "topic_candidates": [
+      "water",
+      "wilt",
+      "wilting"
+    ],
+    "source_url": "https://hgic.clemson.edu/factsheet/indoor-plants-watering/",
+    "source_type": "horticulture",
+    "source_id": "PLSRC006",
+    "context": "Indoor Plants – Watering | Home & Garden Information Center",
+    "content_hash": "6b86e216c1c48d735e3735b74841e17e3441f044f179401f371a6ed669a8fe28",
+    "review_status": "needs_verification",
+    "verification_notes": "",
+    "approved_for_knowledge_base": false,
+    "filter_status": "needs_manual_review"
+  },
+  {
+    "fact_id": "FACT00328",
+    "plant_id": "",
+    "plant_name": "",
+    "candidate_text": "Any injury to the root system decreases a plant’s ability to take up water, including root rot, which is caused by too much water.",
+    "topic_candidates": [
+      "root",
+      "root rot",
+      "water"
+    ],
+    "source_url": "https://hgic.clemson.edu/factsheet/indoor-plants-watering/",
+    "source_type": "horticulture",
+    "source_id": "PLSRC006",
+    "context": "Indoor Plants – Watering | Home & Garden Information Center",
+    "content_hash": "9cbdf6c43ceb37e402c51da269f28a53bf59a43b28671592b6d64a566caf0f56",
+    "review_status": "needs_verification",
+    "verification_notes": "",
+    "approved_for_knowledge_base": false,
+    "filter_status": "needs_manual_review"
+  },
+  {
+    "fact_id": "FACT00329",
+    "plant_id": "",
+    "plant_name": "",
+    "candidate_text": "This inability to take up water will cause wilting, and under these conditions, watering may make the problem worse.",
+    "topic_candidates": [
+      "water",
+      "watering",
+      "wilt",
+      "wilting"
+    ],
+    "source_url": "https://hgic.clemson.edu/factsheet/indoor-plants-watering/",
+    "source_type": "horticulture",
+    "source_id": "PLSRC006",
+    "context": "Indoor Plants – Watering | Home & Garden Information Center",
+    "content_hash": "3b8ef46625600634f75ece0f86d62e65f0801f83b9c37d7f9ddb84997121b83f",
+    "review_status": "needs_verification",
+    "verification_notes": "",
+    "approved_for_knowledge_base": false,
+    "filter_status": "needs_manual_review"
+  },
+  {
+    "fact_id": "FACT00330",
+    "plant_id": "",
+    "plant_name": "",
+    "candidate_text": "Diseases are not common on most houseplants grown indoors because environmental conditions are not favorable for plant pathogens to grow and infect the plants.",
+    "topic_candidates": [
+      "disease"
+    ],
+    "source_url": "https://hgic.clemson.edu/factsheet/houseplant-diseases-disorders/",
+    "source_type": "horticulture",
+    "source_id": "PLSRC007",
+    "context": "Houseplant Diseases & Disorders | Home & Garden Information Center",
+    "content_hash": "a246ca61bffb3fffdfbeb64bc92244f80c3f98ff263372a38745d2bf034db794",
+    "review_status": "needs_verification",
+    "verification_notes": "",
+    "approved_for_knowledge_base": false,
+    "filter_status": "needs_manual_review"
+  },
+  {
+    "fact_id": "FACT00331",
+    "plant_id": "",
+    "plant_name": "",
+    "candidate_text": "Control of diseases begins with prevention.",
+    "topic_candidates": [
+      "disease"
+    ],
+    "source_url": "https://hgic.clemson.edu/factsheet/houseplant-diseases-disorders/",
+    "source_type": "horticulture",
+    "source_id": "PLSRC007",
+    "context": "Houseplant Diseases & Disorders | Home & Garden Information Center",
+    "content_hash": "cebb71348638773605d7b7055fcdc55928758d21241aa48dc8018d8c2615b551",
+    "review_status": "needs_verification",
+    "verification_notes": "",
+    "approved_for_knowledge_base": false,
+    "filter_status": "needs_manual_review"
+  },
+  {
+    "fact_id": "FACT00333",
+    "plant_id": "",
+    "plant_name": "",
+    "candidate_text": "Before reusing any pots, they should be scrubbed clean and rinsed in a solution of one part bleach to nine parts water to kill any disease organisms present.",
+    "topic_candidates": [
+      "disease",
+      "pot",
+      "water"
+    ],
+    "source_url": "https://hgic.clemson.edu/factsheet/houseplant-diseases-disorders/",
+    "source_type": "horticulture",
+    "source_id": "PLSRC007",
+    "context": "Houseplant Diseases & Disorders | Home & Garden Information Center",
+    "content_hash": "6fa984df21df0571fbf9235efe1e79d1ecd5acabac3551da0f7ba5de917977b5",
+    "review_status": "needs_verification",
+    "verification_notes": "",
+    "approved_for_knowledge_base": false,
+    "filter_status": "needs_manual_review"
+  },
+  {
+    "fact_id": "FACT00334",
+    "plant_id": "",
+    "plant_name": "",
+    "candidate_text": "Take good care of your plants (proper fertilizing, watering, and spacing) and c",
+    "topic_candidates": [
+      "water",
+      "watering"
+    ],
+    "source_url": "https://hgic.clemson.edu/factsheet/houseplant-diseases-disorders/",
+    "source_type": "horticulture",
+    "source_id": "PLSRC007",
+    "context": "Houseplant Diseases & Disorders | Home & Garden Information Center",
+    "content_hash": "beb4755ca07b2d20f7247f1d34bafc3be9e4beaba8954efefea34b29e25cc044",
+    "review_status": "needs_verification",
+    "verification_notes": "",
+    "approved_for_knowledge_base": false,
+    "filter_status": "needs_manual_review"
+  },
+  {
+    "fact_id": "FACT00335",
+    "plant_id": "",
+    "plant_name": "",
+    "candidate_text": "The leaf tips turn yellow, then tan, then dark brown.",
+    "topic_candidates": [
+      "brown",
+      "leaf tip",
+      "yellow"
+    ],
+    "source_url": "https://hgic.clemson.edu/factsheet/houseplant-diseases-disorders/",
+    "source_type": "horticulture",
+    "source_id": "PLSRC007",
+    "context": "Houseplant Diseases & Disorders | Home & Garden Information Center",
+    "content_hash": "3c7eb705d70a0da3a933804f91797e6ce9884adb47cc7cfa48f0ed8a24e8fc75",
+    "review_status": "needs_verification",
+    "verification_notes": "",
+    "approved_for_knowledge_base": false,
+    "filter_status": "needs_manual_review"
+  },
+  {
+    "fact_id": "FACT00336",
+    "plant_id": "",
+    "plant_name": "",
+    "candidate_text": "The browning may extend completely around the leaf.",
+    "topic_candidates": [
+      "brown"
+    ],
+    "source_url": "https://hgic.clemson.edu/factsheet/houseplant-diseases-disorders/",
+    "source_type": "horticulture",
+    "source_id": "PLSRC007",
+    "context": "Houseplant Diseases & Disorders | Home & Garden Information Center",
+    "content_hash": "753860957ee95f235be21f613e4ca99894d405d54e30a83ce985d816d1a0ca61",
+    "review_status": "needs_verification",
+    "verification_notes": "",
+    "approved_for_knowledge_base": false,
+    "filter_status": "needs_manual_review"
+  },
+  {
+    "fact_id": "FACT00338",
+    "plant_id": "",
+    "plant_name": "",
+    "candidate_text": "Sprays of copper soap, chlorothalonil, myclobutanil, or tebuconazole can be used after removing infected plant parts in order to reduce the incidence of future disease.",
+    "topic_candidates": [
+      "disease"
+    ],
+    "source_url": "https://hgic.clemson.edu/factsheet/houseplant-diseases-disorders/",
+    "source_type": "horticulture",
+    "source_id": "PLSRC007",
+    "context": "Houseplant Diseases & Disorders | Home & Garden Information Center",
+    "content_hash": "9e212244c49b6de9447508fb6426c4705499422e5d5f71bdc77af636a7288624",
+    "review_status": "needs_verification",
+    "verification_notes": "",
+    "approved_for_knowledge_base": false,
+    "filter_status": "needs_manual_review"
+  },
+  {
+    "fact_id": "FACT00339",
+    "plant_id": "",
+    "plant_name": "",
+    "candidate_text": "Fungal Leaf Spots: Several fungi can cause leaf spots.",
+    "topic_candidates": [
+      "fungal",
+      "pot",
+      "spots"
+    ],
+    "source_url": "https://hgic.clemson.edu/factsheet/houseplant-diseases-disorders/",
+    "source_type": "horticulture",
+    "source_id": "PLSRC007",
+    "context": "Houseplant Diseases & Disorders | Home & Garden Information Center",
+    "content_hash": "cdfcd4aa1135cf664dfdac0e5fb07b359a323a218806d7cc2b261e877d6a1dd9",
+    "review_status": "needs_verification",
+    "verification_notes": "",
+    "approved_for_knowledge_base": false,
+    "filter_status": "needs_manual_review"
+  },
+  {
+    "fact_id": "FACT00340",
+    "plant_id": "",
+    "plant_name": "",
+    "candidate_text": "Symptoms include small, brown spots with yellowish margins on the leaves.",
+    "topic_candidates": [
+      "brown",
+      "leaves",
+      "pot",
+      "spots",
+      "symptom",
+      "yellow"
+    ],
+    "source_url": "https://hgic.clemson.edu/factsheet/houseplant-diseases-disorders/",
+    "source_type": "horticulture",
+    "source_id": "PLSRC007",
+    "context": "Houseplant Diseases & Disorders | Home & Garden Information Center",
+    "content_hash": "ae30ac4d8ffffa82a252c6a2a95232d4b75cce4d082e232f8a8589deca20bea9",
+    "review_status": "needs_verification",
+    "verification_notes": "",
+    "approved_for_knowledge_base": false,
+    "filter_status": "needs_manual_review"
+  },
+  {
+    "fact_id": "FACT00343",
+    "plant_id": "",
+    "plant_name": "",
+    "candidate_text": "Bacterial Leaf Spots: Plants infected with bacteria have water-soaked spots, sometimes with a yellow halo, usually uniform in size, and sometimes with a sticky ooze.",
+    "topic_candidates": [
+      "pot",
+      "spots",
+      "water",
+      "yellow"
+    ],
+    "source_url": "https://hgic.clemson.edu/factsheet/houseplant-diseases-disorders/",
+    "source_type": "horticulture",
+    "source_id": "PLSRC007",
+    "context": "Houseplant Diseases & Disorders | Home & Garden Information Center",
+    "content_hash": "7cf6111e1591326d4fe1af27fdfc24d49a6da0fcbc0be4e7dc13e973ddc65b00",
+    "review_status": "needs_verification",
+    "verification_notes": "",
+    "approved_for_knowledge_base": false,
+    "filter_status": "needs_manual_review"
+  },
+  {
+    "fact_id": "FACT00346",
+    "plant_id": "",
+    "plant_name": "",
+    "candidate_text": "Prevention & Treatment: Remove all diseased plant material.",
+    "topic_candidates": [
+      "disease"
+    ],
+    "source_url": "https://hgic.clemson.edu/factsheet/houseplant-diseases-disorders/",
+    "source_type": "horticulture",
+    "source_id": "PLSRC007",
+    "context": "Houseplant Diseases & Disorders | Home & Garden Information Center",
+    "content_hash": "41586f9202a2343f69fc8847b4bcaa6ce2dd11c3014267c5556f98b425566b2b",
+    "review_status": "needs_verification",
+    "verification_notes": "",
+    "approved_for_knowledge_base": false,
+    "filter_status": "needs_manual_review"
+  },
+  {
+    "fact_id": "FACT00348",
+    "plant_id": "",
+    "plant_name": "",
+    "candidate_text": "Sprays of copper soap or Bacillus amyloliquefaciens can be used after removing infected plant parts in order to reduce the incidence of future disease.",
+    "topic_candidates": [
+      "disease"
+    ],
+    "source_url": "https://hgic.clemson.edu/factsheet/houseplant-diseases-disorders/",
+    "source_type": "horticulture",
+    "source_id": "PLSRC007",
+    "context": "Houseplant Diseases & Disorders | Home & Garden Information Center",
+    "content_hash": "ac11cc441f10b8d6cad57a5321484a1d94dbce7debaa43f667d14b6d451ff3ec",
+    "review_status": "needs_verification",
+    "verification_notes": "",
+    "approved_for_knowledge_base": false,
+    "filter_status": "needs_manual_review"
+  },
+  {
+    "fact_id": "FACT00349",
+    "plant_id": "",
+    "plant_name": "",
+    "candidate_text": "Root Rot & Stem Rot: The fungi Rhizoctonia , Pythium , Botrytis , Phytophthora , Alternaria , and Sclerotinia cause these diseases.",
+    "topic_candidates": [
+      "disease",
+      "root",
+      "root rot"
+    ],
+    "source_url": "https://hgic.clemson.edu/factsheet/houseplant-diseases-disorders/",
+    "source_type": "horticulture",
+    "source_id": "PLSRC007",
+    "context": "Houseplant Diseases & Disorders | Home & Garden Information Center",
+    "content_hash": "0c3b801d81917c49f16ee137703e3d5805e8fec1522608ab7a65761f71269c4d",
+    "review_status": "needs_verification",
+    "verification_notes": "",
+    "approved_for_knowledge_base": false,
+    "filter_status": "needs_manual_review"
+  },
+  {
+    "fact_id": "FACT00350",
+    "plant_id": "",
+    "plant_name": "",
+    "candidate_text": "With root or stem rot, leaves and stems show noticeable wilt.",
+    "topic_candidates": [
+      "leaves",
+      "root",
+      "wilt"
+    ],
+    "source_url": "https://hgic.clemson.edu/factsheet/houseplant-diseases-disorders/",
+    "source_type": "horticulture",
+    "source_id": "PLSRC007",
+    "context": "Houseplant Diseases & Disorders | Home & Garden Information Center",
+    "content_hash": "d810beb1f68e3208c515602633d8718e5d357197afc42c1aa2fbf442d2b45bf3",
+    "review_status": "needs_verification",
+    "verification_notes": "",
+    "approved_for_knowledge_base": false,
+    "filter_status": "needs_manual_review"
+  },
+  {
+    "fact_id": "FACT00351",
+    "plant_id": "",
+    "plant_name": "",
+    "candidate_text": "Stems may be girdled at or near soil level by a ring of brown or black tissue.",
+    "topic_candidates": [
+      "brown",
+      "soil"
+    ],
+    "source_url": "https://hgic.clemson.edu/factsheet/houseplant-diseases-disorders/",
+    "source_type": "horticulture",
+    "source_id": "PLSRC007",
+    "context": "Houseplant Diseases & Disorders | Home & Garden Information Center",
+    "content_hash": "6f07a62180ebaf238114c4ef2057f9337cd513d04c6e50aa74cab832747c2e3a",
+    "review_status": "needs_verification",
+    "verification_notes": "",
+    "approved_for_knowledge_base": false,
+    "filter_status": "needs_manual_review"
+  },
+  {
+    "fact_id": "FACT00352",
+    "plant_id": "",
+    "plant_name": "",
+    "candidate_text": "Infected roots are brown to black and may be soft.",
+    "topic_candidates": [
+      "brown",
+      "root"
+    ],
+    "source_url": "https://hgic.clemson.edu/factsheet/houseplant-diseases-disorders/",
+    "source_type": "horticulture",
+    "source_id": "PLSRC007",
+    "context": "Houseplant Diseases & Disorders | Home & Garden Information Center",
+    "content_hash": "91818e3b271e121fe7e83b721dda6bb98159df3fc918d0ff550888c04ffcde73",
+    "review_status": "needs_verification",
+    "verification_notes": "",
+    "approved_for_knowledge_base": false,
+    "filter_status": "needs_manual_review"
+  },
+  {
+    "fact_id": "FACT00354",
+    "plant_id": "",
+    "plant_name": "",
+    "candidate_text": "Do not overwater the plants since too much water increases the occurrence of root rot.",
+    "topic_candidates": [
+      "overwater",
+      "root",
+      "root rot",
+      "water"
+    ],
+    "source_url": "https://hgic.clemson.edu/factsheet/houseplant-diseases-disorders/",
+    "source_type": "horticulture",
+    "source_id": "PLSRC007",
+    "context": "Houseplant Diseases & Disorders | Home & Garden Information Center",
+    "content_hash": "761f629334379a4a2a303cb08f06e679185b1e9458e73ae0e8e0dff6a8a8649e",
+    "review_status": "needs_verification",
+    "verification_notes": "",
+    "approved_for_knowledge_base": false,
+    "filter_status": "needs_manual_review"
+  },
+  {
+    "fact_id": "FACT00356",
+    "plant_id": "",
+    "plant_name": "",
+    "candidate_text": "Powdery Mildew: Powdery mildew of houseplants is caused by an infection from one of several genera of fungal pathogens.",
+    "topic_candidates": [
+      "fungal"
+    ],
+    "source_url": "https://hgic.clemson.edu/factsheet/houseplant-diseases-disorders/",
+    "source_type": "horticulture",
+    "source_id": "PLSRC007",
+    "context": "Houseplant Diseases & Disorders | Home & Garden Information Center",
+    "content_hash": "d8d5b0cc0f66da617d87cc29d60107bf049744b2fabd2af72c2f6e4255ed14ac",
+    "review_status": "needs_verification",
+    "verification_notes": "",
+    "approved_for_knowledge_base": false,
+    "filter_status": "needs_manual_review"
+  },
+  {
+    "fact_id": "FACT00357",
+    "plant_id": "",
+    "plant_name": "",
+    "candidate_text": "These fungi cause the formation of white, powdery growth or dry, brown, papery leaf spots.",
+    "topic_candidates": [
+      "brown",
+      "growth",
+      "pot",
+      "spots"
+    ],
+    "source_url": "https://hgic.clemson.edu/factsheet/houseplant-diseases-disorders/",
+    "source_type": "horticulture",
+    "source_id": "PLSRC007",
+    "context": "Houseplant Diseases & Disorders | Home & Garden Information Center",
+    "content_hash": "08d71dfb28fee83547b078faeba5339d9ca2b44c1e0cfca6d0d886a515b02d5f",
+    "review_status": "needs_verification",
+    "verification_notes": "",
+    "approved_for_knowledge_base": false,
+    "filter_status": "needs_manual_review"
+  },
+  {
+    "fact_id": "FACT00359",
+    "plant_id": "",
+    "plant_name": "",
+    "candidate_text": "Prevention & Treatment: Since the disease develops most rapidly under humid conditions, proper ventilation and not overwatering will help control this disease.",
+    "topic_candidates": [
+      "disease",
+      "overwater",
+      "water",
+      "watering"
+    ],
+    "source_url": "https://hgic.clemson.edu/factsheet/houseplant-diseases-disorders/",
+    "source_type": "horticulture",
+    "source_id": "PLSRC007",
+    "context": "Houseplant Diseases & Disorders | Home & Garden Information Center",
+    "content_hash": "d4f385548ccf35201a4cfac95b4350939a92c74aae660cf31d61d0c2187217df",
+    "review_status": "needs_verification",
+    "verification_notes": "",
+    "approved_for_knowledge_base": false,
+    "filter_status": "needs_manual_review"
+  },
+  {
+    "fact_id": "FACT00360",
+    "plant_id": "",
+    "plant_name": "",
+    "candidate_text": "Over- or under-watering is a major contributor to houseplant decline.",
+    "topic_candidates": [
+      "water",
+      "watering"
+    ],
+    "source_url": "https://hgic.clemson.edu/factsheet/houseplant-diseases-disorders/",
+    "source_type": "horticulture",
+    "source_id": "PLSRC007",
+    "context": "Houseplant Diseases & Disorders | Home & Garden Information Center",
+    "content_hash": "d3a3bac27b279bb8ec18e533b62b92cdb32dae023e1e4422a010e79dda876e63",
+    "review_status": "needs_verification",
+    "verification_notes": "",
+    "approved_for_knowledge_base": false,
+    "filter_status": "needs_manual_review"
+  },
+  {
+    "fact_id": "FACT00361",
+    "plant_id": "",
+    "plant_name": "",
+    "candidate_text": "Overwatering decreases the amount of oxygen available for root growth and favors the devel",
+    "topic_candidates": [
+      "growth",
+      "overwater",
+      "root",
+      "water",
+      "watering"
+    ],
+    "source_url": "https://hgic.clemson.edu/factsheet/houseplant-diseases-disorders/",
+    "source_type": "horticulture",
+    "source_id": "PLSRC007",
+    "context": "Houseplant Diseases & Disorders | Home & Garden Information Center",
+    "content_hash": "52553f6721b8032921130d711787a614955046f0d3ad0e9dc114971dbe1c73e1",
+    "review_status": "needs_verification",
+    "verification_notes": "",
+    "approved_for_knowledge_base": false,
+    "filter_status": "needs_manual_review"
+  },
+  {
+    "fact_id": "FACT00362",
+    "plant_id": "",
+    "plant_name": "",
+    "candidate_text": "Excessive soil moisture and poor lighting with low temperatures predispose plants to oedema.",
+    "topic_candidates": [
+      "light",
+      "moisture",
+      "soil",
+      "temperature"
+    ],
+    "source_url": "https://hgic.clemson.edu/factsheet/houseplant-diseases-disorders/",
+    "source_type": "horticulture",
+    "source_id": "PLSRC007",
+    "context": "Houseplant Diseases & Disorders | Home & Garden Information Center",
+    "content_hash": "83ec57b34f3685ee090e32393c950341db5df4444cf86e5c387d26d2a6ffb750",
+    "review_status": "needs_verification",
+    "verification_notes": "",
+    "approved_for_knowledge_base": false,
+    "filter_status": "needs_manual_review"
+  },
+  {
+    "fact_id": "FACT00363",
+    "plant_id": "",
+    "plant_name": "",
+    "candidate_text": "If injury continues, the leaves turn yellow, droop and fall from the pla",
+    "topic_candidates": [
+      "leaves",
+      "yellow"
+    ],
+    "source_url": "https://hgic.clemson.edu/factsheet/houseplant-diseases-disorders/",
+    "source_type": "horticulture",
+    "source_id": "PLSRC007",
+    "context": "Houseplant Diseases & Disorders | Home & Garden Information Center",
+    "content_hash": "f24a319c8b78b166f20852241d0b8d495a3f15ca1ee61d58122f7316610380b1",
+    "review_status": "needs_verification",
+    "verification_notes": "",
+    "approved_for_knowledge_base": false,
+    "filter_status": "needs_manual_review"
+  },
+  {
+    "fact_id": "FACT00364",
+    "plant_id": "",
+    "plant_name": "",
+    "candidate_text": "Leaf Drop: Either over-or under-watering can cause leaf drop.",
+    "topic_candidates": [
+      "water",
+      "watering"
+    ],
+    "source_url": "https://hgic.clemson.edu/factsheet/houseplant-diseases-disorders/",
+    "source_type": "horticulture",
+    "source_id": "PLSRC007",
+    "context": "Houseplant Diseases & Disorders | Home & Garden Information Center",
+    "content_hash": "26377610471ee449c5c04a8a5a4bfc4b1bfc58e0490701c2f48be315e54dcab9",
+    "review_status": "needs_verification",
+    "verification_notes": "",
+    "approved_for_knowledge_base": false,
+    "filter_status": "needs_manual_review"
+  },
+  {
+    "fact_id": "FACT00366",
+    "plant_id": "",
+    "plant_name": "",
+    "candidate_text": "Insects and diseases occasionally cause leaf dro",
+    "topic_candidates": [
+      "disease",
+      "insect"
+    ],
+    "source_url": "https://hgic.clemson.edu/factsheet/houseplant-diseases-disorders/",
+    "source_type": "horticulture",
+    "source_id": "PLSRC007",
+    "context": "Houseplant Diseases & Disorders | Home & Garden Information Center",
+    "content_hash": "b2eabf80789e17d9ebb84f0421fcbeb9a49832ea1fc91d3df1a8a9285450475b",
+    "review_status": "needs_verification",
+    "verification_notes": "",
+    "approved_for_knowledge_base": false,
+    "filter_status": "needs_manual_review"
+  },
+  {
+    "fact_id": "FACT00367",
+    "plant_id": "",
+    "plant_name": "",
+    "candidate_text": "Brown Leaf Tips & Edges: Brown leaf tips and margins can be caused by exposure to hot, dry air, improper watering, insect feeding, and salt accumulation.",
+    "topic_candidates": [
+      "brown",
+      "insect",
+      "leaf tip",
+      "water",
+      "watering"
+    ],
+    "source_url": "https://hgic.clemson.edu/factsheet/houseplant-diseases-disorders/",
+    "source_type": "horticulture",
+    "source_id": "PLSRC007",
+    "context": "Houseplant Diseases & Disorders | Home & Garden Information Center",
+    "content_hash": "ddf73a60a23ca2d1f02143cce5a2fe8a59220c4d80eb38f3ed35857e6f6435a9",
+    "review_status": "needs_verification",
+    "verification_notes": "",
+    "approved_for_knowledge_base": false,
+    "filter_status": "needs_manual_review"
+  },
+  {
+    "fact_id": "FACT00368",
+    "plant_id": "",
+    "plant_name": "",
+    "candidate_text": "White to grey crusty deposits on the soil surface or rim of pots is a sign of salt buildup. (Do not confuse this with the white or yellow mold-like growth of saprophytic soil fungi.) Some housepla",
+    "topic_candidates": [
+      "growth",
+      "pot",
+      "soil",
+      "yellow"
+    ],
+    "source_url": "https://hgic.clemson.edu/factsheet/houseplant-diseases-disorders/",
+    "source_type": "horticulture",
+    "source_id": "PLSRC007",
+    "context": "Houseplant Diseases & Disorders | Home & Garden Information Center",
+    "content_hash": "9d56c727b43feab6f61a4cf66f72a071489598a41de46395437fa817a241f776",
+    "review_status": "needs_verification",
+    "verification_notes": "",
+    "approved_for_knowledge_base": false,
+    "filter_status": "needs_manual_review"
+  },
+  {
+    "fact_id": "FACT00372",
+    "plant_id": "",
+    "plant_name": "",
+    "candidate_text": "Wilting: Some common causes of wilting are a lack of water, excess water, root rot, too much fertilizer, and/or a salt buildup.",
+    "topic_candidates": [
+      "fertilizer",
+      "root",
+      "root rot",
+      "water",
+      "wilt",
+      "wilting"
+    ],
+    "source_url": "https://hgic.clemson.edu/factsheet/houseplant-diseases-disorders/",
+    "source_type": "horticulture",
+    "source_id": "PLSRC007",
+    "context": "Houseplant Diseases & Disorders | Home & Garden Information Center",
+    "content_hash": "4a99d551a2241a25cfb0bb83c7c919bea313a3e84b8c4ced36526afd44fa4293",
+    "review_status": "needs_verification",
+    "verification_notes": "",
+    "approved_for_knowledge_base": false,
+    "filter_status": "needs_manual_review"
+  },
+  {
+    "fact_id": "FACT00373",
+    "plant_id": "",
+    "plant_name": "",
+    "candidate_text": "Overwatering will cause the roots to die from a lack of oxygen.",
+    "topic_candidates": [
+      "overwater",
+      "root",
+      "water",
+      "watering"
+    ],
+    "source_url": "https://hgic.clemson.edu/factsheet/houseplant-diseases-disorders/",
+    "source_type": "horticulture",
+    "source_id": "PLSRC007",
+    "context": "Houseplant Diseases & Disorders | Home & Garden Information Center",
+    "content_hash": "cb75005d8138bbbb776ea70dac601406e64b0046c89d097adebc3e0bd2cad8b6",
+    "review_status": "needs_verification",
+    "verification_notes": "",
+    "approved_for_knowledge_base": false,
+    "filter_status": "needs_manual_review"
+  },
+  {
+    "fact_id": "FACT00374",
+    "plant_id": "",
+    "plant_name": "",
+    "candidate_text": "Provide drainage, and reduce watering.",
+    "topic_candidates": [
+      "drainage",
+      "water",
+      "watering"
+    ],
+    "source_url": "https://hgic.clemson.edu/factsheet/houseplant-diseases-disorders/",
+    "source_type": "horticulture",
+    "source_id": "PLSRC007",
+    "context": "Houseplant Diseases & Disorders | Home & Garden Information Center",
+    "content_hash": "5f42d29416d4212d9e62230caa0bfb8d8f090e7dca8b56ddcdb8cff02ee7ea20",
+    "review_status": "needs_verification",
+    "verification_notes": "",
+    "approved_for_knowledge_base": false,
+    "filter_status": "needs_manual_review"
+  },
+  {
+    "fact_id": "FACT00377",
+    "plant_id": "",
+    "plant_name": "",
+    "candidate_text": "Yellowing of the Entire Plant: Foliage may become yellow because of too little light, too little fertilizer, insect pests, or mites.",
+    "topic_candidates": [
+      "fertilizer",
+      "insect",
+      "light",
+      "mite",
+      "pest",
+      "yellow"
+    ],
+    "source_url": "https://hgic.clemson.edu/factsheet/houseplant-diseases-disorders/",
+    "source_type": "horticulture",
+    "source_id": "PLSRC007",
+    "context": "Houseplant Diseases & Disorders | Home & Garden Information Center",
+    "content_hash": "20bb9a75f2b6754bc026e8f0a0987326a55bb30ff51e8d8b04c876fee48f7b47",
+    "review_status": "needs_verification",
+    "verification_notes": "",
+    "approved_for_knowledge_base": false,
+    "filter_status": "needs_manual_review"
+  },
+  {
+    "fact_id": "FACT00378",
+    "plant_id": "",
+    "plant_name": "",
+    "candidate_text": "Most often, yellowing is a symptom caused by overwatering.",
+    "topic_candidates": [
+      "overwater",
+      "symptom",
+      "water",
+      "watering",
+      "yellow"
+    ],
+    "source_url": "https://hgic.clemson.edu/factsheet/houseplant-diseases-disorders/",
+    "source_type": "horticulture",
+    "source_id": "PLSRC007",
+    "context": "Houseplant Diseases & Disorders | Home & Garden Information Center",
+    "content_hash": "2c551b516c5aab2532dbd599688605f08263b8355e4b79ca88bcd68620d63e8e",
+    "review_status": "needs_verification",
+    "verification_notes": "",
+    "approved_for_knowledge_base": false,
+    "filter_status": "needs_manual_review"
+  },
+  {
+    "fact_id": "FACT00379",
+    "plant_id": "",
+    "plant_name": "",
+    "candidate_text": "Check for drainage in the pot, examine the roots, and if most are dark, soft, and dead, it is better to discard the plant.",
+    "topic_candidates": [
+      "drainage",
+      "pot",
+      "root"
+    ],
+    "source_url": "https://hgic.clemson.edu/factsheet/houseplant-diseases-disorders/",
+    "source_type": "horticulture",
+    "source_id": "PLSRC007",
+    "context": "Houseplant Diseases & Disorders | Home & Garden Information Center",
+    "content_hash": "958e3a3ea873b0fc36fad2cf2096dfeae7c45ede078a79b4cc2085df7860be10",
+    "review_status": "needs_verification",
+    "verification_notes": "",
+    "approved_for_knowledge_base": false,
+    "filter_status": "needs_manual_review"
+  },
+  {
+    "fact_id": "FACT00380",
+    "plant_id": "",
+    "plant_name": "",
+    "candidate_text": "Yellowing, Browning & Death of Lower Leaves: This is generally caused by nitrogen or iron deficiency.",
+    "topic_candidates": [
+      "brown",
+      "leaves",
+      "yellow"
+    ],
+    "source_url": "https://hgic.clemson.edu/factsheet/houseplant-diseases-disorders/",
+    "source_type": "horticulture",
+    "source_id": "PLSRC007",
+    "context": "Houseplant Diseases & Disorders | Home & Garden Information Center",
+    "content_hash": "18f45e44ed56adbb5b95d86b0b70ed6d61019c3f50792fe2d1fe981965973dc3",
+    "review_status": "needs_verification",
+    "verification_notes": "",
+    "approved_for_knowledge_base": false,
+    "filter_status": "needs_manual_review"
+  },
+  {
+    "fact_id": "FACT00382",
+    "plant_id": "",
+    "plant_name": "",
+    "candidate_text": "Regular application of fertilizer and repotting periodically in fresh soil avoids this problem.",
+    "topic_candidates": [
+      "fertilizer",
+      "pot",
+      "repot",
+      "soil"
+    ],
+    "source_url": "https://hgic.clemson.edu/factsheet/houseplant-diseases-disorders/",
+    "source_type": "horticulture",
+    "source_id": "PLSRC007",
+    "context": "Houseplant Diseases & Disorders | Home & Garden Information Center",
+    "content_hash": "1f573fdf73646f0fd941d5adb59584a5c36209f5235adaba871f1f73a39e8310",
+    "review_status": "needs_verification",
+    "verification_notes": "",
+    "approved_for_knowledge_base": false,
+    "filter_status": "needs_manual_review"
+  },
+  {
+    "fact_id": "FACT00383",
+    "plant_id": "",
+    "plant_name": "",
+    "candidate_text": "Lower foliage may turn yellow and senesce if the plants are allowed to become too dry for an extended time.",
+    "topic_candidates": [
+      "yellow"
+    ],
+    "source_url": "https://hgic.clemson.edu/factsheet/houseplant-diseases-disorders/",
+    "source_type": "horticulture",
+    "source_id": "PLSRC007",
+    "context": "Houseplant Diseases & Disorders | Home & Garden Information Center",
+    "content_hash": "f68153350a96c1ad3022516d4cf85ff849258cd0f7c652223319e357d4e602d5",
+    "review_status": "needs_verification",
+    "verification_notes": "",
+    "approved_for_knowledge_base": false,
+    "filter_status": "needs_manual_review"
+  },
+  {
+    "fact_id": "FACT00384",
+    "plant_id": "",
+    "plant_name": "",
+    "candidate_text": "Bud Drop: The premature dropping of flower buds may be caused by lack of fertilization, excessive nitrogen, excessively dry soil, overwatering, or spraying with cold water.",
+    "topic_candidates": [
+      "overwater",
+      "soil",
+      "water",
+      "watering"
+    ],
+    "source_url": "https://hgic.clemson.edu/factsheet/houseplant-diseases-disorders/",
+    "source_type": "horticulture",
+    "source_id": "PLSRC007",
+    "context": "Houseplant Diseases & Disorders | Home & Garden Information Center",
+    "content_hash": "111cf91e2309e8dbd1ea20b01abbb6b9f0fc81febfe7ba2dd9f589de7f30c740",
+    "review_status": "needs_verification",
+    "verification_notes": "",
+    "approved_for_knowledge_base": false,
+    "filter_status": "needs_manual_review"
+  },
+  {
+    "fact_id": "FACT00385",
+    "plant_id": "",
+    "plant_name": "",
+    "candidate_text": "Cold Water Spots: Watering with cold water or splashing water on the leaves sometimes causes white or straw-colored spots or patches on the leaves of some plants.",
+    "topic_candidates": [
+      "leaves",
+      "pot",
+      "spots",
+      "water",
+      "watering"
+    ],
+    "source_url": "https://hgic.clemson.edu/factsheet/houseplant-diseases-disorders/",
+    "source_type": "horticulture",
+    "source_id": "PLSRC007",
+    "context": "Houseplant Diseases & Disorders | Home & Garden Information Center",
+    "content_hash": "418041dfc7648bbe82e97b66411ece9725b45cd1933ec867bbcb79a1244addd2",
+    "review_status": "needs_verification",
+    "verification_notes": "",
+    "approved_for_knowledge_base": false,
+    "filter_status": "needs_manual_review"
+  },
+  {
+    "fact_id": "FACT00386",
+    "plant_id": "",
+    "plant_name": "",
+    "candidate_text": "Fungicides to Control Diseases on Houseplants",
+    "topic_candidates": [
+      "disease"
+    ],
+    "source_url": "https://hgic.clemson.edu/factsheet/houseplant-diseases-disorders/",
+    "source_type": "horticulture",
+    "source_id": "PLSRC007",
+    "context": "Houseplant Diseases & Disorders | Home & Garden Information Center",
+    "content_hash": "ff6a77b6e104c045b5b3b53aa8cae7e6253754fe6ae9782a5101648c6683d9a3",
+    "review_status": "needs_verification",
+    "verification_notes": "",
+    "approved_for_knowledge_base": false,
+    "filter_status": "needs_manual_review"
+  },
+  {
+    "fact_id": "FACT00388",
+    "plant_id": "",
+    "plant_name": "",
+    "candidate_text": "The other active ingredients: pyrethrins, permethrin, and imidacloprid are insecticides; tau-fluvalinate is a miticide.",
+    "topic_candidates": [
+      "insect"
+    ],
+    "source_url": "https://hgic.clemson.edu/factsheet/houseplant-diseases-disorders/",
+    "source_type": "horticulture",
+    "source_id": "PLSRC007",
+    "context": "Houseplant Diseases & Disorders | Home & Garden Information Center",
+    "content_hash": "5e0a27967842e674d584a9078f65258fa30ae7e25a70fddd3eeb6a068548753b",
+    "review_status": "needs_verification",
+    "verification_notes": "",
+    "approved_for_knowledge_base": false,
+    "filter_status": "needs_manual_review"
+  }
+]

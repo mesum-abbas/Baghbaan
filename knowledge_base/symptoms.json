@@ -1,0 +1,66 @@
+{
+    "symptoms": [
+        "yellow_leaves",
+        "wilting_drooping",
+        "brown_leaf_tips",
+        "leaf_spots_or_visible_pests",
+        "slow_growth"
+    ],
+    "coverage": [
+        {
+            "plant_id": "PLANT001",
+            "plant_name": "Money Plant",
+            "symptom_research": {
+                "yellow_leaves": "pending",
+                "wilting_drooping": "pending",
+                "brown_leaf_tips": "pending",
+                "leaf_spots_or_visible_pests": "pending",
+                "slow_growth": "pending"
+            }
+        },
+        {
+            "plant_id": "PLANT002",
+            "plant_name": "Snake Plant",
+            "symptom_research": {
+                "yellow_leaves": "pending",
+                "wilting_drooping": "pending",
+                "brown_leaf_tips": "pending",
+                "leaf_spots_or_visible_pests": "pending",
+                "slow_growth": "pending"
+            }
+        },
+        {
+            "plant_id": "PLANT003",
+            "plant_name": "Aloe Vera",
+            "symptom_research": {
+                "yellow_leaves": "pending",
+                "wilting_drooping": "pending",
+                "brown_leaf_tips": "pending",
+                "leaf_spots_or_visible_pests": "pending",
+                "slow_growth": "pending"
+            }
+        },
+        {
+            "plant_id": "PLANT004",
+            "plant_name": "Spider Plant",
+            "symptom_research": {
+                "yellow_leaves": "pending",
+                "wilting_drooping": "pending",
+                "brown_leaf_tips": "pending",
+                "leaf_spots_or_visible_pests": "pending",
+                "slow_growth": "pending"
+            }
+        },
+        {
+            "plant_id": "PLANT005",
+            "plant_name": "Peace Lily",
+            "symptom_research": {
+                "yellow_leaves": "pending",
+                "wilting_drooping": "pending",
+                "brown_leaf_tips": "pending",
+                "leaf_spots_or_visible_pests": "pending",
+                "slow_growth": "pending"
+            }
+        }
+    ]
+}

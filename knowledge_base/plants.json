@@ -1,0 +1,47 @@
+[
+    {
+        "plant_id": "PLANT001",
+        "common_name": "Money Plant",
+        "other_names": [
+            "Golden Pothos",
+            "Pothos"
+        ],
+        "scientific_name": "Epipremnum aureum",
+        "status": "in_scope",
+        "research_status": "pending"
+    },
+    {
+        "plant_id": "PLANT002",
+        "common_name": "Snake Plant",
+        "other_names": [
+            "Mother-in-law's Tongue"
+        ],
+        "scientific_name": "Dracaena trifasciata",
+        "status": "in_scope",
+        "research_status": "pending"
+    },
+    {
+        "plant_id": "PLANT003",
+        "common_name": "Aloe Vera",
+        "other_names": [],
+        "scientific_name": "Aloe vera",
+        "status": "in_scope",
+        "research_status": "pending"
+    },
+    {
+        "plant_id": "PLANT004",
+        "common_name": "Spider Plant",
+        "other_names": [],
+        "scientific_name": "Chlorophytum comosum",
+        "status": "in_scope",
+        "research_status": "pending"
+    },
+    {
+        "plant_id": "PLANT005",
+        "common_name": "Peace Lily",
+        "other_names": [],
+        "scientific_name": "Spathiphyllum species",
+        "status": "in_scope",
+        "research_status": "pending"
+    }
+]
