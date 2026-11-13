@@ -1,0 +1,56 @@
+{
+  "plant_id": "money_plant",
+  "rules": [
+    {"id": "MP01", "symptom": "yellow_leaves", "if": {"how_many": "one_two"}, "then": "natural_aging"},
+    {"id": "MP02", "symptom": "yellow_leaves", "if": {"how_many": "many", "yellow_type": ["whole", "pale"], "soil": "wet", "smell": "yes"}, "then": "root_rot", "note": "Pothos is prone to Pythium root rot when the soil stays wet."},
+    {"id": "MP03", "symptom": "yellow_leaves", "if": {"how_many": "many", "yellow_type": ["whole", "pale"], "soil": "wet", "smell": "no", "drainage": "no"}, "then": "poor_drainage"},
+    {"id": "MP04", "symptom": "yellow_leaves", "if": {"how_many": "many", "yellow_type": ["whole", "pale"], "soil": "wet", "smell": "no", "drainage": "yes"}, "then": "overwatering"},
+    {"id": "MP05", "symptom": "yellow_leaves", "if": {"how_many": "many", "yellow_type": ["whole", "pale"], "soil": "dry"}, "then": "underwatering"},
+    {"id": "MP06", "symptom": "yellow_leaves", "if": {"how_many": "many", "yellow_type": "veins_green", "leaves_where": ["lower", "all"]}, "then": "magnesium_deficiency"},
+    {"id": "MP07", "symptom": "yellow_leaves", "if": {"how_many": "many", "yellow_type": "veins_green", "leaves_where": "new"}, "then": "iron_deficiency"},
+    {"id": "MP08", "symptom": "yellow_leaves", "if": {"how_many": "many", "yellow_type": ["whole", "pale"], "soil": "moist", "light": "low"}, "then": "low_light"},
+    {"id": "MP09", "symptom": "yellow_leaves", "if": {"how_many": "many", "yellow_type": ["whole", "pale"], "soil": "moist", "light": "direct"}, "then": "sunburn"},
+    {"id": "MP10", "symptom": "yellow_leaves", "if": {"how_many": "many", "yellow_type": ["whole", "pale"], "soil": "moist", "light": "bright", "fertilizer": "never"}, "then": "nitrogen_deficiency"},
+    {"id": "MP11", "symptom": "yellow_leaves", "if": {"how_many": "many", "yellow_type": ["whole", "pale"], "soil": "moist", "light": "bright", "fertilizer": "heavy"}, "then": "fertilizer_burn"},
+    {"id": "MP12", "symptom": "yellow_leaves", "if": {"how_many": "many", "yellow_type": ["whole", "pale"], "soil": "moist", "light": "bright", "fertilizer": "normal", "moved": "yes"}, "then": "transplant_shock"},
+    {"id": "MP13", "symptom": "yellow_leaves", "if": {"how_many": "many", "yellow_type": "halo", "spread_fast": "yes"}, "then": "bacterial_leaf_spot", "note": "Pothos commonly gets Xanthomonas bacterial leaf spot."},
+    {"id": "MP14", "symptom": "yellow_leaves", "if": {"how_many": "many", "yellow_type": "halo", "spread_fast": "no"}, "then": "fungal_leaf_spot"},
+
+    {"id": "MP15", "symptom": "brown_tips", "if": {"tip_type": "tips", "soil": "dry"}, "then": "underwatering"},
+    {"id": "MP16", "symptom": "brown_tips", "if": {"tip_type": "tips", "soil": "wet"}, "then": "overwatering"},
+    {"id": "MP17", "symptom": "brown_tips", "if": {"tip_type": "tips", "soil": "moist", "crust": "yes"}, "then": "fertilizer_burn"},
+    {"id": "MP18", "symptom": "brown_tips", "if": {"tip_type": "tips", "soil": "moist", "crust": "no", "dry_air": "yes"}, "then": "low_humidity"},
+    {"id": "MP19", "symptom": "brown_tips", "if": {"tip_type": ["edges", "patches"], "cold": "yes"}, "then": "cold_damage"},
+    {"id": "MP20", "symptom": "brown_tips", "if": {"tip_type": ["edges", "patches"], "cold": "no", "light": "direct"}, "then": "sunburn"},
+    {"id": "MP21", "symptom": "brown_tips", "if": {"tip_type": "edges", "cold": "no", "light": ["bright", "low"]}, "then": "potassium_deficiency"},
+    {"id": "MP22", "symptom": "brown_tips", "if": {"tip_type": "patches", "cold": "no", "light": ["bright", "low"]}, "then": "fungal_leaf_spot"},
+
+    {"id": "MP23", "symptom": "drooping", "if": {"soil": "wet", "smell": "yes"}, "then": "root_rot"},
+    {"id": "MP24", "symptom": "drooping", "if": {"soil": "wet", "smell": "no"}, "then": "overwatering"},
+    {"id": "MP25", "symptom": "drooping", "if": {"soil": "dry", "dries_fast": "yes"}, "then": "root_bound"},
+    {"id": "MP26", "symptom": "drooping", "if": {"soil": "dry", "dries_fast": "no"}, "then": "underwatering"},
+    {"id": "MP27", "symptom": "drooping", "if": {"soil": "moist", "moved": "yes"}, "then": "transplant_shock"},
+    {"id": "MP28", "symptom": "drooping", "if": {"soil": "moist", "moved": "no", "cold": "yes"}, "then": "cold_damage"},
+    {"id": "MP29", "symptom": "drooping", "if": {"soil": "moist", "moved": "no", "cold": "no", "heat": "yes"}, "then": "heat_stress"},
+
+    {"id": "MP30", "symptom": "leaf_spots", "if": {"spot_look": "wet"}, "then": "bacterial_leaf_spot", "note": "Pothos commonly gets Xanthomonas bacterial leaf spot."},
+    {"id": "MP31", "symptom": "leaf_spots", "if": {"spot_look": "dry_ring"}, "then": "fungal_leaf_spot"},
+    {"id": "MP32", "symptom": "leaf_spots", "if": {"spot_look": "stipple"}, "then": "spider_mites"},
+    {"id": "MP33", "symptom": "leaf_spots", "if": {"spot_look": "bleached"}, "then": "sunburn"},
+    {"id": "MP34", "symptom": "leaf_spots", "if": {"spot_look": "corky"}, "then": "edema"},
+    {"id": "MP35", "symptom": "leaf_spots", "if": {"spot_look": "sooty"}, "then": "sooty_mold"},
+
+    {"id": "MP36", "symptom": "pests", "if": {"pests_seen": "webbing"}, "then": "spider_mites"},
+    {"id": "MP37", "symptom": "pests", "if": {"pests_seen": "cotton"}, "then": "mealybugs"},
+    {"id": "MP38", "symptom": "pests", "if": {"pests_seen": "bumps"}, "then": "scale_insects"},
+    {"id": "MP39", "symptom": "pests", "if": {"pests_seen": "flies"}, "then": "fungus_gnats"},
+    {"id": "MP40", "symptom": "pests", "if": {"pests_seen": "thrips"}, "then": "thrips"},
+    {"id": "MP41", "symptom": "pests", "if": {"pests_seen": "none", "sticky": "yes"}, "then": "scale_insects", "note": "Sticky leaves with no visible insects usually mean scale hiding on the stems."},
+
+    {"id": "MP42", "symptom": "slow_growth", "if": {"growth": "leggy"}, "then": "etiolation"},
+    {"id": "MP43", "symptom": "slow_growth", "if": {"growth": "small_pale", "fertilizer": "never"}, "then": "nutrient_deficiency"},
+    {"id": "MP44", "symptom": "slow_growth", "if": {"growth": "small_pale", "fertilizer": ["normal", "heavy"], "repot_age": "long"}, "then": "root_bound"},
+    {"id": "MP45", "symptom": "slow_growth", "if": {"growth": "stalled", "season": "yes"}, "then": "dormancy"},
+    {"id": "MP46", "symptom": "slow_growth", "if": {"growth": "stalled", "season": "no", "light": "low"}, "then": "low_light"}
+  ]
+}

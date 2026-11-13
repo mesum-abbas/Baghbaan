@@ -1,0 +1,53 @@
+{
+  "plant_id": "aloe_vera",
+  "rules": [
+    {"id": "AV01", "symptom": "soft_rot", "if": {"smell": "yes"}, "then": "bacterial_soft_rot", "note": "Aloe soft rot often starts at the base of the rosette. Save healthy offsets (pups) if the base is lost."},
+    {"id": "AV02", "symptom": "soft_rot", "if": {"smell": "no", "cold": "yes"}, "then": "cold_damage", "note": "Frost-damaged aloe tissue turns soft and translucent within a day or two."},
+    {"id": "AV03", "symptom": "soft_rot", "if": {"smell": "no", "cold": "no", "soil": "wet"}, "then": "root_rot"},
+    {"id": "AV04", "symptom": "soft_rot", "if": {"smell": "no", "cold": "no", "soil": "moist"}, "then": "overwatering", "note": "Aloe needs a gritty cactus mix and should dry out almost completely between waterings."},
+
+    {"id": "AV05", "symptom": "color_change", "if": {"cold": "yes"}, "then": "cold_damage"},
+    {"id": "AV06", "symptom": "color_change", "if": {"cold": "no", "light": "direct"}, "then": "sun_stress_coloring"},
+    {"id": "AV07", "symptom": "color_change", "if": {"cold": "no", "light": ["bright", "low"], "soil": "wet"}, "then": "overwatering"},
+    {"id": "AV08", "symptom": "color_change", "if": {"cold": "no", "light": ["bright", "low"], "soil": "dry"}, "then": "underwatering"},
+    {"id": "AV09", "symptom": "color_change", "if": {"cold": "no", "light": ["bright", "low"], "soil": "moist", "fertilizer": "heavy"}, "then": "fertilizer_burn"},
+
+    {"id": "AV10", "symptom": "wrinkled_leaves", "if": {"soil": "dry"}, "then": "underwatering", "note": "Aloe stores water in its leaves. Thin, curled leaves mean it has used up its reserve."},
+    {"id": "AV11", "symptom": "wrinkled_leaves", "if": {"soil": "wet", "smell": "yes"}, "then": "root_rot", "note": "Rotten roots cannot take up water, so leaves shrivel even in wet soil."},
+    {"id": "AV12", "symptom": "wrinkled_leaves", "if": {"soil": "wet", "smell": "no"}, "then": "overwatering"},
+    {"id": "AV13", "symptom": "wrinkled_leaves", "if": {"soil": "moist", "repot_age": "long"}, "then": "root_bound"},
+
+    {"id": "AV14", "symptom": "leaf_bending", "if": {"light": "low"}, "then": "etiolation", "note": "Aloe in low light grows flat, pale and floppy instead of upright."},
+    {"id": "AV15", "symptom": "leaf_bending", "if": {"light": ["bright", "direct"], "soil": "dry"}, "then": "underwatering"},
+    {"id": "AV16", "symptom": "leaf_bending", "if": {"light": ["bright", "direct"], "soil": "wet"}, "then": "overwatering"},
+    {"id": "AV17", "symptom": "leaf_bending", "if": {"light": ["bright", "direct"], "soil": "moist", "repot_age": "long"}, "then": "root_bound"},
+
+    {"id": "AV18", "symptom": "leaf_spots", "if": {"spot_look": "rust"}, "then": "aloe_rust"},
+    {"id": "AV19", "symptom": "leaf_spots", "if": {"spot_look": "dry_ring"}, "then": "fungal_leaf_spot"},
+    {"id": "AV20", "symptom": "leaf_spots", "if": {"spot_look": "wet"}, "then": "bacterial_soft_rot", "note": "Water-soaked spots on aloe are often the start of bacterial soft rot."},
+    {"id": "AV21", "symptom": "leaf_spots", "if": {"spot_look": "bleached"}, "then": "sunburn"},
+    {"id": "AV22", "symptom": "leaf_spots", "if": {"spot_look": "corky"}, "then": "edema"},
+    {"id": "AV23", "symptom": "leaf_spots", "if": {"spot_look": "stipple"}, "then": "spider_mites"},
+
+    {"id": "AV24", "symptom": "brown_tips", "if": {"tip_type": "tips", "soil": "dry"}, "then": "underwatering"},
+    {"id": "AV25", "symptom": "brown_tips", "if": {"tip_type": "tips", "soil": "wet"}, "then": "overwatering"},
+    {"id": "AV26", "symptom": "brown_tips", "if": {"tip_type": "tips", "soil": "moist", "crust": "yes"}, "then": "fertilizer_burn"},
+    {"id": "AV27", "symptom": "brown_tips", "if": {"tip_type": "tips", "soil": "moist", "crust": "no", "light": "direct"}, "then": "sunburn"},
+    {"id": "AV28", "symptom": "brown_tips", "if": {"tip_type": ["edges", "patches"], "cold": "yes"}, "then": "cold_damage"},
+    {"id": "AV29", "symptom": "brown_tips", "if": {"tip_type": ["edges", "patches"], "cold": "no", "light": "direct"}, "then": "sunburn"},
+
+    {"id": "AV30", "symptom": "pests", "if": {"pests_seen": "cotton"}, "then": "mealybugs", "note": "Check between the leaves and at the roots. Aloe mealybugs often hide in the soil."},
+    {"id": "AV31", "symptom": "pests", "if": {"pests_seen": "bumps"}, "then": "scale_insects"},
+    {"id": "AV32", "symptom": "pests", "if": {"pests_seen": "aphids"}, "then": "aphids", "note": "Aloe aphids often hide deep between the leaves."},
+    {"id": "AV33", "symptom": "pests", "if": {"pests_seen": "flies"}, "then": "fungus_gnats", "note": "Gnats around an aloe mean the soil is staying far too wet for a succulent."},
+    {"id": "AV34", "symptom": "pests", "if": {"pests_seen": "none", "galls": "yes"}, "then": "aloe_mite"},
+    {"id": "AV35", "symptom": "pests", "if": {"pests_seen": "none", "galls": "no", "sticky": "yes"}, "then": "scale_insects"},
+
+    {"id": "AV36", "symptom": "slow_growth", "if": {"growth": "leggy"}, "then": "etiolation"},
+    {"id": "AV37", "symptom": "slow_growth", "if": {"growth": "stalled", "season": "yes"}, "then": "dormancy"},
+    {"id": "AV38", "symptom": "slow_growth", "if": {"growth": "stalled", "season": "no", "repot_age": "long"}, "then": "root_bound", "note": "Crowded pups (offsets) can also slow the mother plant. Separate them when repotting."},
+    {"id": "AV39", "symptom": "slow_growth", "if": {"growth": "stalled", "season": "no", "repot_age": "recent", "light": "low"}, "then": "low_light"},
+    {"id": "AV40", "symptom": "slow_growth", "if": {"growth": "small_pale", "soil": "wet"}, "then": "overwatering"},
+    {"id": "AV41", "symptom": "slow_growth", "if": {"growth": "small_pale", "soil": ["moist", "dry"], "fertilizer": "never"}, "then": "nutrient_deficiency"}
+  ]
+}

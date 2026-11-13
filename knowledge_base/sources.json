@@ -8,6 +8,7 @@
       "watering",
       "light",
       "soil",
+      "humidity",
       "yellow_leaves",
       "brown_leaf_tips",
       "pests",
@@ -27,9 +28,7 @@
       "yellow_leaves",
       "wilting",
       "root_rot"
-    ],
-    "organization": "Penn State Extension",
-    "title": "Snake Plant: A Forgiving, Low-Maintenance Houseplant"
+    ]
   },
   {
     "source_id": "PLSRC003",
@@ -43,7 +42,8 @@
       "temperature",
       "yellow_leaves",
       "brown_spots",
-      "pests"
+      "pests",
+      "root_rot"
     ]
   },
   {
@@ -73,7 +73,8 @@
       "yellow_leaves",
       "brown_leaf_tips",
       "wilting",
-      "pests"
+      "pests",
+      "root_disease"
     ]
   },
   {

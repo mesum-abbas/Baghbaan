@@ -1,0 +1,377 @@
+{
+  "_comment": "Question bank shared by all plants. Order matters only as a tie-breaker when the engine picks the next question. 'yes_no' expands to Yes / No options. Every question also gets a 'Not sure' button in the UI.",
+  "questions": [
+    {
+      "id": "how_many",
+      "text": "How many leaves are yellow?",
+      "text_ur": "Kitni pattiyan peeli ho rahi hain?",
+      "options": [
+        {"value": "one_two", "label": "Only 1-2 old leaves, once in a while"},
+        {"value": "many", "label": "Several leaves, and more keep turning yellow"}
+      ]
+    },
+    {
+      "id": "yellow_type",
+      "text": "What does the yellowing look like?",
+      "text_ur": "Peela-pan kaisa dikhta hai?",
+      "options": [
+        {"value": "whole", "label": "Whole leaf evenly yellow"},
+        {"value": "pale", "label": "Whole plant looks pale / washed out"},
+        {"value": "veins_green", "label": "Yellow between the veins, veins stay green"},
+        {"value": "halo", "label": "Yellow rings around brown or dark spots"}
+      ]
+    },
+    {
+      "id": "flower_state",
+      "text": "What is the problem with the flowers?",
+      "text_ur": "Phoolon ke sath kya masla hai?",
+      "options": [
+        {"value": "none", "label": "No flowers at all"},
+        {"value": "green", "label": "White flowers are turning green"},
+        {"value": "brown", "label": "Flowers turn brown and dry quickly"}
+      ]
+    },
+    {
+      "id": "pests_seen",
+      "text": "Look closely under the leaves, along the stems and on the soil. What do you see?",
+      "text_ur": "Pattiyon ke neeche, tano par aur mitti par ghaur se dekhein. Kya nazar aata hai?",
+      "options": [
+        {"value": "webbing", "label": "Fine webbing or tiny moving dots"},
+        {"value": "cotton", "label": "White cottony clumps"},
+        {"value": "bumps", "label": "Brown / tan bumps that scrape off with a nail"},
+        {"value": "flies", "label": "Tiny black flies around the soil"},
+        {"value": "thrips", "label": "Slender tiny insects or silvery streaks"},
+        {"value": "aphids", "label": "Clusters of soft green or black insects on new growth"},
+        {"value": "whitefly", "label": "Tiny white insects that fly up when touched"},
+        {"value": "none", "label": "No insects visible"}
+      ]
+    },
+    {
+      "id": "spot_look",
+      "text": "What do the spots or patches look like?",
+      "text_ur": "Dhabbe ya nishaan kaise dikhte hain?",
+      "options": [
+        {"value": "wet", "label": "Dark, wet-looking (water-soaked) spots"},
+        {"value": "dry_ring", "label": "Dry brown / tan spots with a darker edge or rings"},
+        {"value": "red", "label": "Reddish-brown spots with a lighter centre"},
+        {"value": "rust", "label": "Raised orange-brown round spots"},
+        {"value": "stipple", "label": "Many tiny pale or yellow dots (speckling)"},
+        {"value": "bleached", "label": "Pale, white or tan dry patches on the side facing the sun"},
+        {"value": "corky", "label": "Small raised corky bumps, mostly under the leaves"},
+        {"value": "sooty", "label": "Black sooty film that wipes off"}
+      ]
+    },
+    {
+      "id": "tip_type",
+      "text": "How does the browning look?",
+      "text_ur": "Bhoora-pan (brown hona) kaisa hai?",
+      "options": [
+        {"value": "tips", "label": "Only the leaf tips are brown and dry"},
+        {"value": "edges", "label": "Leaf edges are brown, often with a yellow band"},
+        {"value": "patches", "label": "Dry brown patches in the middle of leaves"}
+      ]
+    },
+    {
+      "id": "growth",
+      "text": "How is the plant growing?",
+      "text_ur": "Podha kaise barh raha hai?",
+      "options": [
+        {"value": "leggy", "label": "Long bare stems, small far-apart leaves, leaning to the light"},
+        {"value": "small_pale", "label": "New leaves come out small and pale"},
+        {"value": "stalled", "label": "Looks healthy but almost no new growth"}
+      ]
+    },
+    {
+      "id": "leaf_bend",
+      "text": "How are the leaves falling or bending?",
+      "text_ur": "Pattiyan kaise gir ya jhuk rahi hain?",
+      "options": [
+        {"value": "base", "label": "Falling over from the base"},
+        {"value": "middle", "label": "Bending or creasing in the middle, base is firm"}
+      ]
+    },
+    {
+      "id": "plant_age",
+      "text": "How old / big is the plant?",
+      "text_ur": "Podha kitna purana / bara hai?",
+      "options": [
+        {"value": "young", "label": "Young or small (under about 1 year)"},
+        {"value": "mature", "label": "Mature and well established"}
+      ]
+    },
+    {
+      "id": "white_threads",
+      "text": "Do you see white cottony threads with tiny tan 'mustard seed' balls at the soil line?",
+      "text_ur": "Kya mitti ki satah par safed resha (dhaage) aur rai jaise chhote bhoore daane nazar aate hain?",
+      "options": "yes_no"
+    },
+    {
+      "id": "sticky",
+      "text": "Are the leaves sticky, or covered with a black sooty film?",
+      "text_ur": "Kya pattiyan chipchipi hain ya un par kaali kaalikh jaisi teh hai?",
+      "options": "yes_no"
+    },
+    {
+      "id": "galls",
+      "text": "Are there swollen, warty or deformed growths on the leaves or flower stalk?",
+      "text_ur": "Kya pattiyon ya phool ki dandi par phooli hui, khurdari ya bigri hui growth hai?",
+      "options": "yes_no"
+    },
+    {
+      "id": "soil",
+      "text": "Push a finger 2-3 cm into the soil. How does it feel?",
+      "text_ur": "Ungli 2-3 cm mitti mein daal kar dekhein. Mitti kaisi hai?",
+      "options": [
+        {"value": "wet", "label": "Wet or soggy"},
+        {"value": "moist", "label": "Slightly moist"},
+        {"value": "dry", "label": "Completely dry"}
+      ]
+    },
+    {
+      "id": "smell",
+      "text": "Does the soil or the base of the plant smell sour or rotten?",
+      "text_ur": "Kya mitti ya podey ki jarh se sadi hui / khatti boo aati hai?",
+      "options": "yes_no"
+    },
+    {
+      "id": "drainage",
+      "text": "Does the pot have a drainage hole, and does water drain out freely?",
+      "text_ur": "Kya gamle mein drainage hole hai aur paani aasani se nikal jata hai?",
+      "options": "yes_no"
+    },
+    {
+      "id": "dries_fast",
+      "text": "Does the soil dry out within 1-2 days after a full watering?",
+      "text_ur": "Kya poora paani dene ke 1-2 din mein hi mitti sookh jati hai?",
+      "options": "yes_no"
+    },
+    {
+      "id": "leaves_where",
+      "text": "Which leaves are affected most?",
+      "text_ur": "Kaun si pattiyan zyada mutasir hain?",
+      "options": [
+        {"value": "lower", "label": "Older, lower leaves"},
+        {"value": "new", "label": "New, young leaves"},
+        {"value": "all", "label": "All over the plant"}
+      ]
+    },
+    {
+      "id": "spread_fast",
+      "text": "Are the spots spreading quickly (new ones within a few days)?",
+      "text_ur": "Kya dhabbe tezi se phail rahe hain (kuch dinon mein naye dhabbe)?",
+      "options": "yes_no"
+    },
+    {
+      "id": "crust",
+      "text": "Is there a white or yellow crust on the soil surface or the pot rim?",
+      "text_ur": "Kya mitti ki satah ya gamle ke kinare par safed / peeli teh (crust) jami hai?",
+      "options": "yes_no"
+    },
+    {
+      "id": "cold",
+      "text": "Has the plant been near cold (below about 10 C), a cold window, or a cold draft?",
+      "text_ur": "Kya podha thand (10 C se kam), thandi khirki ya thandi hawa ke qareeb raha hai?",
+      "options": "yes_no"
+    },
+    {
+      "id": "light",
+      "text": "What light does the plant get?",
+      "text_ur": "Podey ko kitni roshni milti hai?",
+      "options": [
+        {"value": "direct", "label": "Several hours of direct sun"},
+        {"value": "bright", "label": "Bright light, but no direct sun"},
+        {"value": "low", "label": "Dim spot, far from a window"}
+      ]
+    },
+    {
+      "id": "fertilizer",
+      "text": "How do you fertilize the plant?",
+      "text_ur": "Aap podey ko khaad (fertilizer) kaise dete hain?",
+      "options": [
+        {"value": "heavy", "label": "Often, or a strong dose recently"},
+        {"value": "normal", "label": "Light doses in spring / summer"},
+        {"value": "never", "label": "Rarely or never (6+ months)"}
+      ]
+    },
+    {
+      "id": "water_type",
+      "text": "What water do you mostly use?",
+      "text_ur": "Aap aksar kaun sa paani istemal karte hain?",
+      "options": [
+        {"value": "tap", "label": "Tap / municipal water"},
+        {"value": "clean", "label": "Filtered, RO or rain water"}
+      ]
+    },
+    {
+      "id": "dry_air",
+      "text": "Is the plant near an AC or heater, or in a very dry room?",
+      "text_ur": "Kya podha AC ya heater ke qareeb hai, ya kamre ki hawa bohat khushk hai?",
+      "options": "yes_no"
+    },
+    {
+      "id": "moved",
+      "text": "Was the plant moved, repotted or bought in the last 3-4 weeks?",
+      "text_ur": "Kya pichle 3-4 hafton mein podha jagah badla, repot hua ya khareeda gaya?",
+      "options": "yes_no"
+    },
+    {
+      "id": "heat",
+      "text": "Is the plant in a very hot spot (above about 35 C, hot wall or window glass)?",
+      "text_ur": "Kya podha bohat garam jagah par hai (35 C se zyada, garam deewar ya sheesha)?",
+      "options": "yes_no"
+    },
+    {
+      "id": "season",
+      "text": "Is it currently winter / the cold season?",
+      "text_ur": "Kya abhi sardi ka mausam hai?",
+      "options": "yes_no"
+    },
+    {
+      "id": "repot_age",
+      "text": "When was the plant last repotted?",
+      "text_ur": "Podha aakhri baar kab repot hua tha?",
+      "options": [
+        {"value": "long", "label": "More than 2 years ago, or never"},
+        {"value": "recent", "label": "Within the last 2 years"}
+      ]
+    },
+    {
+      "id": "night_light",
+      "text": "Is the plant under room lights for most of the night?",
+      "text_ur": "Kya podha raat ke zyada hissay mein kamre ki roshni mein rehta hai?",
+      "options": "yes_no"
+    },
+
+    {
+      "id": "roots",
+      "text": "Gently slide the plant out of its pot. How do the roots look?",
+      "text_ur": "Podey ko aahista gamle se nikaal kar jarein dekhein. Jarein kaisi hain?",
+      "options": [
+        {"value": "rotten", "label": "Brown or black, mushy, falling apart"},
+        {"value": "crowded", "label": "Firm, but packed tightly and circling the pot"},
+        {"value": "healthy", "label": "White or light, firm, with space left"}
+      ]
+    },
+    {
+      "id": "soil_wet_days",
+      "text": "Does the soil stay wet for many days after watering?",
+      "text_ur": "Kya paani dene ke baad mitti kai din tak geeli rehti hai?",
+      "options": "yes_no"
+    },
+    {
+      "id": "water_pools",
+      "text": "When you water, does water sit on top or take a long time to drain?",
+      "text_ur": "Paani dene par kya paani upar khara rehta hai ya der se nikalta hai?",
+      "options": "yes_no"
+    },
+    {
+      "id": "dry_often",
+      "text": "Does the soil often stay completely dry for several days before you water?",
+      "text_ur": "Kya mitti aksar kai din tak bilkul sookhi rehti hai, phir paani milta hai?",
+      "options": "yes_no"
+    },
+    {
+      "id": "leans_to_light",
+      "text": "Is the plant leaning or stretching toward the window?",
+      "text_ur": "Kya podha khirki ki taraf jhuk ya lamba ho raha hai?",
+      "options": "yes_no"
+    },
+    {
+      "id": "sun_side",
+      "text": "Is the damage mostly on the leaves facing the sun or window?",
+      "text_ur": "Kya nuqsan zyada tar dhoop / khirki ki taraf wali pattiyon par hai?",
+      "options": "yes_no"
+    },
+    {
+      "id": "leaves_firm",
+      "text": "Are the leaves still firm and plump?",
+      "text_ur": "Kya pattiyan ab bhi sakht aur bhari hui (moti) hain?",
+      "options": "yes_no"
+    },
+    {
+      "id": "evening_recovery",
+      "text": "Does the plant droop in the afternoon heat and look better in the evening?",
+      "text_ur": "Kya podha dopehar ki garmi mein jhukta hai aur shaam ko behtar ho jata hai?",
+      "options": "yes_no"
+    },
+    {
+      "id": "wet_leaves",
+      "text": "Do the leaves often stay wet (misting, watering over the leaves, very humid air)?",
+      "text_ur": "Kya pattiyan aksar geeli rehti hain (spray, upar se paani, bohat nami)?",
+      "options": "yes_no"
+    },
+    {
+      "id": "bumps_scrape",
+      "text": "Do the bumps come off when you scrape them gently with a fingernail?",
+      "text_ur": "Kya nakhun se aahista khurachne par yeh daane utar jate hain?",
+      "options": "yes_no"
+    },
+    {
+      "id": "knocked",
+      "text": "Has the plant been bumped, moved around, or touched by pets or people recently?",
+      "text_ur": "Kya podey ko haal hi mein takkar lagi, hilaya gaya, ya pets / logon ne chhua?",
+      "options": "yes_no"
+    },
+    {
+      "id": "paper_test",
+      "text": "Tap a leaf over white paper. Do tiny dots fall and move around?",
+      "text_ur": "Patti ko safed kaghaz ke upar jhaarein. Kya chhote chhote nuqte gir kar chalte hain?",
+      "options": "yes_no"
+    },
+    {
+      "id": "smear",
+      "text": "When you press a white clump, does it smear (it is a soft insect)?",
+      "text_ur": "Safed gucchay ko dabane par kya woh pis kar phail jata hai (narm keera)?",
+      "options": "yes_no"
+    },
+    {
+      "id": "silver_streaks",
+      "text": "Are there silvery streaks with tiny black dots on the leaves?",
+      "text_ur": "Kya pattiyon par chandi jaisi lakeerein aur chhote kaale nuqte hain?",
+      "options": "yes_no"
+    },
+    {
+      "id": "looks_healthy",
+      "text": "Apart from this, does the plant look healthy, with green, firm new leaves?",
+      "text_ur": "Iske ilawa kya podha sehatmand hai, aur nayi pattiyan hari aur mazboot hain?",
+      "options": "yes_no"
+    },
+    {
+      "id": "after_cold",
+      "text": "Did the damage appear within a few days after the cold?",
+      "text_ur": "Kya yeh nuqsan thand lagne ke kuch dinon ke andar zahir hua?",
+      "options": "yes_no"
+    },
+    {
+      "id": "base_collapse",
+      "text": "Are leaves rotting and collapsing right at the soil line?",
+      "text_ur": "Kya pattiyan bilkul mitti ki satah par sad kar gir rahi hain?",
+      "options": "yes_no"
+    },
+    {
+      "id": "mushy_tissue",
+      "text": "When you press the affected part, is it soft, mushy and watery?",
+      "text_ur": "Mutasir hissay ko dabane par kya woh narm, gila aur paani jaisa hai?",
+      "options": "yes_no"
+    },
+    {
+      "id": "flower_old",
+      "text": "Has the flower been open for more than 3-4 weeks?",
+      "text_ur": "Kya phool 3-4 hafte se zyada purana hai?",
+      "options": "yes_no"
+    },
+    {"id": "water_freq", "text": "How often do you water this plant?", "text_ur": "Aap is podey ko kitni baar paani dete hain?", "options": [{"value": "often", "label": "More than twice a week"}, {"value": "normal", "label": "About once a week"}, {"value": "rare", "label": "Every 2-3 weeks or less"}]},
+    {"id": "water_amount", "text": "When you water, how much do you give?", "text_ur": "Paani dete waqt kitna dete hain?", "options": [{"value": "little", "label": "Just a small splash"}, {"value": "good", "label": "Until water drains out of the bottom"}, {"value": "lots", "label": "A lot, and the saucer fills up"}]},
+    {"id": "leaf_feel", "text": "How do the affected leaves feel?", "text_ur": "Mutasir pattiyan chhoone par kaisi hain?", "options": [{"value": "soft", "label": "Soft, limp or mushy"}, {"value": "crisp", "label": "Dry, crispy or papery"}, {"value": "firm", "label": "Firm"}]},
+    {"id": "stem_base", "text": "Is the base of the stem (the crown) firm when you gently press it?", "text_ur": "Kya tane ka nichla hissa dabane par sakht hai?", "options": "yes_no"},
+    {"id": "new_growth", "text": "How is the newest growth?", "text_ur": "Sab se nayi growth kaisi hai?", "options": [{"value": "healthy", "label": "Normal and healthy"}, {"value": "poor", "label": "Small, pale or deformed"}, {"value": "none", "label": "No new growth for a long time"}]},
+    {"id": "roots_visible", "text": "Can you see roots coming out of the drainage hole or above the soil?", "text_ur": "Kya jarein drainage hole se ya mitti ke upar nazar aa rahi hain?", "options": "yes_no"},
+    {"id": "temp", "text": "How warm is the room where the plant lives?", "text_ur": "Podha jis kamre mein hai woh kitna garam hai?", "options": [{"value": "cold", "label": "Often below 15 C"}, {"value": "normal", "label": "Usually 15-30 C"}, {"value": "hot", "label": "Often above 30 C"}]},
+    {"id": "neighbors", "text": "Do other plants nearby show the same problem or insects?", "text_ur": "Kya qareeb ke doosre podon mein bhi yehi masla ya keeray hain?", "options": "yes_no"},
+    {"id": "ants", "text": "Do you see ants walking on the plant?", "text_ur": "Kya podey par cheentiyan nazar aati hain?", "options": "yes_no"},
+    {"id": "progress", "text": "How fast is the problem getting worse?", "text_ur": "Yeh masla kitni tezi se barh raha hai?", "options": [{"value": "fast", "label": "Clearly worse within days"}, {"value": "slow", "label": "Slowly, over weeks"}, {"value": "stable", "label": "Not changing"}]},
+    {"id": "sun_hours", "text": "How many hours of direct sun does the plant get?", "text_ur": "Podey ko roz kitne ghantay seedhi dhoop milti hai?", "options": [{"value": "none", "label": "None"}, {"value": "few", "label": "1-3 hours (for example morning sun)"}, {"value": "many", "label": "4 hours or more"}]},
+    {"id": "still_air", "text": "Is the air around the plant still (closed room, no fan or breeze)?", "text_ur": "Kya podey ke aas paas hawa ruki hui hai (band kamra, pankha nahi)?", "options": "yes_no"},
+    {"id": "fall_off", "text": "Are leaves dropping off the plant?", "text_ur": "Kya pattiyan podey se gir rahi hain?", "options": "yes_no"}
+  ]
+}

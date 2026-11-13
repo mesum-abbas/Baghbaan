@@ -1,0 +1,56 @@
+{
+  "plant_id": "peace_lily",
+  "rules": [
+    {"id": "PL01", "symptom": "drooping", "if": {"soil": "dry", "dries_fast": "no"}, "then": "underwatering", "note": "Peace lilies droop dramatically when thirsty and usually perk up within a few hours of watering."},
+    {"id": "PL02", "symptom": "drooping", "if": {"soil": "dry", "dries_fast": "yes"}, "then": "root_bound"},
+    {"id": "PL03", "symptom": "drooping", "if": {"soil": "wet", "smell": "yes"}, "then": "root_rot", "note": "Peace lilies are prone to Pythium and Cylindrocladium root rot."},
+    {"id": "PL04", "symptom": "drooping", "if": {"soil": "wet", "smell": "no"}, "then": "overwatering"},
+    {"id": "PL05", "symptom": "drooping", "if": {"soil": "moist", "moved": "yes"}, "then": "transplant_shock"},
+    {"id": "PL06", "symptom": "drooping", "if": {"soil": "moist", "moved": "no", "cold": "yes"}, "then": "cold_damage"},
+    {"id": "PL07", "symptom": "drooping", "if": {"soil": "moist", "moved": "no", "cold": "no", "heat": "yes"}, "then": "heat_stress"},
+
+    {"id": "PL08", "symptom": "yellow_leaves", "if": {"how_many": "one_two"}, "then": "natural_aging"},
+    {"id": "PL09", "symptom": "yellow_leaves", "if": {"how_many": "many", "yellow_type": ["whole", "pale"], "soil": "wet", "smell": "yes"}, "then": "root_rot", "note": "Peace lilies are prone to Pythium and Cylindrocladium root rot."},
+    {"id": "PL10", "symptom": "yellow_leaves", "if": {"how_many": "many", "yellow_type": ["whole", "pale"], "soil": "wet", "smell": "no"}, "then": "overwatering"},
+    {"id": "PL11", "symptom": "yellow_leaves", "if": {"how_many": "many", "yellow_type": ["whole", "pale"], "soil": "dry"}, "then": "underwatering"},
+    {"id": "PL12", "symptom": "yellow_leaves", "if": {"how_many": "many", "yellow_type": ["whole", "pale"], "soil": "moist", "light": "direct"}, "then": "sunburn", "note": "Peace lilies should never be in direct sun."},
+    {"id": "PL13", "symptom": "yellow_leaves", "if": {"how_many": "many", "yellow_type": ["whole", "pale"], "soil": "moist", "light": ["bright", "low"], "fertilizer": "never"}, "then": "nitrogen_deficiency"},
+    {"id": "PL14", "symptom": "yellow_leaves", "if": {"how_many": "many", "yellow_type": ["whole", "pale"], "soil": "moist", "light": ["bright", "low"], "fertilizer": "heavy"}, "then": "fertilizer_burn"},
+    {"id": "PL15", "symptom": "yellow_leaves", "if": {"how_many": "many", "yellow_type": ["whole", "pale"], "soil": "moist", "light": ["bright", "low"], "fertilizer": "normal", "moved": "yes"}, "then": "transplant_shock"},
+    {"id": "PL16", "symptom": "yellow_leaves", "if": {"how_many": "many", "yellow_type": "veins_green"}, "then": "magnesium_deficiency"},
+    {"id": "PL17", "symptom": "yellow_leaves", "if": {"how_many": "many", "yellow_type": "halo", "spread_fast": "yes"}, "then": "bacterial_leaf_spot"},
+    {"id": "PL18", "symptom": "yellow_leaves", "if": {"how_many": "many", "yellow_type": "halo", "spread_fast": "no"}, "then": "fungal_leaf_spot"},
+
+    {"id": "PL19", "symptom": "brown_tips", "if": {"tip_type": "tips", "soil": "dry"}, "then": "underwatering"},
+    {"id": "PL20", "symptom": "brown_tips", "if": {"tip_type": "tips", "soil": "wet"}, "then": "overwatering"},
+    {"id": "PL21", "symptom": "brown_tips", "if": {"tip_type": "tips", "soil": "moist", "crust": "yes"}, "then": "fertilizer_burn"},
+    {"id": "PL22", "symptom": "brown_tips", "if": {"tip_type": "tips", "soil": "moist", "crust": "no", "water_type": "tap"}, "then": "fluoride_toxicity", "note": "Peace lilies are sensitive to chlorine and fluoride in tap water."},
+    {"id": "PL23", "symptom": "brown_tips", "if": {"tip_type": "tips", "soil": "moist", "crust": "no", "water_type": "clean", "dry_air": "yes"}, "then": "low_humidity"},
+    {"id": "PL24", "symptom": "brown_tips", "if": {"tip_type": ["edges", "patches"], "cold": "yes"}, "then": "cold_damage"},
+    {"id": "PL25", "symptom": "brown_tips", "if": {"tip_type": ["edges", "patches"], "cold": "no", "light": "direct"}, "then": "sunburn"},
+
+    {"id": "PL26", "symptom": "flower_problems", "if": {"flower_state": "none", "plant_age": "young"}, "then": "immature_plant"},
+    {"id": "PL27", "symptom": "flower_problems", "if": {"flower_state": "none", "plant_age": "mature", "light": "low"}, "then": "low_light", "note": "Low light is the most common reason a peace lily stops flowering."},
+    {"id": "PL28", "symptom": "flower_problems", "if": {"flower_state": "none", "plant_age": "mature", "light": ["bright", "direct"], "fertilizer": "heavy"}, "then": "excess_nitrogen"},
+    {"id": "PL29", "symptom": "flower_problems", "if": {"flower_state": "none", "plant_age": "mature", "light": ["bright", "direct"], "fertilizer": ["normal", "never"]}, "then": "nutrient_deficiency", "note": "Peace lilies flower mostly in spring and summer. A light feed with a bloom fertilizer can help."},
+    {"id": "PL30", "symptom": "flower_problems", "if": {"flower_state": "green"}, "then": "natural_flower_aging"},
+    {"id": "PL31", "symptom": "flower_problems", "if": {"flower_state": "brown", "dry_air": "yes"}, "then": "low_humidity"},
+    {"id": "PL32", "symptom": "flower_problems", "if": {"flower_state": "brown", "dry_air": "no"}, "then": "natural_flower_aging"},
+
+    {"id": "PL33", "symptom": "leaf_spots", "if": {"spot_look": "wet"}, "then": "bacterial_leaf_spot"},
+    {"id": "PL34", "symptom": "leaf_spots", "if": {"spot_look": "dry_ring"}, "then": "fungal_leaf_spot"},
+    {"id": "PL35", "symptom": "leaf_spots", "if": {"spot_look": "stipple"}, "then": "spider_mites"},
+    {"id": "PL36", "symptom": "leaf_spots", "if": {"spot_look": "bleached"}, "then": "sunburn"},
+    {"id": "PL37", "symptom": "leaf_spots", "if": {"spot_look": "sooty"}, "then": "sooty_mold"},
+
+    {"id": "PL38", "symptom": "pests", "if": {"pests_seen": "cotton"}, "then": "mealybugs"},
+    {"id": "PL39", "symptom": "pests", "if": {"pests_seen": "webbing"}, "then": "spider_mites"},
+    {"id": "PL40", "symptom": "pests", "if": {"pests_seen": "bumps"}, "then": "scale_insects"},
+    {"id": "PL41", "symptom": "pests", "if": {"pests_seen": "flies"}, "then": "fungus_gnats"},
+    {"id": "PL42", "symptom": "pests", "if": {"pests_seen": "aphids"}, "then": "aphids", "note": "Aphids on peace lilies usually gather on flower stalks and new leaves."},
+    {"id": "PL43", "symptom": "pests", "if": {"pests_seen": "none", "sticky": "yes"}, "then": "scale_insects"},
+
+    {"id": "PL44", "symptom": "slow_growth", "if": {"growth": "stalled", "season": "yes"}, "then": "dormancy"},
+    {"id": "PL45", "symptom": "slow_growth", "if": {"growth": "stalled", "season": "no", "repot_age": "long"}, "then": "root_bound"}
+  ]
+}

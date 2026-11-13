@@ -1,0 +1,54 @@
+{
+  "plant_id": "spider_plant",
+  "rules": [
+    {"id": "SDP01", "symptom": "brown_tips", "if": {"tip_type": "tips", "soil": "dry"}, "then": "underwatering"},
+    {"id": "SDP02", "symptom": "brown_tips", "if": {"tip_type": "tips", "soil": "wet"}, "then": "overwatering"},
+    {"id": "SDP03", "symptom": "brown_tips", "if": {"tip_type": "tips", "soil": "moist", "crust": "yes"}, "then": "fertilizer_burn"},
+    {"id": "SDP04", "symptom": "brown_tips", "if": {"tip_type": "tips", "soil": "moist", "crust": "no", "water_type": "tap"}, "then": "fluoride_toxicity", "note": "Spider plants are well known for brown tips caused by fluoride in tap water."},
+    {"id": "SDP05", "symptom": "brown_tips", "if": {"tip_type": "tips", "soil": "moist", "crust": "no", "water_type": "clean", "dry_air": "yes"}, "then": "low_humidity"},
+    {"id": "SDP06", "symptom": "brown_tips", "if": {"tip_type": ["edges", "patches"], "cold": "yes"}, "then": "cold_damage"},
+    {"id": "SDP07", "symptom": "brown_tips", "if": {"tip_type": ["edges", "patches"], "cold": "no", "light": "direct"}, "then": "sunburn"},
+    {"id": "SDP08", "symptom": "brown_tips", "if": {"tip_type": "edges", "cold": "no", "light": ["bright", "low"]}, "then": "bacterial_leaf_spot", "note": "Spider plants get bacterial leaf blight (Pseudomonas). It starts at the tips and edges with a yellow halo."},
+
+    {"id": "SDP09", "symptom": "yellow_leaves", "if": {"how_many": "one_two"}, "then": "natural_aging"},
+    {"id": "SDP10", "symptom": "yellow_leaves", "if": {"how_many": "many", "yellow_type": ["whole", "pale"], "soil": "wet", "smell": "yes"}, "then": "root_rot"},
+    {"id": "SDP11", "symptom": "yellow_leaves", "if": {"how_many": "many", "yellow_type": ["whole", "pale"], "soil": "wet", "smell": "no"}, "then": "overwatering"},
+    {"id": "SDP12", "symptom": "yellow_leaves", "if": {"how_many": "many", "yellow_type": ["whole", "pale"], "soil": "dry"}, "then": "underwatering"},
+    {"id": "SDP13", "symptom": "yellow_leaves", "if": {"how_many": "many", "yellow_type": ["whole", "pale"], "soil": "moist", "light": "low"}, "then": "low_light"},
+    {"id": "SDP14", "symptom": "yellow_leaves", "if": {"how_many": "many", "yellow_type": ["whole", "pale"], "soil": "moist", "light": "direct"}, "then": "sunburn", "note": "Too much sun bleaches spider plant leaves pale and washed out."},
+    {"id": "SDP15", "symptom": "yellow_leaves", "if": {"how_many": "many", "yellow_type": ["whole", "pale"], "soil": "moist", "light": "bright", "fertilizer": "never"}, "then": "nitrogen_deficiency"},
+    {"id": "SDP16", "symptom": "yellow_leaves", "if": {"how_many": "many", "yellow_type": ["whole", "pale"], "soil": "moist", "light": "bright", "fertilizer": ["normal", "heavy"], "repot_age": "long"}, "then": "root_bound"},
+    {"id": "SDP17", "symptom": "yellow_leaves", "if": {"how_many": "many", "yellow_type": "veins_green"}, "then": "iron_deficiency"},
+    {"id": "SDP18", "symptom": "yellow_leaves", "if": {"how_many": "many", "yellow_type": "halo"}, "then": "bacterial_leaf_spot"},
+
+    {"id": "SDP19", "symptom": "drooping", "if": {"soil": "wet", "smell": "yes"}, "then": "root_rot"},
+    {"id": "SDP20", "symptom": "drooping", "if": {"soil": "wet", "smell": "no"}, "then": "overwatering"},
+    {"id": "SDP21", "symptom": "drooping", "if": {"soil": "dry", "dries_fast": "yes"}, "then": "root_bound", "note": "Spider plants have thick storage roots that fill a pot quickly."},
+    {"id": "SDP22", "symptom": "drooping", "if": {"soil": "dry", "dries_fast": "no"}, "then": "underwatering"},
+    {"id": "SDP23", "symptom": "drooping", "if": {"soil": "moist", "moved": "yes"}, "then": "transplant_shock"},
+    {"id": "SDP24", "symptom": "drooping", "if": {"soil": "moist", "moved": "no", "heat": "yes"}, "then": "heat_stress"},
+
+    {"id": "SDP25", "symptom": "leaf_spots", "if": {"spot_look": "wet"}, "then": "bacterial_leaf_spot"},
+    {"id": "SDP26", "symptom": "leaf_spots", "if": {"spot_look": "dry_ring"}, "then": "fungal_leaf_spot"},
+    {"id": "SDP27", "symptom": "leaf_spots", "if": {"spot_look": "stipple"}, "then": "spider_mites"},
+    {"id": "SDP28", "symptom": "leaf_spots", "if": {"spot_look": "bleached"}, "then": "sunburn"},
+
+    {"id": "SDP29", "symptom": "pests", "if": {"pests_seen": "webbing"}, "then": "spider_mites"},
+    {"id": "SDP30", "symptom": "pests", "if": {"pests_seen": "cotton"}, "then": "mealybugs"},
+    {"id": "SDP31", "symptom": "pests", "if": {"pests_seen": "bumps"}, "then": "scale_insects"},
+    {"id": "SDP32", "symptom": "pests", "if": {"pests_seen": "aphids"}, "then": "aphids"},
+    {"id": "SDP33", "symptom": "pests", "if": {"pests_seen": "whitefly"}, "then": "whiteflies"},
+    {"id": "SDP34", "symptom": "pests", "if": {"pests_seen": "flies"}, "then": "fungus_gnats"},
+    {"id": "SDP35", "symptom": "pests", "if": {"pests_seen": "none", "sticky": "yes"}, "then": "scale_insects"},
+
+    {"id": "SDP36", "symptom": "no_babies", "if": {"plant_age": "young"}, "then": "immature_plant"},
+    {"id": "SDP37", "symptom": "no_babies", "if": {"plant_age": "mature", "light": "low"}, "then": "low_light"},
+    {"id": "SDP38", "symptom": "no_babies", "if": {"plant_age": "mature", "light": ["bright", "direct"], "fertilizer": "heavy"}, "then": "excess_nitrogen"},
+    {"id": "SDP39", "symptom": "no_babies", "if": {"plant_age": "mature", "light": ["bright", "direct"], "fertilizer": ["normal", "never"], "night_light": "yes"}, "then": "night_light_disruption"},
+
+    {"id": "SDP40", "symptom": "slow_growth", "if": {"growth": "stalled", "season": "yes"}, "then": "dormancy"},
+    {"id": "SDP41", "symptom": "slow_growth", "if": {"growth": "stalled", "season": "no", "repot_age": "long"}, "then": "root_bound"},
+    {"id": "SDP42", "symptom": "slow_growth", "if": {"growth": "stalled", "season": "no", "repot_age": "recent", "light": "low"}, "then": "low_light"},
+    {"id": "SDP43", "symptom": "slow_growth", "if": {"growth": "small_pale", "fertilizer": "never"}, "then": "nutrient_deficiency"}
+  ]
+}

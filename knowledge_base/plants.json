@@ -1,47 +1,67 @@
 [
-    {
-        "plant_id": "PLANT001",
-        "common_name": "Money Plant",
-        "other_names": [
-            "Golden Pothos",
-            "Pothos"
-        ],
-        "scientific_name": "Epipremnum aureum",
-        "status": "in_scope",
-        "research_status": "pending"
+  {
+    "plant_id": "money_plant",
+    "common_name": "Money Plant",
+    "other_names": ["Golden Pothos", "Pothos"],
+    "scientific_name": "Epipremnum aureum",
+    "care": {
+      "water": "Water when the top 2-3 cm of soil is dry.",
+      "light": "Bright, indirect light. Tolerates lower light but grows slowly and loses variegation.",
+      "temperature": "18-29 C. Keep above 10 C.",
+      "feeding": "Half-strength balanced fertilizer every 4-6 weeks in spring and summer."
     },
-    {
-        "plant_id": "PLANT002",
-        "common_name": "Snake Plant",
-        "other_names": [
-            "Mother-in-law's Tongue"
-        ],
-        "scientific_name": "Dracaena trifasciata",
-        "status": "in_scope",
-        "research_status": "pending"
+    "source_ids": ["PLSRC001"]
+  },
+  {
+    "plant_id": "snake_plant",
+    "common_name": "Snake Plant",
+    "other_names": ["Mother-in-law's Tongue", "Sansevieria"],
+    "scientific_name": "Dracaena trifasciata",
+    "care": {
+      "water": "Let the soil dry out completely between waterings (every 2-4 weeks, less in winter).",
+      "light": "Bright, indirect light is best. Tolerates low light.",
+      "temperature": "16-29 C. Keep above 10 C.",
+      "feeding": "Light feeding 2-3 times in spring and summer only."
     },
-    {
-        "plant_id": "PLANT003",
-        "common_name": "Aloe Vera",
-        "other_names": [],
-        "scientific_name": "Aloe vera",
-        "status": "in_scope",
-        "research_status": "pending"
+    "source_ids": ["PLSRC002"]
+  },
+  {
+    "plant_id": "aloe_vera",
+    "common_name": "Aloe Vera",
+    "other_names": ["Aloe", "Ghee Kunwar"],
+    "scientific_name": "Aloe vera",
+    "care": {
+      "water": "Water deeply only when the soil is almost completely dry. Use a cactus / succulent mix.",
+      "light": "Bright light with some direct sun. Adjust gradually to strong sun.",
+      "temperature": "13-29 C. Protect from frost.",
+      "feeding": "Very little. Half-strength succulent fertilizer once or twice in summer."
     },
-    {
-        "plant_id": "PLANT004",
-        "common_name": "Spider Plant",
-        "other_names": [],
-        "scientific_name": "Chlorophytum comosum",
-        "status": "in_scope",
-        "research_status": "pending"
+    "source_ids": ["PLSRC003"]
+  },
+  {
+    "plant_id": "spider_plant",
+    "common_name": "Spider Plant",
+    "other_names": ["Airplane Plant"],
+    "scientific_name": "Chlorophytum comosum",
+    "care": {
+      "water": "Keep lightly moist, and water when the top 2-3 cm is dry. Prefers rain or filtered water.",
+      "light": "Bright, indirect light.",
+      "temperature": "18-27 C.",
+      "feeding": "Half-strength fertilizer every 4-6 weeks in spring and summer."
     },
-    {
-        "plant_id": "PLANT005",
-        "common_name": "Peace Lily",
-        "other_names": [],
-        "scientific_name": "Spathiphyllum species",
-        "status": "in_scope",
-        "research_status": "pending"
-    }
+    "source_ids": ["PLSRC004"]
+  },
+  {
+    "plant_id": "peace_lily",
+    "common_name": "Peace Lily",
+    "other_names": ["Spathiphyllum", "Spath"],
+    "scientific_name": "Spathiphyllum wallisii",
+    "care": {
+      "water": "Keep evenly moist, and water when the top 2-3 cm is dry. It droops clearly when thirsty.",
+      "light": "Medium to bright, indirect light. No direct sun.",
+      "temperature": "18-29 C. Keep away from cold drafts and AC.",
+      "feeding": "Half-strength fertilizer every 6-8 weeks in spring and summer."
+    },
+    "source_ids": ["PLSRC005"]
+  }
 ]

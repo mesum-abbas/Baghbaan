@@ -1,0 +1,766 @@
+{
+  "_comment": "Library of plant problems. Rules (knowledge_base/rules/*.json) point to these by id. 'steps' is the suggested care plan, 'confirm' = core signs the engine must check. 'support' = extra signs (history, no other cause), asked in this order until the rule has MIN_QUESTIONS (7) signs. 'expert_check' is what a plant expert should verify.",
+  "conditions": {
+    "natural_aging": {
+      "name": "Natural Old-Leaf Aging",
+      "category": "Normal",
+      "severity": "low",
+      "confirm": {"looks_healthy": "yes"},
+      "support": {"new_growth": "healthy", "stem_base": "yes", "progress": ["slow", "stable"], "smell": "no", "neighbors": "no", "sticky": "no"},
+      "about": "Plants naturally drop their oldest, lowest leaves as they grow. One or two yellow leaves now and then is normal and not a disease.",
+      "steps": [
+        "Remove the yellow leaf with clean scissors once it is fully yellow.",
+        "Keep your normal watering and light routine.",
+        "Watch for a week: if many more leaves turn yellow, run the check again."
+      ],
+      "avoid": ["Do not change watering or add fertilizer just because of one old leaf."],
+      "prevent": ["Nothing needed. This is part of normal growth."],
+      "expert_check": "Confirm that new growth is healthy and only the oldest leaves are affected.",
+      "sources": ["PLSRC006"]
+    },
+    "overwatering": {
+      "name": "Overwatering",
+      "category": "Watering",
+      "severity": "medium",
+      "confirm": {"soil_wet_days": "yes"},
+      "support": {"water_freq": ["often", "normal"], "smell": "no", "stem_base": "yes", "roots": ["healthy", "crowded"], "water_pools": "no", "sticky": "no"},
+      "about": "The soil stays wet for too long, so roots cannot get oxygen. Leaves turn yellow and soft, and the plant may droop even though the soil is wet. If it continues, it leads to root rot.",
+      "steps": [
+        "Stop watering until the top 2-3 cm of soil is dry.",
+        "Empty any water standing in the saucer or outer pot.",
+        "Move the plant to bright, indirect light with good airflow so the soil dries faster.",
+        "From now on, water only after checking the soil with your finger."
+      ],
+      "avoid": ["Do not fertilize wet, stressed roots.", "Do not water on a fixed schedule without checking the soil."],
+      "prevent": ["Use a pot with drainage holes and a well-draining mix.", "Water deeply but less often."],
+      "expert_check": "Check the roots: if they are brown and mushy, treat it as root rot instead.",
+      "sources": ["PLSRC006", "PLSRC007"]
+    },
+    "poor_drainage": {
+      "name": "Waterlogged Soil from Poor Drainage",
+      "category": "Watering",
+      "severity": "medium",
+      "confirm": {"water_pools": "yes"},
+      "support": {"soil_wet_days": "yes", "dries_fast": "no", "dry_often": "no", "water_amount": ["good", "lots"], "stem_base": "yes", "roots": ["healthy", "crowded"]},
+      "about": "Water has nowhere to go because the pot has no hole or the soil is compacted. The root zone stays waterlogged even with normal watering.",
+      "steps": [
+        "Stop watering until the soil dries a little.",
+        "Repot into a pot with drainage holes, or drill holes in the current pot.",
+        "Use a loose mix (for example potting soil with about 30% perlite or coarse sand).",
+        "Never let the pot sit in standing water."
+      ],
+      "avoid": ["Do not put gravel at the bottom instead of drainage holes. It does not fix drainage."],
+      "prevent": ["Always use pots with drainage holes.", "Refresh old compacted soil every 1-2 years."],
+      "expert_check": "Check whether roots have started to rot while you are repotting.",
+      "sources": ["PLSRC006"]
+    },
+    "root_rot": {
+      "name": "Root Rot (Pythium / Phytophthora / fungal)",
+      "category": "Root disease",
+      "severity": "high",
+      "confirm": {"roots": "rotten"},
+      "support": {"soil_wet_days": "yes", "water_freq": ["often", "normal"], "leaf_feel": "soft", "new_growth": ["poor", "none"], "dry_often": "no", "sticky": "no"},
+      "about": "Soil-borne fungi and water moulds attack roots that sit in wet soil. Roots turn brown or black and mushy, the soil smells sour, and the plant yellows and wilts because the roots can no longer take up water.",
+      "steps": [
+        "Stop watering immediately.",
+        "Slide the plant out of the pot and wash the roots gently.",
+        "Cut off all brown, black or mushy roots with scissors wiped with alcohol.",
+        "Repot in fresh, well-draining mix in a clean pot with drainage holes.",
+        "Water lightly only after a few days, and keep in bright indirect light.",
+        "If almost all roots are gone, take healthy stem or leaf cuttings to save the plant."
+      ],
+      "avoid": ["Do not fertilize until new growth appears.", "Do not reuse the old soil."],
+      "prevent": ["Let the top of the soil dry before watering.", "Use pots with drainage holes."],
+      "expert_check": "Confirm rot by looking at the roots. An expert can also advise if a fungicide is needed. Do not use fungicides without confirmation.",
+      "sources": ["PLSRC006", "PLSRC007"]
+    },
+    "underwatering": {
+      "name": "Underwatering / Drought Stress",
+      "category": "Watering",
+      "severity": "medium",
+      "confirm": {"dry_often": "yes"},
+      "support": {"water_freq": ["rare", "normal"], "soil_wet_days": "no", "smell": "no", "roots": ["healthy", "crowded"], "stem_base": "yes", "sticky": "no"},
+      "about": "The plant is not getting enough water. Leaves droop, curl, wrinkle or turn yellow and crispy, and the soil is dry or pulls away from the pot edge.",
+      "steps": [
+        "Water slowly and thoroughly until water drains from the bottom.",
+        "If the soil is very dry and water runs straight through, soak the pot in a bucket of water for 20-30 minutes, then drain.",
+        "Trim leaves that are fully dry and crispy.",
+        "Check the soil every few days and water when the top 2-3 cm is dry (succulents: when almost fully dry)."
+      ],
+      "avoid": ["Do not fertilize a dried-out plant until it has recovered."],
+      "prevent": ["Check the soil with your finger regularly, especially in hot weather."],
+      "expert_check": "If the plant does not recover within a few days after watering, ask an expert to check the roots.",
+      "sources": ["PLSRC006"]
+    },
+    "root_bound": {
+      "name": "Root-Bound (Pot Too Small)",
+      "category": "Roots",
+      "severity": "low",
+      "confirm": {"roots": "crowded"},
+      "support": {"roots_visible": "yes", "repot_age": "long", "smell": "no", "stem_base": "yes", "new_growth": ["poor", "none"], "sticky": "no"},
+      "about": "Roots have filled the pot, so the soil holds very little water and nutrients. The plant dries out quickly, droops often, and stops growing.",
+      "steps": [
+        "Repot into a pot only 2-5 cm wider than the current one, in spring or summer if possible.",
+        "Gently loosen circling roots before planting.",
+        "Use fresh potting mix and water well after repotting.",
+        "Keep out of direct sun for a week while it settles."
+      ],
+      "avoid": ["Do not jump to a much bigger pot. Extra wet soil can cause root rot."],
+      "prevent": ["Check roots every 1-2 years and repot when they circle the pot."],
+      "expert_check": "Confirm by looking at the root ball. Roots should be firm and white, not mushy.",
+      "sources": ["PLSRC006"]
+    },
+    "transplant_shock": {
+      "name": "Transplant / Relocation Shock",
+      "category": "Environment",
+      "severity": "low",
+      "confirm": {"moved": "yes"},
+      "support": {"progress": ["slow", "stable"], "soil_wet_days": "no", "smell": "no", "stem_base": "yes", "sticky": "no", "roots": ["healthy", "crowded"]},
+      "about": "A recent repot, move or purchase changes light, temperature and humidity. The plant reacts with drooping or a few yellow leaves while it adjusts.",
+      "steps": [
+        "Keep the plant in one spot with bright, indirect light. Do not keep moving it.",
+        "Water normally, only when the top of the soil is dry.",
+        "Give it 2-4 weeks to settle."
+      ],
+      "avoid": ["Do not fertilize for at least 4 weeks after repotting.", "Do not repot again."],
+      "prevent": ["Repot in spring or summer, and disturb roots as little as possible."],
+      "expert_check": "If the plant keeps declining after 4 weeks, ask an expert to check for root damage.",
+      "sources": ["PLSRC006"]
+    },
+    "low_light": {
+      "name": "Insufficient Light",
+      "category": "Light",
+      "severity": "low",
+      "confirm": {"light": "low", "sun_hours": "none"},
+      "support": {"new_growth": ["poor", "none"], "progress": "slow", "smell": "no", "sticky": "no", "stem_base": "yes", "neighbors": "no"},
+      "about": "The plant cannot make enough food in a dim spot. Growth slows, older leaves yellow, colours fade and the plant may stop flowering or producing new leaves.",
+      "steps": [
+        "Move the plant closer to a window with bright, indirect light.",
+        "Increase light gradually over 1-2 weeks to avoid sunburn.",
+        "Water less while it is in low light, because the soil dries slower.",
+        "Rotate the pot every couple of weeks for even growth."
+      ],
+      "avoid": ["Do not move it straight into strong direct sun."],
+      "prevent": ["Keep within 1-2 metres of a bright window, or use a grow light."],
+      "expert_check": "Confirm there are no root problems, since low light often comes with overwatering.",
+      "sources": ["PLSRC006"]
+    },
+    "etiolation": {
+      "name": "Etiolation (Stretching for Light)",
+      "category": "Light",
+      "severity": "low",
+      "confirm": {"sun_hours": ["none", "few"]},
+      "support": {"leans_to_light": "yes", "new_growth": "poor", "progress": "slow", "smell": "no", "sticky": "no", "stem_base": "yes"},
+      "about": "In too little light the plant stretches: long bare stems, small far-apart leaves, pale colour and leaning towards the window. Stretched growth does not shrink back.",
+      "steps": [
+        "Move the plant to brighter, indirect light (gradually).",
+        "Prune the leggy stems to encourage bushier growth. Pothos and spider plant cuttings can be rooted in water.",
+        "Rotate the pot regularly so it grows evenly."
+      ],
+      "avoid": ["Do not fertilize to 'fix' stretching. It only makes weak growth faster."],
+      "prevent": ["Give bright, indirect light all year."],
+      "expert_check": "Usually easy to confirm by looking. No special test is needed.",
+      "sources": ["PLSRC006"]
+    },
+    "sunburn": {
+      "name": "Sun Scorch (Sunburn)",
+      "category": "Light",
+      "severity": "medium",
+      "confirm": {"sun_side": "yes"},
+      "support": {"light": "direct", "sun_hours": ["few", "many"], "smell": "no", "sticky": "no", "stem_base": "yes", "neighbors": "no"},
+      "about": "Strong direct sun, especially through glass, burns leaf tissue. Leaves get bleached, pale, tan or brown dry patches on the side facing the sun.",
+      "steps": [
+        "Move the plant out of direct sun to bright, indirect light, or use a sheer curtain.",
+        "Trim badly burned leaves (burned areas will not turn green again).",
+        "Check the soil, since sun-exposed plants dry out faster."
+      ],
+      "avoid": ["Do not move a plant from shade straight into full sun."],
+      "prevent": ["Get plants used to more light slowly over 1-2 weeks."],
+      "expert_check": "Confirm the patches are dry and do not spread. Spreading spots point to a disease instead.",
+      "sources": ["PLSRC006"]
+    },
+    "sun_stress_coloring": {
+      "name": "Sun Stress Colouring",
+      "category": "Light",
+      "severity": "low",
+      "confirm": {"leaves_firm": "yes"},
+      "support": {"light": "direct", "sun_hours": ["few", "many"], "smell": "no", "stem_base": "yes", "soil_wet_days": "no", "progress": ["slow", "stable"]},
+      "about": "Aloe and other succulents produce red, orange or brown pigments to protect themselves from very strong sun. Leaves stay firm. It is a stress signal, not a disease.",
+      "steps": [
+        "If leaves are firm, the plant is healthy. You can leave it, or give light afternoon shade.",
+        "If colouring deepens and leaves thin or crisp, move it to bright light with some shade.",
+        "Check that the soil is not staying completely dry for weeks."
+      ],
+      "avoid": ["Do not overwater to 'cure' the colour."],
+      "prevent": ["Adjust to strong sun gradually, especially in summer."],
+      "expert_check": "Make sure leaves are firm and not mushy (mushy brown leaves mean rot, not sun stress).",
+      "sources": ["PLSRC003"]
+    },
+    "nitrogen_deficiency": {
+      "name": "Nitrogen Deficiency",
+      "category": "Nutrition",
+      "severity": "low",
+      "confirm": {"leaves_where": "lower", "fertilizer": "never"},
+      "support": {"new_growth": ["poor", "none"], "progress": "slow", "smell": "no", "soil_wet_days": "no", "stem_base": "yes", "repot_age": "long", "sticky": "no"},
+      "about": "Nitrogen moves from old leaves to new ones when the soil runs short, so older leaves turn evenly pale or yellow and growth slows. Common in plants that have not been fed or repotted for a long time.",
+      "steps": [
+        "Feed with a balanced houseplant fertilizer at HALF the label strength, only in spring / summer.",
+        "Water the plant first. Never fertilize dry soil.",
+        "Repeat every 4-6 weeks during the growing season.",
+        "If the soil is very old, repot in fresh mix instead."
+      ],
+      "avoid": ["Do not use full-strength or extra doses. Too much fertilizer burns roots."],
+      "prevent": ["Feed lightly during the growing season, and refresh soil every 1-2 years."],
+      "expert_check": "Rule out overwatering and root rot first. They cause the same yellowing and fertilizer would make them worse.",
+      "sources": ["PLSRC006"]
+    },
+    "nutrient_deficiency": {
+      "name": "General Nutrient Shortage",
+      "category": "Nutrition",
+      "severity": "low",
+      "confirm": {"fertilizer": "never"},
+      "support": {"new_growth": "poor", "repot_age": "long", "progress": "slow", "smell": "no", "soil_wet_days": "no", "stem_base": "yes", "sticky": "no"},
+      "about": "Old, exhausted soil and no feeding leave the plant short of nutrients. New leaves are small and pale, and the plant grows or flowers poorly.",
+      "steps": [
+        "In spring / summer, feed with a balanced liquid houseplant fertilizer at half strength every 4-6 weeks.",
+        "For flowering plants (peace lily), a fertilizer with a little more phosphorus can help.",
+        "If the soil is more than 2 years old, repot in fresh potting mix."
+      ],
+      "avoid": ["Do not fertilize in winter or when the plant is stressed or wet."],
+      "prevent": ["Light, regular feeding in the growing season."],
+      "expert_check": "Confirm light and watering are correct first. Poor light also causes small, pale growth.",
+      "sources": ["PLSRC006"]
+    },
+    "magnesium_deficiency": {
+      "name": "Magnesium Deficiency",
+      "category": "Nutrition",
+      "severity": "low",
+      "confirm": {"leaves_where": "lower"},
+      "support": {"fertilizer": ["never", "normal"], "repot_age": "long", "progress": "slow", "smell": "no", "soil_wet_days": "no", "stem_base": "yes", "sticky": "no"},
+      "about": "Older leaves turn yellow between the veins while the veins stay green (interveinal chlorosis). Common in old soil or after heavy watering washes nutrients out.",
+      "steps": [
+        "Use a balanced fertilizer that contains magnesium (Mg) at half strength.",
+        "Alternatively dissolve 1/4 teaspoon of Epsom salt in 1 litre of water and use it once a month during the growing season.",
+        "Refresh the soil if it is older than 2 years."
+      ],
+      "avoid": ["Do not use Epsom salt every watering. Too much causes salt build-up."],
+      "prevent": ["Use a complete fertilizer that includes micronutrients."],
+      "expert_check": "Interveinal yellowing can also come from root damage. An expert can confirm, or a soil test can.",
+      "sources": ["PLSRC006"]
+    },
+    "iron_deficiency": {
+      "name": "Iron Deficiency (Chlorosis)",
+      "category": "Nutrition",
+      "severity": "low",
+      "confirm": {"leaves_where": "new"},
+      "support": {"progress": "slow", "smell": "no", "soil_wet_days": "no", "stem_base": "yes", "sticky": "no", "fertilizer": ["never", "normal"]},
+      "about": "New, young leaves turn yellow between green veins. Usually the soil is too alkaline (high pH), hard tap water is used, or roots are damaged, so iron cannot be absorbed.",
+      "steps": [
+        "Use a fertilizer containing chelated iron, or an iron supplement, as the label directs.",
+        "If you use hard tap water, switch to rain, filtered or RO water when possible.",
+        "Repot in fresh, slightly acidic potting mix if the soil is old."
+      ],
+      "avoid": ["Do not add garden lime or wood ash. They raise the pH further."],
+      "prevent": ["Use good potting mix and avoid very hard water."],
+      "expert_check": "A soil pH test confirms it. Also make sure the roots are healthy.",
+      "sources": ["PLSRC006"]
+    },
+    "potassium_deficiency": {
+      "name": "Potassium Deficiency",
+      "category": "Nutrition",
+      "severity": "low",
+      "confirm": {"leaves_where": "lower", "fertilizer": "never"},
+      "support": {"progress": "slow", "smell": "no", "crust": "no", "soil_wet_days": "no", "stem_base": "yes", "sticky": "no", "repot_age": "long"},
+      "about": "Older leaves get brown, scorched edges, often with a yellow band inside the brown margin. Common in plants that are never fed.",
+      "steps": [
+        "Feed with a balanced fertilizer (equal N-P-K) at half strength during the growing season.",
+        "Trim leaves with severe brown edges for appearance.",
+        "Check that drainage is good so nutrients are not washed out by constant watering."
+      ],
+      "avoid": ["Do not over-feed. Salt build-up causes the same brown edges."],
+      "prevent": ["Regular light feeding in spring and summer."],
+      "expert_check": "Brown edges can also be salt burn or low humidity. An expert can confirm.",
+      "sources": ["PLSRC006"]
+    },
+    "fertilizer_burn": {
+      "name": "Fertilizer Burn / Salt Build-up",
+      "category": "Nutrition",
+      "severity": "medium",
+      "confirm": {"fertilizer": ["heavy", "normal"]},
+      "support": {"smell": "no", "soil_wet_days": "no", "stem_base": "yes", "sticky": "no", "neighbors": "no", "galls": "no"},
+      "about": "Too much fertilizer, or salts from hard water, collect in the soil and burn the roots. Leaf tips and edges turn brown, sometimes leaves yellow, and a white crust may form on the soil or pot rim.",
+      "steps": [
+        "Flush the soil: slowly pour water equal to about 4 times the pot volume through the soil and let it drain fully.",
+        "Scrape off any white crust from the soil surface.",
+        "Stop fertilizing for at least 1-2 months.",
+        "If the crust and burn are heavy, repot into fresh potting mix."
+      ],
+      "avoid": ["Do not add more fertilizer.", "Do not let the pot sit in the drained salty water."],
+      "prevent": ["Use half-strength fertilizer and flush the soil every few months."],
+      "expert_check": "Confirm by checking for white crust and recent feeding history.",
+      "sources": ["PLSRC006"]
+    },
+    "fluoride_toxicity": {
+      "name": "Fluoride / Chlorine Sensitivity (Tap Water)",
+      "category": "Water quality",
+      "severity": "low",
+      "confirm": {"water_type": "tap"},
+      "support": {"smell": "no", "soil_wet_days": "no", "stem_base": "yes", "sticky": "no", "neighbors": "no", "progress": ["slow", "stable"]},
+      "about": "Spider plants, peace lilies and some others are sensitive to fluoride and chlorine in tap water. The chemicals collect in leaf tips, which turn brown even when watering is correct.",
+      "steps": [
+        "Switch to rain, filtered or RO water if possible.",
+        "If you must use tap water, let it stand overnight in an open container (removes chlorine, not fluoride).",
+        "Flush the soil every few months to wash out build-up.",
+        "Trim brown tips at an angle with clean scissors (the brown will not turn green)."
+      ],
+      "avoid": ["Avoid fertilizers or soil mixes containing superphosphate (adds fluoride)."],
+      "prevent": ["Use rain or filtered water for sensitive plants."],
+      "expert_check": "Brown tips also come from dry air, underwatering and salt build-up. An expert can help confirm which.",
+      "sources": ["PLSRC004", "PLSRC005"]
+    },
+    "low_humidity": {
+      "name": "Low Humidity / Dry Air",
+      "category": "Environment",
+      "severity": "low",
+      "confirm": {"dry_air": "yes"},
+      "support": {"temp": ["normal", "hot"], "progress": ["slow", "stable"], "smell": "no", "soil_wet_days": "no", "stem_base": "yes", "sticky": "no", "neighbors": "no"},
+      "about": "Air from AC units, heaters or very dry rooms pulls moisture from leaves faster than roots can replace it. Leaf tips turn brown and crispy, and flowers fade quickly.",
+      "steps": [
+        "Move the plant away from AC vents, heaters and hot, dry drafts.",
+        "Group plants together, or place the pot on a tray of pebbles with water (pot above the water).",
+        "Use a humidifier in very dry rooms.",
+        "Trim crispy tips with clean scissors."
+      ],
+      "avoid": ["Misting alone helps only for a few minutes. Do not rely on it."],
+      "prevent": ["Keep tropical plants (peace lily, pothos, spider plant) away from AC and heaters."],
+      "expert_check": "Confirm watering and water quality are fine. They cause similar brown tips.",
+      "sources": ["PLSRC006"]
+    },
+    "cold_damage": {
+      "name": "Cold / Chilling Damage",
+      "category": "Environment",
+      "severity": "medium",
+      "confirm": {"cold": "yes", "after_cold": "yes"},
+      "support": {"temp": ["cold", "normal"], "progress": "fast", "smell": "no", "sticky": "no", "neighbors": "no", "soil_wet_days": "no"},
+      "about": "Tropical houseplants are damaged below about 10 C, by cold window glass, cold drafts or very cold water. Leaves droop, turn yellow or dark and soft, or get brown patches. Succulent tissue can turn mushy.",
+      "steps": [
+        "Move the plant to a warm spot (18-27 C) away from cold windows, doors and AC vents.",
+        "Water less until the plant recovers, using room-temperature water.",
+        "Wait a week, then trim leaves or parts that stay mushy or dead.",
+        "Keep a close eye on the stem base for rot over the next weeks."
+      ],
+      "avoid": ["Do not put the plant next to a heater to 'warm it up' quickly."],
+      "prevent": ["In winter keep plants away from windows at night and from cold drafts."],
+      "expert_check": "If the stem base turns soft after cold damage, have an expert check for rot.",
+      "sources": ["PLSRC006"]
+    },
+    "heat_stress": {
+      "name": "Heat Stress",
+      "category": "Environment",
+      "severity": "medium",
+      "confirm": {"heat": "yes", "evening_recovery": "yes"},
+      "support": {"temp": "hot", "smell": "no", "stem_base": "yes", "soil_wet_days": "no", "sun_hours": ["few", "many"], "sticky": "no"},
+      "about": "Very high temperatures (above about 35 C), hot walls or window glass make the plant lose water faster than it can take it up. Leaves droop in the heat of the day.",
+      "steps": [
+        "Move the plant to a cooler spot with bright, indirect light.",
+        "Water when the top of the soil is dry. In heat this may be more often.",
+        "Water in the morning, not in the hot afternoon.",
+        "Increase humidity around the plant."
+      ],
+      "avoid": ["Do not fertilize during heat stress."],
+      "prevent": ["Keep plants away from hot window glass and walls in summer."],
+      "expert_check": "If the plant droops even in the cool evening with moist soil, ask an expert to check the roots.",
+      "sources": ["PLSRC006"]
+    },
+    "bacterial_leaf_spot": {
+      "name": "Bacterial Leaf Spot / Blight (Xanthomonas, Pseudomonas, Erwinia)",
+      "category": "Bacterial disease",
+      "severity": "high",
+      "confirm": {"wet_leaves": "yes"},
+      "support": {"temp": ["normal", "hot"], "paper_test": "no", "sticky": "no", "bumps_scrape": "no", "galls": "no", "white_threads": "no", "silver_streaks": "no"},
+      "about": "Bacteria enter through wet leaves and wounds. They cause dark, water-soaked spots, often with a yellow halo, that can spread quickly in warm, humid conditions and may smell bad.",
+      "steps": [
+        "Isolate the plant from other plants right away.",
+        "Cut off infected leaves with scissors wiped with alcohol after every cut.",
+        "Water only at the soil, never on the leaves, and keep the leaves dry.",
+        "Improve airflow around the plant.",
+        "Throw away (do not compost) the removed leaves."
+      ],
+      "avoid": ["Do not mist or wash the leaves while the infection is active.", "Do not use a fungicide. Bacteria are not killed by fungicides."],
+      "prevent": ["Water at the base of the plant, and avoid crowding plants."],
+      "expert_check": "Bacterial and fungal spots look similar. An expert should confirm, and advise on copper-based sprays if needed.",
+      "sources": ["PLSRC007"]
+    },
+    "bacterial_soft_rot": {
+      "name": "Bacterial Soft Rot (Pectobacterium / Erwinia)",
+      "category": "Bacterial disease",
+      "severity": "high",
+      "confirm": {"smell": "yes", "mushy_tissue": "yes"},
+      "support": {"stem_base": "no", "leaf_feel": "soft", "progress": "fast", "soil_wet_days": "yes", "water_freq": ["often", "normal"], "white_threads": "no"},
+      "about": "Bacteria break down plant tissue in wet, warm conditions. The base or leaves turn soft, mushy and translucent, and there is a strong, foul smell. It spreads quickly and is often fatal to that part of the plant.",
+      "steps": [
+        "Isolate the plant immediately.",
+        "Remove the plant from the pot and cut away ALL soft, smelly tissue with a clean, sterilised knife.",
+        "Let the cut surfaces dry and callus for a few days (succulents: up to a week).",
+        "Replant only the healthy part in fresh, dry, well-draining mix and a clean pot.",
+        "If the rot reached the whole base, save healthy leaves or offsets as cuttings."
+      ],
+      "avoid": ["Do not water until the cuts have dried.", "Do not reuse the old soil or pot without washing it."],
+      "prevent": ["Avoid overwatering, and never let water sit in the rosette or at the base."],
+      "expert_check": "Have an expert confirm before cutting a large plant. They can tell soft rot from cold damage or fungal rot.",
+      "sources": ["PLSRC007"]
+    },
+    "fungal_leaf_spot": {
+      "name": "Fungal Leaf Spot / Anthracnose",
+      "category": "Fungal disease",
+      "severity": "medium",
+      "confirm": {"wet_leaves": "yes"},
+      "support": {"still_air": "yes", "temp": ["normal", "hot"], "paper_test": "no", "sticky": "no", "bumps_scrape": "no", "galls": "no", "white_threads": "no"},
+      "about": "Fungi such as Colletotrichum or Cercospora cause dry brown or tan spots with darker edges or rings, sometimes with a yellow halo. They spread slowly on wet leaves in humid, still air.",
+      "steps": [
+        "Remove the spotted leaves with clean scissors and throw them away.",
+        "Keep the leaves dry: water at the soil, not over the plant.",
+        "Increase airflow and space between plants.",
+        "If spots keep spreading, an expert may recommend a houseplant fungicide."
+      ],
+      "avoid": ["Do not spray fungicide before an expert confirms it is fungal."],
+      "prevent": ["Water in the morning at soil level, and keep good air circulation."],
+      "expert_check": "Confirm fungal versus bacterial spots (a lab or experienced grower can tell) before any spray.",
+      "sources": ["PLSRC007"]
+    },
+    "red_leaf_spot": {
+      "name": "Red Leaf Spot (Fusarium Leaf Spot)",
+      "category": "Fungal disease",
+      "severity": "medium",
+      "confirm": {"wet_leaves": "yes"},
+      "support": {"paper_test": "no", "sticky": "no", "bumps_scrape": "no", "galls": "no", "white_threads": "no", "silver_streaks": "no"},
+      "about": "A fungal disease of snake plants. It causes reddish-brown spots with tan centres and sometimes a yellow border, usually when leaves stay wet.",
+      "steps": [
+        "Remove badly spotted leaves with clean tools.",
+        "Keep water off the leaves and out of the leaf rosette.",
+        "Improve airflow and let the soil dry between waterings.",
+        "If it spreads, ask an expert about a suitable fungicide."
+      ],
+      "avoid": ["Do not mist the plant."],
+      "prevent": ["Water at soil level and keep leaves dry."],
+      "expert_check": "An expert should confirm the fungus before using any fungicide.",
+      "sources": ["PLSRC002", "PLSRC007"]
+    },
+    "southern_blight": {
+      "name": "Southern Blight (Sclerotium rolfsii)",
+      "category": "Fungal disease",
+      "severity": "high",
+      "confirm": {"white_threads": "yes", "base_collapse": "yes"},
+      "support": {"soil_wet_days": "yes", "temp": ["normal", "hot"], "stem_base": "no", "leaf_feel": "soft", "fall_off": "yes", "new_growth": ["poor", "none"]},
+      "about": "A soil fungus that attacks the plant at the soil line in warm, wet conditions. White cottony threads and small tan 'mustard seed' balls (sclerotia) appear at the base, and leaves collapse.",
+      "steps": [
+        "Isolate the plant immediately.",
+        "Remove and throw away all affected leaves and the top layer of soil with the white threads and seed-like balls.",
+        "Repot healthy parts in fresh, sterile mix and a clean pot.",
+        "Disinfect tools and the old pot (for example with diluted bleach)."
+      ],
+      "avoid": ["Do not reuse the old soil anywhere, including in the garden."],
+      "prevent": ["Avoid overwatering in hot weather, and use fresh sterile potting mix."],
+      "expert_check": "An expert should confirm, since this fungus spreads easily to other plants.",
+      "sources": ["PLSRC002", "PLSRC007"]
+    },
+    "edema": {
+      "name": "Oedema (Edema)",
+      "category": "Physiological",
+      "severity": "low",
+      "confirm": {"bumps_scrape": "no"},
+      "support": {"soil_wet_days": "yes", "temp": ["cold", "normal"], "still_air": "yes", "paper_test": "no", "sticky": "no", "smear": "no"},
+      "about": "When roots take up water faster than leaves can release it (wet soil, cool and humid air), leaf cells burst and form small raised corky bumps, mostly under the leaves. It is not an infection.",
+      "steps": [
+        "Water less and only when the top of the soil is dry.",
+        "Increase light and airflow.",
+        "Leave the affected leaves. The bumps will not disappear, but new leaves will be normal."
+      ],
+      "avoid": ["Do not spray pesticides or fungicides. It is not a pest or disease."],
+      "prevent": ["Avoid watering on cool, cloudy days, and keep good airflow."],
+      "expert_check": "Confirm the bumps are not scale insects (scale bumps scrape off, oedema does not).",
+      "sources": ["PLSRC007"]
+    },
+    "physical_damage": {
+      "name": "Physical / Mechanical Damage",
+      "category": "Physiological",
+      "severity": "low",
+      "confirm": {"knocked": "yes"},
+      "support": {"progress": "stable", "spread_fast": "no", "paper_test": "no", "sticky": "no", "bumps_scrape": "no", "smell": "no", "galls": "no"},
+      "about": "Bumps, bending, pets, or moving the pot can crease, scar or brown leaves. The damage stays in one place and does not spread.",
+      "steps": [
+        "Leave the damaged leaf unless it looks bad. Brown scars do not heal, but they are harmless.",
+        "Trim or remove badly creased leaves at the base with clean scissors.",
+        "Place the plant where it will not be knocked."
+      ],
+      "avoid": ["Do not treat with chemicals. There is no disease."],
+      "prevent": ["Keep the plant out of walkways and away from pets."],
+      "expert_check": "Confirm the damaged areas are dry and not spreading.",
+      "sources": ["PLSRC002"]
+    },
+    "spider_mites": {
+      "name": "Spider Mites",
+      "category": "Pest",
+      "severity": "medium",
+      "confirm": {"paper_test": "yes"},
+      "support": {"sticky": "no", "ants": "no", "dry_air": "yes", "temp": ["normal", "hot"], "smear": "no", "bumps_scrape": "no"},
+      "about": "Tiny mites suck sap from leaves, leaving fine pale speckles and later fine webbing. They multiply fast in hot, dry air.",
+      "steps": [
+        "Isolate the plant.",
+        "Rinse the leaves (especially the undersides) with a strong spray of water in a shower or sink.",
+        "Spray with insecticidal soap or neem oil (about 5 ml neem oil plus 2-3 drops of mild liquid soap per litre of water), covering the undersides.",
+        "Repeat every 5-7 days for 3-4 weeks to kill newly hatched mites.",
+        "Raise humidity around the plant."
+      ],
+      "avoid": ["Do not spray in direct sun or heat (leaves can burn).", "Test spray on one leaf first."],
+      "prevent": ["Check undersides of leaves regularly, and avoid very dry air."],
+      "expert_check": "Confirm mites with a magnifying glass (tap a leaf over white paper and look for moving dots).",
+      "sources": ["PLSRC007"]
+    },
+    "mealybugs": {
+      "name": "Mealybugs",
+      "category": "Pest",
+      "severity": "medium",
+      "confirm": {"smear": "yes"},
+      "support": {"sticky": "yes", "bumps_scrape": "no", "paper_test": "no", "silver_streaks": "no", "galls": "no", "white_threads": "no"},
+      "about": "Small soft insects covered in white cottony wax. They hide in leaf joints and under leaves, suck sap and leave sticky honeydew.",
+      "steps": [
+        "Isolate the plant.",
+        "Dab each visible mealybug with a cotton bud dipped in rubbing alcohol (70%).",
+        "Then spray the whole plant with insecticidal soap or neem oil, including leaf joints.",
+        "Repeat every 7 days for at least 4 weeks, and check the roots and soil surface too."
+      ],
+      "avoid": ["Do not put the plant back with others until no bugs are seen for several weeks."],
+      "prevent": ["Inspect new plants before bringing them home."],
+      "expert_check": "Confirm the white clumps are insects (they move or leave a smear when pressed), not mould.",
+      "sources": ["PLSRC007"]
+    },
+    "scale_insects": {
+      "name": "Scale Insects",
+      "category": "Pest",
+      "severity": "medium",
+      "confirm": {"bumps_scrape": "yes"},
+      "support": {"sticky": "yes", "smear": "no", "paper_test": "no", "silver_streaks": "no", "white_threads": "no", "galls": "no"},
+      "about": "Insects that hide under small brown or tan shell-like bumps on stems and leaf veins. They suck sap and leave sticky honeydew, which can grow black sooty mould. They are easy to miss because they do not move.",
+      "steps": [
+        "Isolate the plant.",
+        "Scrape the bumps off gently with a fingernail or soft toothbrush, or wipe them with a cotton bud dipped in alcohol.",
+        "Spray with horticultural oil or neem oil, covering stems and both sides of leaves.",
+        "Repeat every 7-10 days for 4-6 weeks."
+      ],
+      "avoid": ["Do not use oil sprays in strong sun or high heat."],
+      "prevent": ["Check stems and undersides of leaves regularly, and quarantine new plants."],
+      "expert_check": "Confirm the bumps scrape off (scale) and are not part of the plant or oedema.",
+      "sources": ["PLSRC007"]
+    },
+    "fungus_gnats": {
+      "name": "Fungus Gnats",
+      "category": "Pest",
+      "severity": "low",
+      "confirm": {"soil_wet_days": "yes"},
+      "support": {"smear": "no", "bumps_scrape": "no", "paper_test": "no", "sticky": "no", "silver_streaks": "no", "water_freq": ["often", "normal"]},
+      "about": "Small black flies that breed in constantly moist soil. The adults are mostly a nuisance, but their larvae can damage fine roots. They are a sign the soil stays too wet.",
+      "steps": [
+        "Let the top 2-3 cm of soil dry out between waterings. This breaks the breeding cycle.",
+        "Place yellow sticky traps at soil level to catch adults.",
+        "For heavy infestations, water with a Bti (Bacillus thuringiensis israelensis) product, available as mosquito dunks.",
+        "Remove decaying leaves from the soil surface."
+      ],
+      "avoid": ["Do not keep the soil constantly wet."],
+      "prevent": ["Water only when the topsoil is dry, and use fresh potting mix."],
+      "expert_check": "Check whether the roots are also rotting, since gnats often come with overwatering.",
+      "sources": ["PLSRC007"]
+    },
+    "thrips": {
+      "name": "Thrips",
+      "category": "Pest",
+      "severity": "medium",
+      "confirm": {"silver_streaks": "yes"},
+      "support": {"paper_test": "no", "smear": "no", "bumps_scrape": "no", "sticky": "no", "white_threads": "no", "galls": "no"},
+      "about": "Very small, slender insects that scrape leaf surfaces, leaving silvery streaks, small black dots and distorted new growth.",
+      "steps": [
+        "Isolate the plant.",
+        "Rinse leaves with water, then spray with insecticidal soap or neem oil.",
+        "Use blue or yellow sticky traps to monitor and catch adults.",
+        "Repeat sprays every 5-7 days for 4 weeks."
+      ],
+      "avoid": ["Do not stop treatment early. Eggs hatch over several weeks."],
+      "prevent": ["Quarantine new plants and inspect regularly."],
+      "expert_check": "Confirm with a magnifying glass. Thrips are tiny and easy to confuse with dirt.",
+      "sources": ["PLSRC007"]
+    },
+    "aphids": {
+      "name": "Aphids",
+      "category": "Pest",
+      "severity": "low",
+      "confirm": {"sticky": "yes"},
+      "support": {"leaves_where": "new", "bumps_scrape": "no", "paper_test": "no", "silver_streaks": "no", "white_threads": "no", "galls": "no"},
+      "about": "Small soft-bodied green, black or grey insects that cluster on new growth and flower stalks, suck sap and leave sticky honeydew.",
+      "steps": [
+        "Wipe or rinse the aphids off with water.",
+        "Spray with insecticidal soap or neem oil, especially on new growth.",
+        "Repeat every 5-7 days until none are seen."
+      ],
+      "avoid": ["Avoid strong chemical insecticides indoors."],
+      "prevent": ["Avoid over-feeding with nitrogen. Soft new growth attracts aphids."],
+      "expert_check": "Usually easy to confirm by looking.",
+      "sources": ["PLSRC007"]
+    },
+    "whiteflies": {
+      "name": "Whiteflies",
+      "category": "Pest",
+      "severity": "medium",
+      "confirm": {"sticky": "yes"},
+      "support": {"paper_test": "no", "smear": "no", "bumps_scrape": "no", "silver_streaks": "no", "white_threads": "no", "galls": "no"},
+      "about": "Tiny white moth-like insects that fly up when the plant is touched. They live under leaves, suck sap and leave sticky honeydew.",
+      "steps": [
+        "Isolate the plant.",
+        "Hang yellow sticky traps near the plant.",
+        "Spray the undersides of leaves with insecticidal soap or neem oil every 5-7 days for 4 weeks.",
+        "Vacuum adults gently off the leaves if many are present."
+      ],
+      "avoid": ["Do not spray in direct sun."],
+      "prevent": ["Inspect new plants and the undersides of leaves."],
+      "expert_check": "Confirm by looking under the leaves for white insects and eggs.",
+      "sources": ["PLSRC007"]
+    },
+    "sooty_mold": {
+      "name": "Sooty Mould",
+      "category": "Fungal disease",
+      "severity": "low",
+      "confirm": {"sticky": "yes"},
+      "support": {"spread_fast": "no", "progress": ["slow", "stable"], "leaf_feel": "firm", "galls": "no", "white_threads": "no", "knocked": "no"},
+      "about": "A black fungus that grows on sticky honeydew left by sap-sucking insects (scale, mealybugs, aphids, whiteflies). It blocks light, but the real problem is the insects.",
+      "steps": [
+        "Find and treat the insects first (check stems and undersides for scale, mealybugs or aphids).",
+        "Wipe the black film off with a soft cloth and mild soapy water.",
+        "Rinse the leaves afterwards."
+      ],
+      "avoid": ["Do not just wipe the mould. It returns if the insects remain."],
+      "prevent": ["Control sap-sucking insects early."],
+      "expert_check": "Ask an expert to help find the hidden insect causing the honeydew.",
+      "sources": ["PLSRC007"]
+    },
+    "aloe_rust": {
+      "name": "Aloe Rust",
+      "category": "Fungal disease",
+      "severity": "medium",
+      "confirm": {"wet_leaves": "yes"},
+      "support": {"paper_test": "no", "sticky": "no", "galls": "no", "white_threads": "no", "silver_streaks": "no", "smear": "no"},
+      "about": "A fungal disease that forms raised orange-brown to black round spots on aloe leaves, encouraged by wet leaves and humidity.",
+      "steps": [
+        "Isolate the plant.",
+        "Remove badly affected leaves with a clean knife.",
+        "Keep leaves dry and water only at the soil.",
+        "Give more light and airflow."
+      ],
+      "avoid": ["Do not water over the leaves."],
+      "prevent": ["Keep aloe in bright light and dry conditions."],
+      "expert_check": "An expert should confirm rust before any fungicide is used.",
+      "sources": ["PLSRC003", "PLSRC007"]
+    },
+    "aloe_mite": {
+      "name": "Aloe Mite (Gall Mite)",
+      "category": "Pest",
+      "severity": "high",
+      "confirm": {"galls": "yes"},
+      "support": {"paper_test": "no", "sticky": "no", "smear": "no", "bumps_scrape": "no", "white_threads": "no", "silver_streaks": "no"},
+      "about": "Microscopic mites cause swollen, warty, deformed growths (galls) on aloe leaves and flower stalks. They cannot be seen with the naked eye and spread to other aloes.",
+      "steps": [
+        "Isolate the plant from other aloes and succulents immediately.",
+        "Cut out the galls well into healthy tissue with a sterile knife.",
+        "Let the cuts dry. Heavily infected plants are often best discarded.",
+        "Sterilise tools after each cut."
+      ],
+      "avoid": ["Do not take cuttings or offsets from infected plants."],
+      "prevent": ["Inspect new succulents and keep infected plants away from others."],
+      "expert_check": "Confirm with an expert or a strong magnifier before cutting or discarding the plant.",
+      "sources": ["PLSRC003"]
+    },
+    "dormancy": {
+      "name": "Seasonal Slow Growth (Winter Rest)",
+      "category": "Normal",
+      "severity": "low",
+      "confirm": {"season": "yes", "looks_healthy": "yes"},
+      "support": {"progress": "stable", "stem_base": "yes", "smell": "no", "leaf_feel": "firm", "sticky": "no", "new_growth": ["none", "healthy"]},
+      "about": "Most houseplants grow very slowly in winter because of shorter days and cooler temperatures. A healthy-looking plant with no new growth in winter is normal.",
+      "steps": [
+        "Water less often. The soil dries more slowly in winter.",
+        "Stop fertilizing until spring.",
+        "Give as much bright, indirect light as possible.",
+        "Expect new growth to start again in spring."
+      ],
+      "avoid": ["Do not fertilize or repot to force winter growth."],
+      "prevent": ["Nothing needed. This is a natural cycle."],
+      "expert_check": "Check that the roots are healthy if the plant also shows yellow or soft leaves.",
+      "sources": ["PLSRC006"]
+    },
+    "immature_plant": {
+      "name": "Plant Too Young",
+      "category": "Normal",
+      "severity": "low",
+      "confirm": {"plant_age": "young", "looks_healthy": "yes"},
+      "support": {"new_growth": "healthy", "stem_base": "yes", "smell": "no", "leaf_feel": "firm", "sticky": "no", "progress": ["slow", "stable"]},
+      "about": "Young plants put their energy into leaves and roots first. Peace lilies usually flower, and spider plants usually produce babies, only once they are mature.",
+      "steps": [
+        "Give bright, indirect light and normal care.",
+        "Feed lightly in spring and summer.",
+        "Be patient. Flowers or babies usually appear once the plant is about a year old and well rooted."
+      ],
+      "avoid": ["Do not over-fertilize to force flowers."],
+      "prevent": ["Nothing needed."],
+      "expert_check": "A nursery can tell you the age of the plant if you are unsure.",
+      "sources": ["PLSRC004", "PLSRC005"]
+    },
+    "excess_nitrogen": {
+      "name": "Too Much Fertilizer (Leaves Instead of Flowers / Babies)",
+      "category": "Nutrition",
+      "severity": "low",
+      "confirm": {"fertilizer": "heavy"},
+      "support": {"new_growth": "healthy", "leaf_feel": "firm", "stem_base": "yes", "smell": "no", "sticky": "no", "progress": "stable"},
+      "about": "Frequent or strong feeding, especially with high-nitrogen fertilizer, pushes leafy growth and holds back flowers or spider plant babies.",
+      "steps": [
+        "Stop fertilizing for 2-3 months.",
+        "Flush the soil once with plenty of water.",
+        "Later, feed only lightly in spring / summer. For flowering, pick a fertilizer that is not high in nitrogen."
+      ],
+      "avoid": ["Do not keep feeding to 'push' flowers."],
+      "prevent": ["Use half-strength fertilizer every 4-6 weeks in the growing season only."],
+      "expert_check": "Confirm light is adequate. Low light is the most common reason for no flowers.",
+      "sources": ["PLSRC004", "PLSRC005"]
+    },
+    "night_light_disruption": {
+      "name": "Light at Night (Short-Day Cycle Disrupted)",
+      "category": "Light",
+      "severity": "low",
+      "confirm": {"night_light": "yes"},
+      "support": {"looks_healthy": "yes", "new_growth": "healthy", "leaf_feel": "firm", "stem_base": "yes", "smell": "no", "sticky": "no"},
+      "about": "Spider plants form runners and babies when nights are long. Room lights kept on for most of the night can stop the plant from producing babies.",
+      "steps": [
+        "Move the plant to a room that stays dark at night, or switch the lights off.",
+        "Give about 12-14 hours of darkness per night for around 3 weeks.",
+        "Keep bright, indirect light during the day."
+      ],
+      "avoid": ["Do not keep a lamp on the plant at night."],
+      "prevent": ["Keep a natural day/night cycle."],
+      "expert_check": "Confirm the plant is mature and slightly pot-bound, which also encourages babies.",
+      "sources": ["PLSRC004"]
+    },
+    "natural_flower_aging": {
+      "name": "Natural Flower Aging",
+      "category": "Normal",
+      "severity": "low",
+      "confirm": {"flower_old": "yes"},
+      "support": {"looks_healthy": "yes", "new_growth": "healthy", "leaf_feel": "firm", "stem_base": "yes", "smell": "no", "progress": ["slow", "stable"]},
+      "about": "Peace lily 'flowers' (white spathes) naturally turn green and then brown as they age, after several weeks. It is not a disease.",
+      "steps": [
+        "Cut the old flower stalk off at the base once it turns green-brown.",
+        "Continue normal care. New flowers will come with good light."
+      ],
+      "avoid": ["Do not treat aging flowers with chemicals."],
+      "prevent": ["Nothing needed. This is the natural flower life cycle."],
+      "expert_check": "No expert check needed unless the leaves are also affected.",
+      "sources": ["PLSRC005"]
+    }
+  }
+}

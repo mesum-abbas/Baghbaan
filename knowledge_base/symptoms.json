@@ -1,66 +1,16 @@
 {
-    "symptoms": [
-        "yellow_leaves",
-        "wilting_drooping",
-        "brown_leaf_tips",
-        "leaf_spots_or_visible_pests",
-        "slow_growth"
-    ],
-    "coverage": [
-        {
-            "plant_id": "PLANT001",
-            "plant_name": "Money Plant",
-            "symptom_research": {
-                "yellow_leaves": "pending",
-                "wilting_drooping": "pending",
-                "brown_leaf_tips": "pending",
-                "leaf_spots_or_visible_pests": "pending",
-                "slow_growth": "pending"
-            }
-        },
-        {
-            "plant_id": "PLANT002",
-            "plant_name": "Snake Plant",
-            "symptom_research": {
-                "yellow_leaves": "pending",
-                "wilting_drooping": "pending",
-                "brown_leaf_tips": "pending",
-                "leaf_spots_or_visible_pests": "pending",
-                "slow_growth": "pending"
-            }
-        },
-        {
-            "plant_id": "PLANT003",
-            "plant_name": "Aloe Vera",
-            "symptom_research": {
-                "yellow_leaves": "pending",
-                "wilting_drooping": "pending",
-                "brown_leaf_tips": "pending",
-                "leaf_spots_or_visible_pests": "pending",
-                "slow_growth": "pending"
-            }
-        },
-        {
-            "plant_id": "PLANT004",
-            "plant_name": "Spider Plant",
-            "symptom_research": {
-                "yellow_leaves": "pending",
-                "wilting_drooping": "pending",
-                "brown_leaf_tips": "pending",
-                "leaf_spots_or_visible_pests": "pending",
-                "slow_growth": "pending"
-            }
-        },
-        {
-            "plant_id": "PLANT005",
-            "plant_name": "Peace Lily",
-            "symptom_research": {
-                "yellow_leaves": "pending",
-                "wilting_drooping": "pending",
-                "brown_leaf_tips": "pending",
-                "leaf_spots_or_visible_pests": "pending",
-                "slow_growth": "pending"
-            }
-        }
-    ]
+  "symptoms": [
+    {"id": "yellow_leaves", "name": "Yellow leaves", "name_ur": "Peeli pattiyan", "description": "Leaves turning pale or yellow.", "icon": "🍂"},
+    {"id": "brown_tips", "name": "Brown tips or edges", "name_ur": "Bhoore kinaray", "description": "Leaf tips, edges or patches turning brown and dry.", "icon": "🟤"},
+    {"id": "drooping", "name": "Drooping / wilting", "name_ur": "Murjhai hui pattiyan", "description": "Leaves and stems hanging limp.", "icon": "🥀"},
+    {"id": "leaf_spots", "name": "Spots or patches on leaves", "name_ur": "Pattiyon par dhabbe", "description": "Spots, rings, speckles or patches on the leaves.", "icon": "🔴"},
+    {"id": "pests", "name": "Insects, webbing or sticky leaves", "name_ur": "Keeray ya chipchipi pattiyan", "description": "Visible insects, webbing, flies or sticky residue.", "icon": "🐛"},
+    {"id": "slow_growth", "name": "Slow, leggy or weak growth", "name_ur": "Kamzor ya ruki hui growth", "description": "Little new growth, small leaves or long bare stems.", "icon": "🌱"},
+    {"id": "soft_rot", "name": "Soft, mushy or rotting base", "name_ur": "Narm ya sadta hua hissa", "description": "Base or leaves becoming soft, mushy or translucent.", "icon": "💧"},
+    {"id": "wrinkled_leaves", "name": "Thin, wrinkled or curling leaves", "name_ur": "Patli ya jhurriyon wali pattiyan", "description": "Succulent leaves losing plumpness, wrinkling or curling inward.", "icon": "〰️"},
+    {"id": "leaf_bending", "name": "Leaves bending or falling over", "name_ur": "Pattiyan jhuk ya gir rahi hain", "description": "Upright leaves flopping, bending or spreading flat.", "icon": "↘️"},
+    {"id": "color_change", "name": "Leaves turning red, orange or brown", "name_ur": "Pattiyon ka rang laal ya bhoora", "description": "Leaves changing colour from green to red, orange or brown.", "icon": "🎨"},
+    {"id": "flower_problems", "name": "Flower problems", "name_ur": "Phoolon ka masla", "description": "No flowers, or flowers turning green or brown.", "icon": "🌸"},
+    {"id": "no_babies", "name": "No babies / runners", "name_ur": "Bachay (plantlets) nahi nikal rahe", "description": "The plant does not produce runners or baby plantlets.", "icon": "🌿"}
+  ]
 }

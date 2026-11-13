@@ -1,0 +1,32 @@
+{
+  "money_plant": {
+    "photo": "Epipremum aureaum a1.JPG",
+    "author": "Jerzy Opioła",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Epipremum_aureaum_a1.JPG"
+  },
+  "snake_plant": {
+    "photo": "Snake Plant (Sansevieria trifasciata 'Laurentii').jpg",
+    "author": "Mokkie",
+    "license": "CC BY-SA 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Snake_Plant_%28Sansevieria_trifasciata_%27Laurentii%27%29.jpg"
+  },
+  "aloe_vera": {
+    "photo": "A potted aloe vera plant.jpg",
+    "author": "Lionsleeps23",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:A_potted_aloe_vera_plant.jpg"
+  },
+  "spider_plant": {
+    "photo": "Hierbabuena 0611 Revised.jpg",
+    "author": "Dtarazona (derivative work: Hierbabuena)",
+    "license": "Public domain",
+    "source": "https://commons.wikimedia.org/wiki/File:Hierbabuena_0611_Revised.jpg"
+  },
+  "peace_lily": {
+    "photo": "Peace lily.jpg",
+    "author": "Emna Mizouni",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Peace_lily.jpg"
+  }
+}

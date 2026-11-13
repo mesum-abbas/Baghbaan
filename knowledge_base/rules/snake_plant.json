@@ -1,0 +1,54 @@
+{
+  "plant_id": "snake_plant",
+  "rules": [
+    {"id": "SP01", "symptom": "yellow_leaves", "if": {"soil": "wet", "smell": "yes"}, "then": "root_rot", "note": "Check the rhizome (thick underground stem) too. Cut away any soft parts."},
+    {"id": "SP02", "symptom": "yellow_leaves", "if": {"soil": "wet", "smell": "no", "drainage": "no"}, "then": "poor_drainage"},
+    {"id": "SP03", "symptom": "yellow_leaves", "if": {"soil": "wet", "smell": "no", "drainage": "yes"}, "then": "overwatering", "note": "Overwatering is the most common cause of snake plant problems. Let the soil dry completely between waterings."},
+    {"id": "SP04", "symptom": "yellow_leaves", "if": {"soil": ["moist", "dry"], "light": "low"}, "then": "low_light"},
+    {"id": "SP05", "symptom": "yellow_leaves", "if": {"soil": ["moist", "dry"], "light": "direct"}, "then": "sunburn"},
+    {"id": "SP06", "symptom": "yellow_leaves", "if": {"soil": ["moist", "dry"], "light": "bright", "fertilizer": "never"}, "then": "nitrogen_deficiency"},
+    {"id": "SP07", "symptom": "yellow_leaves", "if": {"soil": ["moist", "dry"], "light": "bright", "fertilizer": ["normal", "heavy"], "cold": "yes"}, "then": "cold_damage"},
+
+    {"id": "SP08", "symptom": "soft_rot", "if": {"white_threads": "yes"}, "then": "southern_blight"},
+    {"id": "SP09", "symptom": "soft_rot", "if": {"white_threads": "no", "smell": "yes"}, "then": "bacterial_soft_rot"},
+    {"id": "SP10", "symptom": "soft_rot", "if": {"white_threads": "no", "smell": "no", "cold": "yes"}, "then": "cold_damage"},
+    {"id": "SP11", "symptom": "soft_rot", "if": {"white_threads": "no", "smell": "no", "cold": "no", "soil": "wet"}, "then": "root_rot", "note": "This looks like early rot. Check the rhizome and roots, and cut away any soft parts."},
+
+    {"id": "SP12", "symptom": "brown_tips", "if": {"tip_type": "tips", "soil": "dry"}, "then": "underwatering"},
+    {"id": "SP13", "symptom": "brown_tips", "if": {"tip_type": "tips", "soil": "wet"}, "then": "overwatering"},
+    {"id": "SP14", "symptom": "brown_tips", "if": {"tip_type": "tips", "soil": "moist", "crust": "yes"}, "then": "fertilizer_burn"},
+    {"id": "SP15", "symptom": "brown_tips", "if": {"tip_type": "tips", "soil": "moist", "crust": "no", "water_type": "tap"}, "then": "fluoride_toxicity"},
+    {"id": "SP16", "symptom": "brown_tips", "if": {"tip_type": ["edges", "patches"], "cold": "yes"}, "then": "cold_damage"},
+    {"id": "SP17", "symptom": "brown_tips", "if": {"tip_type": ["edges", "patches"], "cold": "no", "light": "direct"}, "then": "sunburn"},
+    {"id": "SP18", "symptom": "brown_tips", "if": {"tip_type": "patches", "cold": "no", "light": ["bright", "low"]}, "then": "physical_damage"},
+
+    {"id": "SP19", "symptom": "leaf_bending", "if": {"leaf_bend": "base", "soil": "wet"}, "then": "root_rot", "note": "Leaves falling over from a soft base is a classic sign of rhizome rot in snake plants."},
+    {"id": "SP20", "symptom": "leaf_bending", "if": {"leaf_bend": "base", "soil": "dry"}, "then": "underwatering"},
+    {"id": "SP21", "symptom": "leaf_bending", "if": {"leaf_bend": "middle", "light": "low"}, "then": "etiolation", "note": "In low light, snake plant leaves grow thin and weak and bend under their own weight."},
+    {"id": "SP22", "symptom": "leaf_bending", "if": {"leaf_bend": "middle", "light": ["bright", "direct"]}, "then": "physical_damage"},
+
+    {"id": "SP23", "symptom": "wrinkled_leaves", "if": {"soil": "dry"}, "then": "underwatering"},
+    {"id": "SP24", "symptom": "wrinkled_leaves", "if": {"soil": "wet", "smell": "yes"}, "then": "root_rot", "note": "Damaged roots cannot take up water, so leaves wrinkle even though the soil is wet."},
+    {"id": "SP25", "symptom": "wrinkled_leaves", "if": {"soil": "wet", "smell": "no"}, "then": "overwatering"},
+    {"id": "SP26", "symptom": "wrinkled_leaves", "if": {"soil": "moist", "cold": "yes"}, "then": "cold_damage"},
+
+    {"id": "SP27", "symptom": "leaf_spots", "if": {"spot_look": "red"}, "then": "red_leaf_spot"},
+    {"id": "SP28", "symptom": "leaf_spots", "if": {"spot_look": "dry_ring"}, "then": "fungal_leaf_spot"},
+    {"id": "SP29", "symptom": "leaf_spots", "if": {"spot_look": "wet"}, "then": "bacterial_leaf_spot"},
+    {"id": "SP30", "symptom": "leaf_spots", "if": {"spot_look": "bleached"}, "then": "sunburn"},
+    {"id": "SP31", "symptom": "leaf_spots", "if": {"spot_look": "stipple"}, "then": "spider_mites"},
+
+    {"id": "SP32", "symptom": "pests", "if": {"pests_seen": "cotton"}, "then": "mealybugs", "note": "Check deep inside the leaf rosette, where mealybugs like to hide."},
+    {"id": "SP33", "symptom": "pests", "if": {"pests_seen": "webbing"}, "then": "spider_mites"},
+    {"id": "SP34", "symptom": "pests", "if": {"pests_seen": "bumps"}, "then": "scale_insects"},
+    {"id": "SP35", "symptom": "pests", "if": {"pests_seen": "flies"}, "then": "fungus_gnats", "note": "Gnats in a snake plant pot almost always mean the soil is kept too wet."},
+    {"id": "SP36", "symptom": "pests", "if": {"pests_seen": "thrips"}, "then": "thrips"},
+    {"id": "SP37", "symptom": "pests", "if": {"pests_seen": "none", "sticky": "yes"}, "then": "scale_insects", "note": "Sticky leaves with no visible insects usually mean scale hiding on the leaves."},
+
+    {"id": "SP38", "symptom": "slow_growth", "if": {"growth": "leggy"}, "then": "etiolation"},
+    {"id": "SP39", "symptom": "slow_growth", "if": {"growth": "stalled", "season": "yes"}, "then": "dormancy", "note": "Snake plants are naturally slow growers, especially in winter."},
+    {"id": "SP40", "symptom": "slow_growth", "if": {"growth": "stalled", "season": "no", "light": "low"}, "then": "low_light"},
+    {"id": "SP41", "symptom": "slow_growth", "if": {"growth": "stalled", "season": "no", "light": ["bright", "direct"], "repot_age": "long"}, "then": "root_bound", "note": "Snake plants can crack plastic pots when they are badly root-bound."},
+    {"id": "SP42", "symptom": "slow_growth", "if": {"growth": "stalled", "season": "no", "light": ["bright", "direct"], "repot_age": "recent", "fertilizer": "never"}, "then": "nutrient_deficiency"}
+  ]
+}
